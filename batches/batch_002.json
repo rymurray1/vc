@@ -61,8 +61,16 @@
   },
   "Affirm Holdings, Inc.": {
     "url": "https://affirm.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Max Levchin",
+        "linkedin": "linkedin.com/in/maxlevchin"
+      }
+    ],
+    "ceo": {
+      "name": "Max Levchin",
+      "linkedin": "linkedin.com/in/maxlevchin"
+    }
   },
   "AffirmMax": {
     "url": "",
@@ -166,28 +174,68 @@
   },
   "Airbyte": {
     "url": "https://airbyte.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michel Tricot",
+        "linkedin": "linkedin.com/in/micheltricot"
+      }
+    ],
+    "ceo": {
+      "name": "Michel Tricot",
+      "linkedin": "linkedin.com/in/micheltricot"
+    }
   },
   "Aircall": {
     "url": "https://aircall.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Olivier Pailhes",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Scott Chancellor",
+      "linkedin": "linkedin.com/in/scottchancellor"
+    }
   },
   "Airkit": {
     "url": "https://airkit.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Stephen Ehikian",
+        "linkedin": "linkedin.com/in/sehikian"
+      }
+    ],
+    "ceo": {
+      "name": "Stephen Ehikian",
+      "linkedin": "linkedin.com/in/sehikian"
+    }
   },
   "Airplane": {
     "url": "https://airplane.dev",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ravi Parikh",
+        "linkedin": "linkedin.com/in/raviparikh2"
+      }
+    ],
+    "ceo": {
+      "name": "Ravi Parikh",
+      "linkedin": "linkedin.com/in/raviparikh2"
+    }
   },
   "Airship": {
     "url": "https://airship.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Scott Kveton",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Brett Caine",
+      "linkedin": "linkedin.com/in/brettcaine"
+    }
   },
   "Airspace Intelligence": {
     "url": "https://airspaceintelligence.com",
@@ -216,8 +264,16 @@
   },
   "Airwallex": {
     "url": "https://airwallex.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jack Zhang",
+        "linkedin": "linkedin.com/in/jack-zhang-05200222"
+      }
+    ],
+    "ceo": {
+      "name": "Jack Zhang",
+      "linkedin": "linkedin.com/in/jack-zhang-05200222"
+    }
   },
   "Airware": {
     "url": "",
@@ -226,13 +282,29 @@
   },
   "Aisera": {
     "url": "https://aisera.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Muddu Sudhakar",
+        "linkedin": "linkedin.com/in/muddusudhakar"
+      }
+    ],
+    "ceo": {
+      "name": "Muddu Sudhakar",
+      "linkedin": "linkedin.com/in/muddusudhakar"
+    }
   },
   "Aiven": {
     "url": "https://aiven.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Oskari Saarenmaa",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Oskari Saarenmaa",
+      "linkedin": ""
+    }
   },
   "Aizon": {
     "url": "https://aizon.ai",
@@ -246,7 +318,15 @@
   },
   "Akamai Technologies, Inc.": {
     "url": "https://akamai.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Tom Leighton",
+        "linkedin": "linkedin.com/in/tleighton"
+      }
+    ],
+    "ceo": {
+      "name": "Tom Leighton",
+      "linkedin": "linkedin.com/in/tleighton"
+    }
   }
 }

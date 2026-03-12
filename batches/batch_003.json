@@ -51,8 +51,16 @@
   },
   "Alibaba": {
     "url": "https://alibaba.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jack Ma",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Daniel Zhang",
+      "linkedin": ""
+    }
   },
   "Alif Semiconductor": {
     "url": "",

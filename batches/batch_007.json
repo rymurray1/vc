@@ -191,13 +191,49 @@
   },
   "Barefoot Networks": {
     "url": "https://barefootnetworks.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Nick McKeown",
+        "linkedin": ""
+      },
+      {
+        "name": "Martin Izzard",
+        "linkedin": ""
+      },
+      {
+        "name": "Pat Bosshart",
+        "linkedin": ""
+      },
+      {
+        "name": "Stefanos Sidiropoulos",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Craig Barratt",
+      "linkedin": ""
+    }
   },
   "Bark": {
     "url": "https://bark.co",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Carly Strife",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Meeker",
+        "linkedin": ""
+      },
+      {
+        "name": "Henrik Werdelin",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Matt Meeker",
+      "linkedin": ""
+    }
   },
   "Basis": {
     "url": "https://basis.com",
@@ -206,8 +242,16 @@
   },
   "Basis Theory": {
     "url": "https://basistheory.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Colin Luce",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Colin Luce",
+      "linkedin": ""
+    }
   },
   "Bastion": {
     "url": "",
@@ -216,8 +260,24 @@
   },
   "Baton": {
     "url": "https://batonmarket.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Chat Joglekar",
+        "linkedin": ""
+      },
+      {
+        "name": "Dylan Gans",
+        "linkedin": ""
+      },
+      {
+        "name": "Jamie Roth",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Chat Joglekar",
+      "linkedin": ""
+    }
   },
   "Battlebound": {
     "url": "",
@@ -226,13 +286,33 @@
   },
   "BaubleBar": {
     "url": "https://baublebar.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Amy Jain",
+        "linkedin": ""
+      },
+      {
+        "name": "Daniella Yacobovsky",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Amy Jain",
+      "linkedin": ""
+    }
   },
   "Bayesian Health": {
     "url": "https://bayesianhealth.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Suchi Saria",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Suchi Saria",
+      "linkedin": ""
+    }
   },
   "Beam": {
     "url": "",
@@ -241,12 +321,32 @@
   },
   "Beam Benefits": {
     "url": "https://beambenefits.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Alex X Frommeyer",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Tolithia Kornweibel",
+      "linkedin": ""
+    }
   },
   "Bear Flag Robotics": {
     "url": "https://bearflagrobotics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Igino Cafiero",
+        "linkedin": ""
+      },
+      {
+        "name": "Aubrey Donnellan",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Igino Cafiero",
+      "linkedin": ""
+    }
   }
 }

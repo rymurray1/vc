@@ -1,38 +1,118 @@
 {
   "Ampersand": {
     "url": "https://withampersand.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Josh Whale",
+        "linkedin": "https://linkedin.com/in/josh-whale"
+      }
+    ],
+    "ceo": {
+      "name": "Josh Whale",
+      "linkedin": "https://linkedin.com/in/josh-whale"
+    }
   },
   "Ampersand Biomedicines": {
     "url": "https://ampersandbio.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Avak Kahvejian",
+        "linkedin": ""
+      },
+      {
+        "name": "Noubar Afeyan",
+        "linkedin": ""
+      },
+      {
+        "name": "Raffi Afeyan",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jason Gardner",
+      "linkedin": ""
+    }
   },
   "Amplify": {
     "url": "https://getamplifylife.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Hanna Wu",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Hanna Wu",
+      "linkedin": ""
+    }
   },
   "AmplifyMD": {
     "url": "https://amplifymd.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Meena Mallipeddi",
+        "linkedin": ""
+      },
+      {
+        "name": "Anand Nathan",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Meena Mallipeddi",
+      "linkedin": ""
+    }
   },
   "Amplitude, Inc.": {
     "url": "https://amplitude.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Spenser Skates",
+        "linkedin": ""
+      },
+      {
+        "name": "Curtis Liu",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Spenser Skates",
+      "linkedin": ""
+    }
   },
   "Amply Energy": {
     "url": "https://amplypower.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Eric Fitz",
+        "linkedin": ""
+      },
+      {
+        "name": "Ed Smith",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Eric Fitz",
+      "linkedin": ""
+    }
   },
   "Anchor": {
     "url": "https://podcasters.spotify.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michael Mignano",
+        "linkedin": ""
+      },
+      {
+        "name": "Nir Zicherman",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Michael Mignano",
+      "linkedin": ""
+    }
   },
   "Ancora Biotech": {
     "url": "",
@@ -61,8 +141,16 @@
   },
   "Anjuna": {
     "url": "https://anjuna.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ayal Yogev",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ayal Yogev",
+      "linkedin": ""
+    }
   },
   "Anki": {
     "url": "",
@@ -81,13 +169,33 @@
   },
   "Anomalo": {
     "url": "https://anomalo.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Elliot Shmukler",
+        "linkedin": ""
+      },
+      {
+        "name": "Jeremy Stanley",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Elliot Shmukler",
+      "linkedin": ""
+    }
   },
   "Anrok": {
     "url": "https://anrok.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michelle Valentine",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Michelle Valentine",
+      "linkedin": ""
+    }
   },
   "Ansel Health": {
     "url": "",
@@ -96,13 +204,33 @@
   },
   "Ansible": {
     "url": "https://ansible.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michael DeHaan",
+        "linkedin": ""
+      },
+      {
+        "name": "Timothy Gerla",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Said Ziouani",
+      "linkedin": ""
+    }
   },
   "Ant Group": {
     "url": "https://antgroup.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jack Ma",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Cyril Han",
+      "linkedin": ""
+    }
   },
   "Antares Therapeutics": {
     "url": "",
@@ -111,23 +239,75 @@
   },
   "Anterior": {
     "url": "https://anterior.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Zahid Mahmood",
+        "linkedin": ""
+      },
+      {
+        "name": "Abdel Mahmoud",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Abdel Mahmoud",
+      "linkedin": ""
+    }
   },
   "Antora Energy": {
     "url": "https://antoraenergy.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Andrew Ponec",
+        "linkedin": ""
+      },
+      {
+        "name": "Justin Briggs",
+        "linkedin": ""
+      },
+      {
+        "name": "David Bierman",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Andrew Ponec",
+      "linkedin": ""
+    }
   },
   "Anvil": {
     "url": "https://useanvil.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Mang-Git Ng",
+        "linkedin": ""
+      },
+      {
+        "name": "Ben Ogle",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Mang-Git Ng",
+      "linkedin": ""
+    }
   },
   "Anvilogic": {
     "url": "https://anvilogic.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Karthik Kannan",
+        "linkedin": ""
+      },
+      {
+        "name": "Deb Banerjee",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Karthik Kannan",
+      "linkedin": ""
+    }
   },
   "AnyRoad": {
     "url": "",
@@ -141,8 +321,20 @@
   },
   "ApartmentList": {
     "url": "https://apartmentlist.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "John Kobs",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Erickson",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Matthew Woods",
+      "linkedin": ""
+    }
   },
   "Apcera": {
     "url": "https://apcera.com",
@@ -151,8 +343,16 @@
   },
   "Apeel": {
     "url": "https://apeel.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "James Rogers",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "James Rogers",
+      "linkedin": ""
+    }
   },
   "Apex": {
     "url": "",
@@ -176,13 +376,41 @@
   },
   "Apiiro": {
     "url": "https://apiiro.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Idan Plotnik",
+        "linkedin": ""
+      },
+      {
+        "name": "Yonatan Eldar",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Idan Plotnik",
+      "linkedin": ""
+    }
   },
   "Apollo": {
     "url": "https://apollographql.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Geoff Schmidt",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt DeBergalis",
+        "linkedin": ""
+      },
+      {
+        "name": "Nick Martin",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Geoff Schmidt",
+      "linkedin": ""
+    }
   },
   "Aporeto": {
     "url": "",
@@ -201,8 +429,20 @@
   },
   "AppZen": {
     "url": "https://appzen.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Anant Kale",
+        "linkedin": ""
+      },
+      {
+        "name": "Kunal Verma",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Anant Kale",
+      "linkedin": ""
+    }
   },
   "Apparate Labs": {
     "url": "",
@@ -211,13 +451,41 @@
   },
   "Appcelerator": {
     "url": "https://appcelerator.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jeff Haynie",
+        "linkedin": ""
+      },
+      {
+        "name": "Nolan Wright",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jeff Haynie",
+      "linkedin": ""
+    }
   },
   "Appdome": {
     "url": "https://appdome.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Avi Yehuda",
+        "linkedin": ""
+      },
+      {
+        "name": "Eitan Bauch",
+        "linkedin": ""
+      },
+      {
+        "name": "Tom Tovar",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Tom Tovar",
+      "linkedin": ""
+    }
   },
   "Appia Bio": {
     "url": "",
@@ -226,18 +494,58 @@
   },
   "Appirio": {
     "url": "https://appirio.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Chris Barbin",
+        "linkedin": ""
+      },
+      {
+        "name": "Narinder Singh",
+        "linkedin": ""
+      },
+      {
+        "name": "Glenn Weinstein",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike O'Brien",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Chris Barbin",
+      "linkedin": ""
+    }
   },
   "Applied Therapeutics": {
     "url": "https://appliedtherapeutics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Shoshana Shendelman",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Shoshana Shendelman",
+      "linkedin": ""
+    }
   },
   "ApplyBoard": {
     "url": "https://applyboard.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Martin Basiri",
+        "linkedin": ""
+      },
+      {
+        "name": "Massi Basiri",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Meti Basiri",
+      "linkedin": ""
+    }
   },
   "ApplyBoard Inc.": {
     "url": "",
@@ -246,7 +554,15 @@
   },
   "Approximate Labs": {
     "url": "https://approximatelabs.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Justin Waugh",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Justin Waugh",
+      "linkedin": ""
+    }
   }
 }
