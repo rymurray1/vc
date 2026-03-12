@@ -71,13 +71,33 @@
   },
   "Ataraxis AI": {
     "url": "https://ataraxis.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jan Witowski",
+        "linkedin": "linkedin.com/in/jan-witowski"
+      },
+      {
+        "name": "Krzysztof Geras",
+        "linkedin": "linkedin.com/in/krzysztof-geras-9809007"
+      }
+    ],
+    "ceo": {
+      "name": "Jan Witowski",
+      "linkedin": "linkedin.com/in/jan-witowski"
+    }
   },
   "Atari": {
     "url": "https://atari.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Nolan Bushnell",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Wade Rosen",
+      "linkedin": "N/A"
+    }
   },
   "Athena": {
     "url": "https://athena.com",
@@ -111,8 +131,20 @@
   },
   "Atom Computing": {
     "url": "https://atom-computing.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ben Bloom",
+        "linkedin": "linkedin.com/in/ben-bloom-8871598"
+      },
+      {
+        "name": "Jonathan King",
+        "linkedin": "linkedin.com/in/kingjonathanp"
+      }
+    ],
+    "ceo": {
+      "name": "Ben Bloom",
+      "linkedin": "linkedin.com/in/ben-bloom-8871598"
+    }
   },
   "Atomic": {
     "url": "https://atomic.financial",
@@ -121,8 +153,16 @@
   },
   "Atomic AI": {
     "url": "https://atomic.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Raphael Townshend",
+        "linkedin": "linkedin.com/in/raphael-townshend-9154962a"
+      }
+    ],
+    "ceo": {
+      "name": "Raphael Townshend",
+      "linkedin": "linkedin.com/in/raphael-townshend-9154962a"
+    }
   },
   "Atomic Alchemy": {
     "url": "https://atomicalchemy.us",
@@ -136,13 +176,33 @@
   },
   "Atomwise": {
     "url": "https://atomwise.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Abraham Heifets",
+        "linkedin": "linkedin.com/in/abrahamheifets"
+      },
+      {
+        "name": "Izhar Wallach",
+        "linkedin": "linkedin.com/in/izhar-wallach-a0403811"
+      }
+    ],
+    "ceo": {
+      "name": "Steve Worland",
+      "linkedin": "N/A"
+    }
   },
   "Atrium": {
     "url": "https://joinatrium.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Justin Kan",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Justin Kan",
+      "linkedin": "N/A"
+    }
   },
   "Attention": {
     "url": "https://attention.com",
@@ -151,13 +211,29 @@
   },
   "Atticus": {
     "url": "https://atticus.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Sam Byker",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Sam Byker",
+      "linkedin": "N/A"
+    }
   },
   "Attivio": {
     "url": "https://attivio.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Andrew McKay",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Stephen Baker",
+      "linkedin": "N/A"
+    }
   },
   "Audience Plus": {
     "url": "",
@@ -176,8 +252,20 @@
   },
   "Augmedix": {
     "url": "https://augmedix.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Pelu Tran",
+        "linkedin": ""
+      },
+      {
+        "name": "Ian Shakil",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Manny Krakaris",
+      "linkedin": "linkedin.com/in/emmanuel-krakaris-3341634"
+    }
   },
   "Augment": {
     "url": "",
@@ -186,18 +274,50 @@
   },
   "Augmenta": {
     "url": "https://augmenta.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Francesco Iorio",
+        "linkedin": "linkedin.com/in/francescoiorio"
+      }
+    ],
+    "ceo": {
+      "name": "Francesco Iorio",
+      "linkedin": "linkedin.com/in/francescoiorio"
+    }
   },
   "Augmentir": {
     "url": "https://augmentir.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Lawrence Fan",
+        "linkedin": ""
+      },
+      {
+        "name": "Russell Fadel",
+        "linkedin": "linkedin.com/in/russfadel"
+      }
+    ],
+    "ceo": {
+      "name": "Russell Fadel",
+      "linkedin": "linkedin.com/in/russfadel"
+    }
   },
   "August Health": {
     "url": "https://augusthealth.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Erez Cohen",
+        "linkedin": "linkedin.com/in/erezdcohen"
+      },
+      {
+        "name": "Justin Schram",
+        "linkedin": "linkedin.com/in/justinschram"
+      }
+    ],
+    "ceo": {
+      "name": "Justin Schram",
+      "linkedin": "linkedin.com/in/justinschram"
+    }
   },
   "Auransa": {
     "url": "",
@@ -206,13 +326,29 @@
   },
   "Aurascape": {
     "url": "https://aurascape.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Moinul Khan",
+        "linkedin": "linkedin.com/in/moinulkhan"
+      }
+    ],
+    "ceo": {
+      "name": "Moinul Khan",
+      "linkedin": "linkedin.com/in/moinulkhan"
+    }
   },
   "Auron Therapeutics": {
     "url": "https://aurontherapeutics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Kate Yen",
+        "linkedin": "linkedin.com/in/kate-yen-448b22108"
+      }
+    ],
+    "ceo": {
+      "name": "Kate Yen",
+      "linkedin": "linkedin.com/in/kate-yen-448b22108"
+    }
   },
   "Authy": {
     "url": "https://authy.com",
@@ -221,8 +357,16 @@
   },
   "AutoFi": {
     "url": "https://autofi.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Kevin Singerman",
+        "linkedin": "linkedin.com/in/kevin-singerman-97071435b"
+      }
+    ],
+    "ceo": {
+      "name": "Kevin Singerman",
+      "linkedin": "linkedin.com/in/kevin-singerman-97071435b"
+    }
   },
   "Autograph": {
     "url": "",
@@ -231,8 +375,16 @@
   },
   "Automated Insights": {
     "url": "https://automatedinsights.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Robbie Allen",
+        "linkedin": "linkedin.com/in/robbieallen"
+      }
+    ],
+    "ceo": {
+      "name": "Robbie Allen",
+      "linkedin": "linkedin.com/in/robbieallen"
+    }
   },
   "Automatic Labs": {
     "url": "",
@@ -246,7 +398,15 @@
   },
   "Ava": {
     "url": "https://meetava.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Thibault Duchemin",
+        "linkedin": "linkedin.com/in/thibaultduchemin"
+      }
+    ],
+    "ceo": {
+      "name": "Thibault Duchemin",
+      "linkedin": "linkedin.com/in/thibaultduchemin"
+    }
   }
 }

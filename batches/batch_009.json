@@ -1,13 +1,29 @@
 {
   "Bloglovin": {
     "url": "https://bloglovin.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Dan Carlberg",
+        "linkedin": "linkedin.com/in/dan-carlberg"
+      }
+    ],
+    "ceo": {
+      "name": "Kamiu Lee",
+      "linkedin": "linkedin.com/in/kamiu-lee"
+    }
   },
   "BloomReach": {
     "url": "https://bloomreach.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Raj De Datta",
+        "linkedin": "linkedin.com/in/rdedatta"
+      }
+    ],
+    "ceo": {
+      "name": "Raj De Datta",
+      "linkedin": "linkedin.com/in/rdedatta"
+    }
   },
   "BloomReach, Inc.": {
     "url": "https://bloomreach.com",
@@ -21,8 +37,16 @@
   },
   "Blue J": {
     "url": "https://bluej.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Benjamin Alarie",
+        "linkedin": "linkedin.com/in/balarie"
+      }
+    ],
+    "ceo": {
+      "name": "Benjamin Alarie",
+      "linkedin": "linkedin.com/in/balarie"
+    }
   },
   "Blue Planet Systems": {
     "url": "https://blueplanetsystems.com",
@@ -56,8 +80,16 @@
   },
   "Blues": {
     "url": "https://blues.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ray Ozzie",
+        "linkedin": "linkedin.com/in/ray-ozzie"
+      }
+    ],
+    "ceo": {
+      "name": "Ian Small",
+      "linkedin": "linkedin.com/in/ian-small"
+    }
   },
   "Bold": {
     "url": "",
@@ -71,8 +103,16 @@
   },
   "Bookkeep": {
     "url": "https://bookkeep.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jason Richelson",
+        "linkedin": "linkedin.com/in/jasonrichelson"
+      }
+    ],
+    "ceo": {
+      "name": "Jason Richelson",
+      "linkedin": "linkedin.com/in/jasonrichelson"
+    }
   },
   "BoomPop": {
     "url": "https://boompop.com",
@@ -96,8 +136,16 @@
   },
   "Boston Dynamics": {
     "url": "https://bostondynamics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Marc Raibert",
+        "linkedin": "linkedin.com/in/marc-raibert-a520b9119"
+      }
+    ],
+    "ceo": {
+      "name": "Amanda McMaster",
+      "linkedin": "linkedin.com/in/amanda-mcmaster"
+    }
   },
   "Boston Geospatial": {
     "url": "https://bostongeospatial.com",
@@ -141,13 +189,29 @@
   },
   "Brandfolder": {
     "url": "https://brandfolder.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Brian Parks",
+        "linkedin": "linkedin.com/in/brian-parks"
+      }
+    ],
+    "ceo": {
+      "name": "Steven Baker",
+      "linkedin": "linkedin.com/in/steven-baker"
+    }
   },
   "Brandless": {
     "url": "https://brandless.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Tina Sharkey",
+        "linkedin": "linkedin.com/in/tinasharkey"
+      }
+    ],
+    "ceo": {
+      "name": "Cydni Rogers Tetro",
+      "linkedin": "linkedin.com/in/cydnitetro"
+    }
   },
   "Braveheart": {
     "url": "",
@@ -201,8 +265,16 @@
   },
   "BrightBytes": {
     "url": "https://brightbytes.net",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Hisham Anwar",
+        "linkedin": "linkedin.com/in/hishama"
+      }
+    ],
+    "ceo": {
+      "name": "Hisham Anwar",
+      "linkedin": "linkedin.com/in/hishama"
+    }
   },
   "BrightEdge Technologies, Inc.": {
     "url": "https://brightedge.com",
@@ -221,13 +293,29 @@
   },
   "BrightInsight": {
     "url": "https://brightinsight.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Kal Patel",
+        "linkedin": "linkedin.com/in/kal-patel-m-d-mba-92b693b"
+      }
+    ],
+    "ceo": {
+      "name": "Kal Patel",
+      "linkedin": "linkedin.com/in/kal-patel-m-d-mba-92b693b"
+    }
   },
   "BrightTalk": {
     "url": "https://brighttalk.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Paul Heald",
+        "linkedin": "linkedin.com/in/paulheald"
+      }
+    ],
+    "ceo": {
+      "name": "Paul Heald",
+      "linkedin": "linkedin.com/in/paulheald"
+    }
   },
   "Brightback": {
     "url": "",
@@ -246,7 +334,15 @@
   },
   "Brightside Health": {
     "url": "https://gobrightside.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Brad Kittredge",
+        "linkedin": "linkedin.com/in/brad-kittredge-6970534"
+      }
+    ],
+    "ceo": {
+      "name": "Brad Kittredge",
+      "linkedin": "linkedin.com/in/brad-kittredge-6970534"
+    }
   }
 }

@@ -11,8 +11,20 @@
   },
   "Apriori Bio": {
     "url": "https://aprioribio.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Alex Goldsmith",
+        "linkedin": ""
+      },
+      {
+        "name": "Lovisa Afzelius",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Craig Williams",
+      "linkedin": "N/A"
+    }
   },
   "Apron": {
     "url": "",
@@ -46,8 +58,20 @@
   },
   "Arbitrum": {
     "url": "https://arbitrum.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Steven Goldfeder",
+        "linkedin": "linkedin.com/in/sgoldfed"
+      },
+      {
+        "name": "Ed Felten",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Steven Goldfeder",
+      "linkedin": "linkedin.com/in/sgoldfed"
+    }
   },
   "Arbor": {
     "url": "https://joinarbor.com",
@@ -71,8 +95,16 @@
   },
   "Arcadia": {
     "url": "https://arcadia.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michael Meucci",
+        "linkedin": "linkedin.com/in/michaelmeucci"
+      }
+    ],
+    "ceo": {
+      "name": "Michael Meucci",
+      "linkedin": "linkedin.com/in/michaelmeucci"
+    }
   },
   "Arcadia Biosciences": {
     "url": "https://arcadiabio.com",
@@ -81,8 +113,16 @@
   },
   "Arcellx": {
     "url": "https://arcellx.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "David Hilbert",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Rami Elghandour",
+      "linkedin": "linkedin.com/in/ramielghandour"
+    }
   },
   "Arch": {
     "url": "https://arch.co",
@@ -111,8 +151,20 @@
   },
   "Arena": {
     "url": "https://arena.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Pratap Ranade",
+        "linkedin": "linkedin.com/in/pratap-ranade-7272829"
+      },
+      {
+        "name": "Engin Ural",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Pratap Ranade",
+      "linkedin": "linkedin.com/in/pratap-ranade-7272829"
+    }
   },
   "Argent": {
     "url": "",
@@ -121,8 +173,20 @@
   },
   "Argilla": {
     "url": "https://argilla.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Daniel Vila Suero",
+        "linkedin": ""
+      },
+      {
+        "name": "Francisco Aranda",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Daniel Vila Suero",
+      "linkedin": "N/A"
+    }
   },
   "Aria Pharmaceuticals": {
     "url": "",
@@ -151,8 +215,20 @@
   },
   "Arize AI": {
     "url": "https://arize.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jason Lopatecki",
+        "linkedin": "linkedin.com/in/jason-lopatecki-9509941"
+      },
+      {
+        "name": "Aparna Dhinakaran",
+        "linkedin": "linkedin.com/in/aparnadhinakaran"
+      }
+    ],
+    "ceo": {
+      "name": "Jason Lopatecki",
+      "linkedin": "linkedin.com/in/jason-lopatecki-9509941"
+    }
   },
   "Arize AI, Inc.": {
     "url": "https://arize.com",
@@ -166,13 +242,37 @@
   },
   "Armada": {
     "url": "https://armada.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Dan Wright",
+        "linkedin": "linkedin.com/in/wrightdh"
+      },
+      {
+        "name": "Jon Runyan",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Dan Wright",
+      "linkedin": "linkedin.com/in/wrightdh"
+    }
   },
   "Armory": {
     "url": "https://armory.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Daniel Odio",
+        "linkedin": "linkedin.com/in/drodio"
+      },
+      {
+        "name": "Ben Mappen",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jim Douglas",
+      "linkedin": "N/A"
+    }
   },
   "Arondite": {
     "url": "",
@@ -231,8 +331,20 @@
   },
   "Aruba Networks": {
     "url": "https://arubanetworks.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Keerti Melkote",
+        "linkedin": "linkedin.com/in/keertimelkote"
+      },
+      {
+        "name": "Pankaj Manglik",
+        "linkedin": "linkedin.com/in/manglik"
+      }
+    ],
+    "ceo": {
+      "name": "Dom Orr",
+      "linkedin": "linkedin.com/in/dom-orr-828543162"
+    }
   },
   "Arweave": {
     "url": "https://arweave.org",
@@ -241,8 +353,20 @@
   },
   "Aryaka": {
     "url": "https://aryaka.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Rajeev Bharadhwaj",
+        "linkedin": ""
+      },
+      {
+        "name": "Ashwath Nagaraj",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Shailesh Shukla",
+      "linkedin": "linkedin.com/in/shailesh-s-005119"
+    }
   },
   "Ascend": {
     "url": "",
