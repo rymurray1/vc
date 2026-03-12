@@ -1,0 +1,27 @@
+[21:55:05] Starting batch_071.json
+[21:55:07] Starting batch_071.json
+Perfect! I've successfully completed the batch processing. Here's what I accomplished:
+
+**Batch 071 Summary:**
+- **Total companies processed:** 50
+- **Companies with data added:** 47
+- **Companies skipped (data unavailable):** 3
+  - Whistic (rate limit hit)
+  - Whistic, Inc. (rate limit hit)
+  - Wholeshare (rate limit hit)
+
+**Data extracted:**
+- ✅ Founder names and LinkedIn URLs (where available)
+- ✅ Current/founding CEO information with LinkedIn profiles (where available)
+- ✅ Preserved all existing company URLs and data
+- ✅ Followed the exact format requirements (empty string for missing LinkedIn, but always included names when found)
+
+**Notable findings:**
+- Companies like Wix, Wrike, Workfront, and Xometry have changed CEOs since founding
+- Several founders continue as CEO (Marc Lore at Wonder, Fei-Fei Li at World Labs, etc.)
+- Some companies are acquisitions or defunct (Wit.AI was acquired by Facebook, WorldStarHipHop founder deceased)
+
+The updated file has been written to `/Users/ryanmurray/programming/vc/batches/batch_071.json` with all 50 companies properly formatted.
+[21:56:51] Done batch_071.json (exit: 0)
+You're out of extra usage · resets 2am (America/New_York)
+[21:57:09] Done batch_071.json (exit: 0)

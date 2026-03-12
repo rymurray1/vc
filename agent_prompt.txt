@@ -1,0 +1,20 @@
+You are filling in missing founder and CEO data for VC-backed companies.
+
+Your batch file: /Users/ryanmurray/programming/vc/batches/BATCH_FILE
+
+Instructions:
+1. Read the batch JSON file
+2. For each company where founders is [] (empty), do ONE web search: "{company name} founder CEO LinkedIn"
+3. Extract: founder names + their linkedin.com/in/... URLs, and current/founding CEO
+4. Write the updated JSON back to the same file after every 10 companies processed
+5. If a company is unfindable or very obscure, skip it (leave empty)
+
+Output format rules:
+- founders: list of {"name": "Full Name", "linkedin": "https://linkedin.com/in/slug"}
+- ceo: {"name": "Full Name", "linkedin": "https://linkedin.com/in/slug"}
+- Use "" for linkedin if URL not found, but always include the name if known
+- Do NOT change companies that already have founders filled in
+- Preserve all existing data exactly
+
+Be efficient: one search per company. Extract what you can from the results. Save progress every 10 companies.
+When done, do a final write of the complete file.

@@ -1,0 +1,18 @@
+[21:55:00] Starting batch_069.json
+You're out of extra usage · resets 2am (America/New_York)
+[21:55:02] Done batch_069.json (exit: 0)
+[21:55:02] Starting batch_069.json
+Done! I've processed all 50 companies and updated the batch file with founder and CEO information. Here's a summary of what was collected:
+
+**Summary:**
+- **34 companies** with founder data extracted
+- **41 companies** with CEO information added
+- **16 companies** left empty (no URLs provided or too obscure to find data)
+
+**Key data captured:**
+- Founder names and LinkedIn profiles (where available)
+- Current/founding CEO names and LinkedIn profiles
+- Preserved all existing URLs and company data
+
+The batch file has been updated at `/Users/ryanmurray/programming/vc/batches/batch_069.json` with all collected information. Companies without URLs or findable data were left with empty arrays/nulls as instructed.
+[21:57:01] Done batch_069.json (exit: 0)
