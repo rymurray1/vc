@@ -2,12 +2,23 @@
   "Curana Health": {
     "url": "https://curanahealth.com",
     "founders": [],
-    "ceo": null
+    "ceo": {
+      "name": "Mark Price",
+      "linkedin": "https://www.linkedin.com/in/markprice28/"
+    }
   },
   "Curative": {
     "url": "https://curative.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Fred Turner",
+        "linkedin": "https://www.linkedin.com/in/fred-turner/"
+      }
+    ],
+    "ceo": {
+      "name": "Fred Turner",
+      "linkedin": "https://www.linkedin.com/in/fred-turner/"
+    }
   },
   "Curbside": {
     "url": "https://curbside.com",
@@ -16,8 +27,20 @@
   },
   "CureFit": {
     "url": "https://cure.fit",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Mukesh Bansal",
+        "linkedin": ""
+      },
+      {
+        "name": "Ankit Nagori",
+        "linkedin": "https://www.linkedin.com/in/ankitnagori"
+      }
+    ],
+    "ceo": {
+      "name": "Mukesh Bansal",
+      "linkedin": ""
+    }
   },
   "Curie.Bio": {
     "url": "",
@@ -31,8 +54,16 @@
   },
   "Curology": {
     "url": "https://curology.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "David Lortscher",
+        "linkedin": "https://www.linkedin.com/in/davidlortschermd/"
+      }
+    ],
+    "ceo": {
+      "name": "Heather Wallace",
+      "linkedin": ""
+    }
   },
   "Currencycloud": {
     "url": "https://currencycloud.com",
@@ -46,13 +77,37 @@
   },
   "Cursor": {
     "url": "https://cursor.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michael Truell",
+        "linkedin": "https://www.linkedin.com/in/michael-t-5b1bbb122/"
+      },
+      {
+        "name": "Sualeh Asif",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Michael Truell",
+      "linkedin": "https://www.linkedin.com/in/michael-t-5b1bbb122/"
+    }
   },
   "Curtsy": {
     "url": "https://curtsy.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "David Oates",
+        "linkedin": "https://www.linkedin.com/in/deoates/"
+      },
+      {
+        "name": "William Ault",
+        "linkedin": "https://www.linkedin.com/in/william-ault-3121a585/"
+      }
+    ],
+    "ceo": {
+      "name": "David Oates",
+      "linkedin": "https://www.linkedin.com/in/deoates/"
+    }
   },
   "Curve Health": {
     "url": "",
@@ -66,8 +121,20 @@
   },
   "Cuyana": {
     "url": "https://cuyana.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Karla Gallardo",
+        "linkedin": "https://www.linkedin.com/in/karla-gallardo-6076a51a/"
+      },
+      {
+        "name": "Shilpa Shah",
+        "linkedin": "https://www.linkedin.com/in/shilparshah/"
+      }
+    ],
+    "ceo": {
+      "name": "Karla Gallardo",
+      "linkedin": "https://www.linkedin.com/in/karla-gallardo-6076a51a/"
+    }
   },
   "CyCognito": {
     "url": "",
@@ -106,8 +173,16 @@
   },
   "Cypress": {
     "url": "https://cypress.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Brian Mann",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Drew Lanham",
+      "linkedin": "https://www.linkedin.com/in/drew-lanham-6368/"
+    }
   },
   "Cytovale": {
     "url": "https://cytovale.com",

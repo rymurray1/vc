@@ -11,8 +11,20 @@
   },
   "Coalition": {
     "url": "https://thecoalition.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Joshua Motta",
+        "linkedin": "https://www.linkedin.com/in/joshuamotta"
+      },
+      {
+        "name": "John Hering",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Joshua Motta",
+      "linkedin": "https://www.linkedin.com/in/joshuamotta"
+    }
   },
   "Cobalt": {
     "url": "https://cobalt.io",
@@ -26,8 +38,20 @@
   },
   "Cockroach Labs": {
     "url": "https://cockroachlabs.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Spencer Kimball",
+        "linkedin": "https://www.linkedin.com/in/spencerwkimball"
+      },
+      {
+        "name": "Peter Mattis",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Spencer Kimball",
+      "linkedin": "https://www.linkedin.com/in/spencerwkimball"
+    }
   },
   "Cocoon": {
     "url": "",
@@ -161,8 +185,20 @@
   },
   "Coinbase Global, Inc.": {
     "url": "https://coinbase.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Brian Armstrong",
+        "linkedin": "https://www.linkedin.com/in/barmstrong/"
+      },
+      {
+        "name": "Fred Ehrsam",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Brian Armstrong",
+      "linkedin": "https://www.linkedin.com/in/barmstrong/"
+    }
   },
   "Coinmine": {
     "url": "https://coinmine.com",
@@ -196,8 +232,20 @@
   },
   "Collibra": {
     "url": "https://collibra.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Felix Van de Maele",
+        "linkedin": "https://www.linkedin.com/in/fvdmaele/"
+      },
+      {
+        "name": "Stijn Christiaens",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Felix Van de Maele",
+      "linkedin": "https://www.linkedin.com/in/fvdmaele/"
+    }
   },
   "Collibra NV": {
     "url": "https://collibra.com",

@@ -1,13 +1,29 @@
 {
   "Classy": {
     "url": "https://classy.org",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Scot Chisholm",
+        "linkedin": "https://www.linkedin.com/in/scotchisholm/"
+      }
+    ],
+    "ceo": {
+      "name": "Scot Chisholm",
+      "linkedin": "https://www.linkedin.com/in/scotchisholm/"
+    }
   },
   "Clay": {
     "url": "https://clay.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Kareem Amin",
+        "linkedin": "https://www.linkedin.com/in/kareemamin/"
+      }
+    ],
+    "ceo": {
+      "name": "Kareem Amin",
+      "linkedin": "https://www.linkedin.com/in/kareemamin/"
+    }
   },
   "CleanCo": {
     "url": "",
@@ -16,8 +32,20 @@
   },
   "Cleanlab": {
     "url": "https://cleanlab.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Curtis Northcutt",
+        "linkedin": "https://www.linkedin.com/in/cgnorthcutt"
+      },
+      {
+        "name": "Jonas Mueller",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Curtis Northcutt",
+      "linkedin": "https://www.linkedin.com/in/cgnorthcutt"
+    }
   },
   "Clear": {
     "url": "https://clearme.com",
@@ -26,18 +54,50 @@
   },
   "Clear Labs": {
     "url": "https://clearlabs.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Sasan Amini",
+        "linkedin": "https://www.linkedin.com/in/sasanamini/"
+      },
+      {
+        "name": "Mahni Ghorashi",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Sasan Amini",
+      "linkedin": "https://www.linkedin.com/in/sasanamini/"
+    }
   },
   "ClearMetal": {
     "url": "https://clearmetal.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Adam Compain",
+        "linkedin": "https://www.linkedin.com/in/adamcompain/"
+      }
+    ],
+    "ceo": {
+      "name": "Adam Compain",
+      "linkedin": "https://www.linkedin.com/in/adamcompain/"
+    }
   },
   "ClearMotion": {
     "url": "https://clearmotion.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Shakeel Avadhany",
+        "linkedin": "https://www.linkedin.com/in/shakeel-avadhany-38582013"
+      },
+      {
+        "name": "Zack Anderson",
+        "linkedin": "https://www.linkedin.com/in/zackanderson/"
+      }
+    ],
+    "ceo": {
+      "name": "Christian Steinmann",
+      "linkedin": ""
+    }
   },
   "ClearSlide": {
     "url": "",
@@ -46,13 +106,37 @@
   },
   "Clearco": {
     "url": "https://clearco.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michele Romanow",
+        "linkedin": ""
+      },
+      {
+        "name": "Andrew D'Souza",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Andrew Curtis",
+      "linkedin": "https://www.linkedin.com/in/andrew-c-curtis-a381b213a/"
+    }
   },
   "Clearpath Robotics": {
     "url": "https://clearpathrobotics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Matthew Rendall",
+        "linkedin": "https://ca.linkedin.com/in/matthewrendall"
+      },
+      {
+        "name": "Ryan Gariepy",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Matt Rendall",
+      "linkedin": "https://ca.linkedin.com/in/matthewrendall"
+    }
   },
   "Clearstory Data": {
     "url": "",
@@ -66,13 +150,33 @@
   },
   "Cleo": {
     "url": "https://hicleo.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Barney Hussey-Yeo",
+        "linkedin": "https://uk.linkedin.com/in/bhusseyyeo"
+      }
+    ],
+    "ceo": {
+      "name": "Barney Hussey-Yeo",
+      "linkedin": "https://uk.linkedin.com/in/bhusseyyeo"
+    }
   },
   "Clerk": {
     "url": "https://clerk.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Colin Sidoti",
+        "linkedin": "https://www.linkedin.com/in/colin-sidoti-751a219/"
+      },
+      {
+        "name": "Braden Sidoti",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Colin Sidoti",
+      "linkedin": "https://www.linkedin.com/in/colin-sidoti-751a219/"
+    }
   },
   "Clever": {
     "url": "",
@@ -86,8 +190,20 @@
   },
   "ClickHouse, Inc.": {
     "url": "https://clickhouse.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Aaron Katz",
+        "linkedin": "https://www.linkedin.com/in/aaron-katz-5762094/"
+      },
+      {
+        "name": "Yury Izrailevsky",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Aaron Katz",
+      "linkedin": "https://www.linkedin.com/in/aaron-katz-5762094/"
+    }
   },
   "Climate": {
     "url": "",
@@ -96,8 +212,16 @@
   },
   "Climate Corp": {
     "url": "https://climate.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "David Friedberg",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "David Friedberg",
+      "linkedin": ""
+    }
   },
   "Cline": {
     "url": "https://cline.ai",
@@ -111,8 +235,16 @@
   },
   "Clio": {
     "url": "https://clio.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jack Newton",
+        "linkedin": "https://ca.linkedin.com/in/jackbnewton"
+      }
+    ],
+    "ceo": {
+      "name": "Jack Newton",
+      "linkedin": "https://ca.linkedin.com/in/jackbnewton"
+    }
   },
   "Clipboard": {
     "url": "",
@@ -121,8 +253,20 @@
   },
   "Clipboard Health": {
     "url": "https://clipboardhealth.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Wei Deng",
+        "linkedin": "https://www.linkedin.com/in/dengwei/"
+      },
+      {
+        "name": "Bo Lu",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Wei Deng",
+      "linkedin": "https://www.linkedin.com/in/dengwei/"
+    }
   },
   "Clockwise": {
     "url": "https://getclockwise.com",
@@ -141,8 +285,20 @@
   },
   "CloudBees": {
     "url": "https://cloudbees.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Sacha Labourey",
+        "linkedin": "https://www.linkedin.com/in/sachalabourey/"
+      },
+      {
+        "name": "Francois Dechery",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Anuj Kapur",
+      "linkedin": "https://www.linkedin.com/in/a2kapur/"
+    }
   },
   "CloudCoreo": {
     "url": "",
@@ -181,8 +337,20 @@
   },
   "Cloudinary": {
     "url": "https://cloudinary.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Itai Lahan",
+        "linkedin": "https://www.linkedin.com/in/itail/"
+      },
+      {
+        "name": "Tal Lev-Ami",
+        "linkedin": "https://il.linkedin.com/in/tallevami"
+      }
+    ],
+    "ceo": {
+      "name": "Itai Lahan",
+      "linkedin": "https://www.linkedin.com/in/itail/"
+    }
   },
   "Cloudleaf": {
     "url": "https://cloudleaf.io",
@@ -206,8 +374,20 @@
   },
   "Clubhouse": {
     "url": "https://clubhouse.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Paul Davison",
+        "linkedin": ""
+      },
+      {
+        "name": "Rohan Seth",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Paul Davison",
+      "linkedin": ""
+    }
   },
   "Cluely": {
     "url": "",
@@ -231,8 +411,20 @@
   },
   "Clutter": {
     "url": "https://clutter.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ari Mir",
+        "linkedin": "https://www.linkedin.com/in/arimir/"
+      },
+      {
+        "name": "Brian Thomas",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ari Mir",
+      "linkedin": "https://www.linkedin.com/in/arimir/"
+    }
   },
   "Clyde": {
     "url": "https://clyde.com",

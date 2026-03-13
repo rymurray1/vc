@@ -159,8 +159,20 @@
   },
   "Ankorstore": {
     "url": "https://ankorstore.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Nicolas d'Audiffret",
+        "linkedin": "linkedin.com/in/nicolasdaudiffret"
+      },
+      {
+        "name": "Pierre Louis Lacoste",
+        "linkedin": "fr.linkedin.com/in/pierre-louis-lacoste-a5824410"
+      }
+    ],
+    "ceo": {
+      "name": "Nicolas d'Audiffret",
+      "linkedin": "linkedin.com/in/nicolasdaudiffret"
+    }
   },
   "Anode": {
     "url": "",

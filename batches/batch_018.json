@@ -16,8 +16,20 @@
   },
   "Dataminr": {
     "url": "https://dataminr.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ted Bailey",
+        "linkedin": "https://www.linkedin.com/in/ted-bailey-11b3492/"
+      },
+      {
+        "name": "Jeffrey Kinsey",
+        "linkedin": "https://www.linkedin.com/in/jeffrey-kinsey-33765717/"
+      }
+    ],
+    "ceo": {
+      "name": "Ted Bailey",
+      "linkedin": "https://www.linkedin.com/in/ted-bailey-11b3492/"
+    }
   },
   "Datanomik": {
     "url": "",
@@ -66,8 +78,16 @@
   },
   "Datto": {
     "url": "https://datto.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Austin McChord",
+        "linkedin": "https://www.linkedin.com/in/mcchord/"
+      }
+    ],
+    "ceo": {
+      "name": "Austin McChord",
+      "linkedin": "https://www.linkedin.com/in/mcchord/"
+    }
   },
   "Daybreak": {
     "url": "https://daybreakhealth.com",
@@ -111,8 +131,16 @@
   },
   "Dealpath": {
     "url": "https://dealpath.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Mike Sroka",
+        "linkedin": "https://www.linkedin.com/in/mike-sroka-9958391/"
+      }
+    ],
+    "ceo": {
+      "name": "Mike Sroka",
+      "linkedin": "https://www.linkedin.com/in/mike-sroka-9958391/"
+    }
   },
   "Decagon": {
     "url": "https://decagon.ai",
@@ -136,13 +164,33 @@
   },
   "DeepInfra": {
     "url": "https://deepinfra.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Nikola Borisov",
+        "linkedin": "https://www.linkedin.com/in/nikola-borisov/"
+      },
+      {
+        "name": "Georgios Papoutsis",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Nikola Borisov",
+      "linkedin": "https://www.linkedin.com/in/nikola-borisov/"
+    }
   },
   "DeepL": {
     "url": "https://deepl.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jaroslaw Kutylowski",
+        "linkedin": "https://de.linkedin.com/in/jarekkut"
+      }
+    ],
+    "ceo": {
+      "name": "Jaroslaw Kutylowski",
+      "linkedin": "https://de.linkedin.com/in/jarekkut"
+    }
   },
   "DeepMap": {
     "url": "",
@@ -151,8 +199,20 @@
   },
   "DeepMind": {
     "url": "https://deepmind.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Demis Hassabis",
+        "linkedin": "https://uk.linkedin.com/in/demishassabis"
+      },
+      {
+        "name": "Shane Legg",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Demis Hassabis",
+      "linkedin": "https://uk.linkedin.com/in/demishassabis"
+    }
   },
   "DeepScribe": {
     "url": "",
@@ -166,8 +226,16 @@
   },
   "Deepgram": {
     "url": "https://deepgram.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Scott Stephenson",
+        "linkedin": "https://www.linkedin.com/in/scott-stephenson-/"
+      }
+    ],
+    "ceo": {
+      "name": "Scott Stephenson",
+      "linkedin": "https://www.linkedin.com/in/scott-stephenson-/"
+    }
   },
   "Deepnote": {
     "url": "",
@@ -176,8 +244,20 @@
   },
   "Defense Unicorns": {
     "url": "https://defenseunicorns.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Robert Slaughter",
+        "linkedin": "https://www.linkedin.com/in/robertcslaughter/"
+      },
+      {
+        "name": "Jeff McCoy",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Robert Slaughter",
+      "linkedin": "https://www.linkedin.com/in/robertcslaughter/"
+    }
   },
   "Definely": {
     "url": "https://definely.com",
@@ -186,13 +266,33 @@
   },
   "Degreed": {
     "url": "https://degreed.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "David Blake",
+        "linkedin": "https://www.linkedin.com/in/davidblake/"
+      },
+      {
+        "name": "David Wiley",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "David Blake",
+      "linkedin": "https://www.linkedin.com/in/davidblake/"
+    }
   },
   "Delfi Diagnostics": {
     "url": "https://delfidiagnostics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Victor Velculescu",
+        "linkedin": "https://www.linkedin.com/in/victor-velculescu-md-phd-1241716"
+      }
+    ],
+    "ceo": {
+      "name": "Susan Tousi",
+      "linkedin": "https://www.linkedin.com/in/susan-tousi/"
+    }
   },
   "Delicious": {
     "url": "https://del.icio.us",
@@ -206,8 +306,20 @@
   },
   "Deliverr": {
     "url": "https://deliverr.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Harish Abbott",
+        "linkedin": ""
+      },
+      {
+        "name": "Michael Krakaris",
+        "linkedin": "https://www.linkedin.com/in/krakaris/"
+      }
+    ],
+    "ceo": {
+      "name": "Harish Abbott",
+      "linkedin": ""
+    }
   },
   "Delphi": {
     "url": "https://delphi.ai",
@@ -216,8 +328,16 @@
   },
   "Delphix": {
     "url": "https://delphix.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jedidiah Yueh",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jedidiah Yueh",
+      "linkedin": ""
+    }
   },
   "Delphix, Inc.": {
     "url": "https://delphix.com",

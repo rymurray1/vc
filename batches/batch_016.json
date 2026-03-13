@@ -6,8 +6,16 @@
   },
   "Coupa": {
     "url": "https://coupa.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Noah Eisner",
+        "linkedin": "https://www.linkedin.com/in/noaheisner/"
+      }
+    ],
+    "ceo": {
+      "name": "Leagh Turner",
+      "linkedin": "https://ca.linkedin.com/in/leaghturner"
+    }
   },
   "Coupa Software, Inc.": {
     "url": "https://coupa.com",
@@ -16,8 +24,16 @@
   },
   "Coupang": {
     "url": "https://coupang.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Bom Kim",
+        "linkedin": "https://www.linkedin.com/in/bom-kim-a6a28151/?originalSubdomain=kr"
+      }
+    ],
+    "ceo": {
+      "name": "Bom Kim",
+      "linkedin": "https://www.linkedin.com/in/bom-kim-a6a28151/?originalSubdomain=kr"
+    }
   },
   "Courier": {
     "url": "https://courier.com",
@@ -26,28 +42,80 @@
   },
   "Course Hero": {
     "url": "https://coursehero.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Andrew Grauer",
+        "linkedin": "https://www.linkedin.com/in/andrewtategrauer/"
+      }
+    ],
+    "ceo": {
+      "name": "Andrew Grauer",
+      "linkedin": "https://www.linkedin.com/in/andrewtategrauer/"
+    }
   },
   "Covariant.ai": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Peter Chen",
+        "linkedin": "https://www.linkedin.com/in/peter-xi-chen/"
+      },
+      {
+        "name": "Tianhao Zhang",
+        "linkedin": "https://www.linkedin.com/in/tianhaozhang/"
+      }
+    ],
+    "ceo": {
+      "name": "Ted Stinson",
+      "linkedin": ""
+    }
   },
   "CoverWallet": {
     "url": "https://coverwallet.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "I\u00f1aki Berenguer",
+        "linkedin": "https://www.linkedin.com/in/inakiberenguer/"
+      }
+    ],
+    "ceo": {
+      "name": "I\u00f1aki Berenguer",
+      "linkedin": "https://www.linkedin.com/in/inakiberenguer/"
+    }
   },
   "Cowboy": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Adrien Roose",
+        "linkedin": "https://be.linkedin.com/in/adrien-roose-bb605613"
+      },
+      {
+        "name": "Karim Slaoui",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Adrien Roose",
+      "linkedin": "https://be.linkedin.com/in/adrien-roose-bb605613"
+    }
   },
   "Cradle": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Stef van Grieken",
+        "linkedin": "https://ch.linkedin.com/in/stefvangrieken"
+      },
+      {
+        "name": "Jelle Prins",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Stef van Grieken",
+      "linkedin": "https://ch.linkedin.com/in/stefvangrieken"
+    }
   },
   "Craft": {
     "url": "https://craft.io",
@@ -86,8 +154,20 @@
   },
   "Credal": {
     "url": "https://credal.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jack Fischer",
+        "linkedin": ""
+      },
+      {
+        "name": "Ravin Thambapillai",
+        "linkedin": "https://www.linkedin.com/in/ai-security"
+      }
+    ],
+    "ceo": {
+      "name": "Ravin Thambapillai",
+      "linkedin": "https://www.linkedin.com/in/ai-security"
+    }
   },
   "Credit Benchmark": {
     "url": "",
@@ -96,18 +176,50 @@
   },
   "Credit Karma": {
     "url": "https://creditkarma.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Kenneth Lin",
+        "linkedin": "https://www.linkedin.com/in/kennethjlin/"
+      },
+      {
+        "name": "Ryan Graciano",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Kenneth Lin",
+      "linkedin": "https://www.linkedin.com/in/kennethjlin/"
+    }
   },
   "Credit Sesame": {
     "url": "https://creditsesame.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Adrian Nazari",
+        "linkedin": "https://www.linkedin.com/in/nazari/"
+      }
+    ],
+    "ceo": {
+      "name": "Adrian Nazari",
+      "linkedin": "https://www.linkedin.com/in/nazari/"
+    }
   },
   "Cresta": {
     "url": "https://cresta.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Sebastian Thrun",
+        "linkedin": ""
+      },
+      {
+        "name": "Zayd Enam",
+        "linkedin": "https://www.linkedin.com/in/zaydenam/"
+      }
+    ],
+    "ceo": {
+      "name": "Ping Wu",
+      "linkedin": "https://www.linkedin.com/in/pingwu/"
+    }
   },
   "Creyon Bio": {
     "url": "https://creyonbio.com",
@@ -116,8 +228,16 @@
   },
   "Cribl": {
     "url": "https://cribl.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Clint Sharp",
+        "linkedin": "https://www.linkedin.com/in/clintsharp"
+      }
+    ],
+    "ceo": {
+      "name": "Clint Sharp",
+      "linkedin": "https://www.linkedin.com/in/clintsharp"
+    }
   },
   "Crisp": {
     "url": "https://crisp.chat",
@@ -141,13 +261,29 @@
   },
   "Cross River Bank": {
     "url": "https://crossriverbank.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Gilles Gade",
+        "linkedin": "https://www.linkedin.com/in/gilles-gade-b4b31812/"
+      }
+    ],
+    "ceo": {
+      "name": "Gilles Gade",
+      "linkedin": "https://www.linkedin.com/in/gilles-gade-b4b31812/"
+    }
   },
   "Crossbeam": {
     "url": "https://crossbeam.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Bob Moore",
+        "linkedin": "https://www.linkedin.com/in/robertjmoore"
+      }
+    ],
+    "ceo": {
+      "name": "Bob Moore",
+      "linkedin": "https://www.linkedin.com/in/robertjmoore"
+    }
   },
   "Crossing Minds": {
     "url": "",
@@ -156,8 +292,20 @@
   },
   "Crossover Health": {
     "url": "https://crossoverhealth.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Scott Shreeve",
+        "linkedin": "https://www.linkedin.com/in/scott-shreeve-md-109a682/"
+      },
+      {
+        "name": "Nate Murray",
+        "linkedin": "https://www.linkedin.com/in/nathanlmurray/"
+      }
+    ],
+    "ceo": {
+      "name": "Scott Shreeve",
+      "linkedin": "https://www.linkedin.com/in/scott-shreeve-md-109a682/"
+    }
   },
   "CrowdMob": {
     "url": "",
@@ -181,13 +329,33 @@
   },
   "Cruise Automation": {
     "url": "https://getcruise.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Kyle Vogt",
+        "linkedin": "https://www.linkedin.com/in/kylevogt"
+      },
+      {
+        "name": "Daniel Kan",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Marc Whitten",
+      "linkedin": ""
+    }
   },
   "Crunchbase": {
     "url": "https://crunchbase.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michael Arrington",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jager McConnell",
+      "linkedin": "https://www.linkedin.com/in/jager/"
+    }
   },
   "Crusoe": {
     "url": "https://crusoe.ai",
@@ -196,8 +364,20 @@
   },
   "Crusoe Energy": {
     "url": "https://crusoe.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Chase Lochmiller",
+        "linkedin": "https://www.linkedin.com/in/chase-lochmiller-604483341/"
+      },
+      {
+        "name": "Cully Cavness",
+        "linkedin": "https://www.linkedin.com/in/ccavness/"
+      }
+    ],
+    "ceo": {
+      "name": "Chase Lochmiller",
+      "linkedin": "https://www.linkedin.com/in/chase-lochmiller-604483341/"
+    }
   },
   "Crux": {
     "url": "",

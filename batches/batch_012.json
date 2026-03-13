@@ -1,13 +1,37 @@
 {
   "Checkly": {
     "url": "https://checklyhq.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Hannes Lenke",
+        "linkedin": "https://www.linkedin.com/in/hanneslenke/"
+      },
+      {
+        "name": "Tim Nolet",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Hannes Lenke",
+      "linkedin": "https://www.linkedin.com/in/hanneslenke/"
+    }
   },
   "Checkr": {
     "url": "https://checkr.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Daniel Yanisse",
+        "linkedin": "https://www.linkedin.com/in/yanisse/"
+      },
+      {
+        "name": "Jonathan Perichon",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Daniel Yanisse",
+      "linkedin": "https://www.linkedin.com/in/yanisse/"
+    }
   },
   "Cheddar": {
     "url": "",
@@ -26,13 +50,33 @@
   },
   "Chemify": {
     "url": "https://chemify.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Lee Cronin",
+        "linkedin": "https://www.linkedin.com/in/leecronin"
+      }
+    ],
+    "ceo": {
+      "name": "Lee Cronin",
+      "linkedin": "https://www.linkedin.com/in/leecronin"
+    }
   },
   "Cherry": {
     "url": "https://withcherry.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Charles Mourani",
+        "linkedin": ""
+      },
+      {
+        "name": "Felix Steinmeyer",
+        "linkedin": "https://www.linkedin.com/in/felix-steinmeyer/"
+      }
+    ],
+    "ceo": {
+      "name": "Felix Steinmeyer",
+      "linkedin": "https://www.linkedin.com/in/felix-steinmeyer/"
+    }
   },
   "Chestnut": {
     "url": "",
@@ -46,8 +90,16 @@
   },
   "Chia Network": {
     "url": "https://chia.net",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Bram Cohen",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Gene Hoffman",
+      "linkedin": "https://www.linkedin.com/in/gehoffman"
+    }
   },
   "Chief": {
     "url": "https://chief.com",
@@ -56,13 +108,37 @@
   },
   "Chipper Cash": {
     "url": "https://chippercash.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ham Serunjogi",
+        "linkedin": "https://www.linkedin.com/in/hamserunjogi/"
+      },
+      {
+        "name": "Maijid Moujaled",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ham Serunjogi",
+      "linkedin": "https://www.linkedin.com/in/hamserunjogi/"
+    }
   },
   "Chkk": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Awais Nemat",
+        "linkedin": "https://www.linkedin.com/in/anemat/"
+      },
+      {
+        "name": "Fawad Khaliq",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Awais Nemat",
+      "linkedin": "https://www.linkedin.com/in/anemat/"
+    }
   },
   "Chord Commerce": {
     "url": "https://chordcommerce.com",

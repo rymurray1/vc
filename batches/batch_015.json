@@ -6,8 +6,16 @@
   },
   "Commonwealth Fusion Systems": {
     "url": "https://cfs.energy",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Robert Mumgaard",
+        "linkedin": "https://www.linkedin.com/in/mumgaard"
+      }
+    ],
+    "ceo": {
+      "name": "Robert Mumgaard",
+      "linkedin": "https://www.linkedin.com/in/mumgaard"
+    }
   },
   "Community Labs": {
     "url": "",
@@ -16,13 +24,33 @@
   },
   "Commure": {
     "url": "https://commure.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Tanay Tandon",
+        "linkedin": "https://www.linkedin.com/in/tanaytandon/"
+      },
+      {
+        "name": "Eugene Kuznetsov",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Tanay Tandon",
+      "linkedin": "https://www.linkedin.com/in/tanaytandon/"
+    }
   },
   "Compa": {
     "url": "https://compa.as",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Charlie Franklin",
+        "linkedin": "https://www.linkedin.com/in/charliefranklin/"
+      }
+    ],
+    "ceo": {
+      "name": "Charlie Franklin",
+      "linkedin": "https://www.linkedin.com/in/charliefranklin/"
+    }
   },
   "Compaq": {
     "url": "https://compaq.com",
@@ -31,8 +59,16 @@
   },
   "ComparaOnline": {
     "url": "https://comparaonline.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Sebasti\u00e1n Valin",
+        "linkedin": "https://www.linkedin.com/in/sebastianvalin/"
+      }
+    ],
+    "ceo": {
+      "name": "Sebasti\u00e1n Valin",
+      "linkedin": "https://www.linkedin.com/in/sebastianvalin/"
+    }
   },
   "ComplyAdvantage": {
     "url": "",
@@ -101,18 +137,50 @@
   },
   "Consensus": {
     "url": "https://consensus.app",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Christian Salem",
+        "linkedin": "https://www.linkedin.com/in/christiansalem"
+      },
+      {
+        "name": "Eric Olson",
+        "linkedin": "https://www.linkedin.com/in/eric-olson-1822a7a6/"
+      }
+    ],
+    "ceo": {
+      "name": "Eric Olson",
+      "linkedin": "https://www.linkedin.com/in/eric-olson-1822a7a6/"
+    }
   },
   "Constructor": {
     "url": "https://constructor.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Eli Finkelshteyn",
+        "linkedin": "https://www.linkedin.com/in/eli-finkelshteyn/"
+      },
+      {
+        "name": "Dan McCormick",
+        "linkedin": "https://www.linkedin.com/in/mccormickdaniel"
+      }
+    ],
+    "ceo": {
+      "name": "Eli Finkelshteyn",
+      "linkedin": "https://www.linkedin.com/in/eli-finkelshteyn/"
+    }
   },
   "ContentSquare": {
     "url": "https://contentsquare.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jonathan Cherki",
+        "linkedin": "https://www.linkedin.com/in/jonathancherki/en"
+      }
+    ],
+    "ceo": {
+      "name": "Jonathan Cherki",
+      "linkedin": "https://www.linkedin.com/in/jonathancherki/en"
+    }
   },
   "Contentful": {
     "url": "https://contentful.com",
@@ -151,8 +219,20 @@
   },
   "Convex": {
     "url": "https://convex.dev",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "James Cowling",
+        "linkedin": "https://www.linkedin.com/in/jcowling/"
+      },
+      {
+        "name": "Sujay Jayakar",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jamie Turner",
+      "linkedin": ""
+    }
   },
   "Conviva": {
     "url": "https://conviva.com",
@@ -161,8 +241,20 @@
   },
   "Copado": {
     "url": "https://copado.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Federico Larsen",
+        "linkedin": ""
+      },
+      {
+        "name": "Philipp Rackwitz",
+        "linkedin": "https://www.linkedin.com/in/philipprackwitz/"
+      }
+    ],
+    "ceo": {
+      "name": "Ted Elliott",
+      "linkedin": "https://www.linkedin.com/in/tedelliott"
+    }
   },
   "Copia Global": {
     "url": "https://copiaglobal.com",
@@ -191,8 +283,20 @@
   },
   "Coravin, Inc.": {
     "url": "https://coravin.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Greg Lambrecht",
+        "linkedin": ""
+      },
+      {
+        "name": "Josh Makower",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Dave Krupinski",
+      "linkedin": "https://www.linkedin.com/in/davekrupinski/"
+    }
   },
   "Cord": {
     "url": "",
@@ -211,8 +315,20 @@
   },
   "Corelight": {
     "url": "https://corelight.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Vern Paxson",
+        "linkedin": ""
+      },
+      {
+        "name": "Robin Sommer",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Brian Dye",
+      "linkedin": "https://www.linkedin.com/in/brdye/"
+    }
   },
   "Coremetrics": {
     "url": "",

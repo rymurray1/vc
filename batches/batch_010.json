@@ -6,8 +6,20 @@
   },
   "Britive": {
     "url": "https://britive.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Artyom Poghosyan",
+        "linkedin": "https://www.linkedin.com/in/artyompoghosyan/"
+      },
+      {
+        "name": "Alex Gudanis",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Artyom Poghosyan",
+      "linkedin": "https://www.linkedin.com/in/artyompoghosyan/"
+    }
   },
   "Brocade": {
     "url": "https://brocade.com",
@@ -41,13 +53,33 @@
   },
   "Bump": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "James Jones",
+        "linkedin": "https://www.linkedin.com/in/james-jones-jr-esq/"
+      }
+    ],
+    "ceo": {
+      "name": "James Jones",
+      "linkedin": "https://www.linkedin.com/in/james-jones-jr-esq/"
+    }
   },
   "Caldera": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Matthew Katz",
+        "linkedin": "https://www.linkedin.com/in/mykatz/"
+      },
+      {
+        "name": "Parker Jou",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Matthew Katz",
+      "linkedin": "https://www.linkedin.com/in/mykatz/"
+    }
   },
   "Calista Technologies": {
     "url": "",
@@ -66,8 +98,20 @@
   },
   "Camp4": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Caryn Fried",
+        "linkedin": "https://www.linkedin.com/in/caryn-fried/"
+      },
+      {
+        "name": "Kat Davis",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Caryn Fried",
+      "linkedin": "https://www.linkedin.com/in/caryn-fried/"
+    }
   },
   "Canal": {
     "url": "",
@@ -81,13 +125,33 @@
   },
   "Candu": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jonathan Anderson",
+        "linkedin": "https://www.linkedin.com/in/jonathankanderson"
+      },
+      {
+        "name": "Michele Riccardo Esposito",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jonathan Anderson",
+      "linkedin": "https://www.linkedin.com/in/jonathankanderson"
+    }
   },
   "Canoa": {
     "url": "https://canoa.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Federico Negro",
+        "linkedin": "https://www.linkedin.com/in/federiconegro/"
+      }
+    ],
+    "ceo": {
+      "name": "Federico Negro",
+      "linkedin": "https://www.linkedin.com/in/federiconegro/"
+    }
   },
   "Canopy Labs": {
     "url": "https://canopylabs.com",
@@ -121,8 +185,20 @@
   },
   "Capstan Medical": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Maggie Nixon",
+        "linkedin": "https://www.linkedin.com/in/maggie-nixon-92089941/"
+      },
+      {
+        "name": "Dan Wallace",
+        "linkedin": "https://www.linkedin.com/in/dan-wallace-18422335/"
+      }
+    ],
+    "ceo": {
+      "name": "Maggie Nixon",
+      "linkedin": "https://www.linkedin.com/in/maggie-nixon-92089941/"
+    }
   },
   "Capsugel": {
     "url": "https://capsugel.com",
@@ -141,8 +217,20 @@
   },
   "CaptivateIQ": {
     "url": "https://captivateiq.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Mark Schopmeyer",
+        "linkedin": "https://www.linkedin.com/in/mschop/"
+      },
+      {
+        "name": "Conway Teng",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Mark Schopmeyer",
+      "linkedin": "https://www.linkedin.com/in/mschop/"
+    }
   },
   "CarNow, Inc.": {
     "url": "",
@@ -156,8 +244,20 @@
   },
   "Carbon Clean": {
     "url": "https://carbonclean.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Aniruddha Sharma",
+        "linkedin": "https://www.linkedin.com/in/aniruddhasharma"
+      },
+      {
+        "name": "Prateek Bumb",
+        "linkedin": "https://www.linkedin.com/in/prateek-bumb-ab17769"
+      }
+    ],
+    "ceo": {
+      "name": "Aniruddha Sharma",
+      "linkedin": "https://www.linkedin.com/in/aniruddhasharma"
+    }
   },
   "CarbonBlack": {
     "url": "https://carbonblack.com",
@@ -166,8 +266,16 @@
   },
   "CarbonCure Technologies": {
     "url": "https://carboncure.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Robert Niven",
+        "linkedin": "https://www.linkedin.com/in/nivencarboncure"
+      }
+    ],
+    "ceo": {
+      "name": "Kristal Kaye",
+      "linkedin": ""
+    }
   },
   "Carbonated": {
     "url": "",
@@ -176,13 +284,37 @@
   },
   "Carbonite": {
     "url": "https://carbonite.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "David Friend",
+        "linkedin": "https://www.linkedin.com/in/david-friend-26773054"
+      },
+      {
+        "name": "Jeff Flowers",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "David Friend",
+      "linkedin": "https://www.linkedin.com/in/david-friend-26773054"
+    }
   },
   "CardinalOps Ltd.": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michael Mumcuoglu",
+        "linkedin": "https://www.linkedin.com/in/michaelmumcuoglu"
+      },
+      {
+        "name": "Yair Manor",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Michael Mumcuoglu",
+      "linkedin": "https://www.linkedin.com/in/michaelmumcuoglu"
+    }
   },
   "Cardiogram": {
     "url": "",
@@ -211,8 +343,16 @@
   },
   "CarePredict": {
     "url": "https://carepredict.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Satish Movva",
+        "linkedin": "https://www.linkedin.com/in/satish-movva-697a45257/"
+      }
+    ],
+    "ceo": {
+      "name": "Satish Movva",
+      "linkedin": "https://www.linkedin.com/in/satish-movva-697a45257/"
+    }
   },
   "CareZone": {
     "url": "https://carezone.com",
@@ -221,32 +361,96 @@
   },
   "Carewell": {
     "url": "https://carewell.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Jonathan Magolnick",
+        "linkedin": ""
+      },
+      {
+        "name": "Bianca L Padilla",
+        "linkedin": "https://www.linkedin.com/in/biancalpadilla/"
+      }
+    ],
+    "ceo": {
+      "name": "Bianca L Padilla",
+      "linkedin": "https://www.linkedin.com/in/biancalpadilla/"
+    }
   },
   "Carrot Fertility": {
     "url": "https://carrotfertility.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Tammy Sun",
+        "linkedin": "https://www.linkedin.com/in/tammysun1/"
+      }
+    ],
+    "ceo": {
+      "name": "Tammy Sun",
+      "linkedin": "https://www.linkedin.com/in/tammysun1/"
+    }
   },
   "Carry1st": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Cordel Robbin-Coker",
+        "linkedin": "https://www.linkedin.com/in/cordelrc/"
+      },
+      {
+        "name": "Tinotenda Mundangepfupfu",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Cordel Robbin-Coker",
+      "linkedin": "https://www.linkedin.com/in/cordelrc/"
+    }
   },
   "Carta": {
     "url": "https://carta.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Henry Ward",
+        "linkedin": "https://www.linkedin.com/in/heward/"
+      }
+    ],
+    "ceo": {
+      "name": "Henry Ward",
+      "linkedin": "https://www.linkedin.com/in/heward/"
+    }
   },
   "Cartesia": {
     "url": "https://cartesia.ai",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Karan Goel",
+        "linkedin": "https://www.linkedin.com/in/krandiash/"
+      },
+      {
+        "name": "Albert Gu",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Karan Goel",
+      "linkedin": "https://www.linkedin.com/in/krandiash/"
+    }
   },
   "Cartography Biosciences": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Kevin Parker",
+        "linkedin": "https://www.linkedin.com/in/kevin-parker-584a1089/"
+      },
+      {
+        "name": "Ansuman Satpathy",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Kevin Parker",
+      "linkedin": "https://www.linkedin.com/in/kevin-parker-584a1089/"
+    }
   }
 }
