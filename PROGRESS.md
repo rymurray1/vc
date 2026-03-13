@@ -37,3 +37,14 @@ Using 3 concurrent agents:
 - Companies with no findable data left with empty founders array
 - All data committed to GitHub: https://github.com/rymurray1/vc.git
 - LinkedIn URLs preserved in full format
+
+## Round 2 Status (In Progress)
+- Agent 1 (aab001ae846cc8d51): Batches 010-012 - ACTIVE ✓
+  - Successfully searching: Chef Software, Chia Network, Chipper Cash, Chkk, etc.
+  - Gathering founder/CEO data in real-time
+  
+- Agent 2 (a25c20f09e6874c09): Batches 013-015 - RUNNING
+  
+- Agent 3 (a0a16054c09c4b496): Batches 016-018 - RUNNING
+
+**Status**: Agents are actively processing and will continue in background
