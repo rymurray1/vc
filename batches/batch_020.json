@@ -56,7 +56,20 @@
   },
   "Drata": {
     "url": "https://drata.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Markowitzadam",
+        "linkedin": "https://linkedin.com/in/markowitzadam"
+      },
+      {
+        "name": "Danielzev",
+        "linkedin": "https://linkedin.com/in/danielzev"
+      },
+      {
+        "name": "Troymarkowitz",
+        "linkedin": "https://linkedin.com/in/troymarkowitz"
+      }
+    ],
     "ceo": null
   },
   "Dream Games": {
@@ -76,7 +89,64 @@
   },
   "Dremio": {
     "url": "https://dremio.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Sendur",
+        "linkedin": "https://linkedin.com/in/sendur"
+      },
+      {
+        "name": "Tshiran",
+        "linkedin": "https://linkedin.com/in/tshiran"
+      },
+      {
+        "name": "Read Maloney 3732Bb5",
+        "linkedin": "https://linkedin.com/in/read-maloney-3732bb5"
+      },
+      {
+        "name": "Mattquarfoot",
+        "linkedin": "https://linkedin.com/in/mattquarfoot"
+      },
+      {
+        "name": "Rahimb",
+        "linkedin": "https://linkedin.com/in/rahimb"
+      },
+      {
+        "name": "Cody Draper B6398120",
+        "linkedin": "https://linkedin.com/in/cody-draper-b6398120"
+      },
+      {
+        "name": "Robyn Longfellow Wellbrock Shrm Scp Ab25492",
+        "linkedin": "https://linkedin.com/in/robyn-longfellow-wellbrock-shrm-scp-ab25492"
+      },
+      {
+        "name": "Eric Anthony Winkler 8133A0107",
+        "linkedin": "https://linkedin.com/in/eric-anthony-winkler-8133a0107"
+      },
+      {
+        "name": "Barry Eggers 3B63692",
+        "linkedin": "https://linkedin.com/in/barry-eggers-3b63692"
+      },
+      {
+        "name": "Robin Matlock 9Ab5A3",
+        "linkedin": "https://linkedin.com/in/robin-matlock-9ab5a3"
+      },
+      {
+        "name": "Andersranum",
+        "linkedin": "https://linkedin.com/in/andersranum"
+      },
+      {
+        "name": "Teddie",
+        "linkedin": "https://linkedin.com/in/teddie"
+      },
+      {
+        "name": "Jordan Segall 7B938632",
+        "linkedin": "https://linkedin.com/in/jordan-segall-7b938632"
+      },
+      {
+        "name": "Matthewdouglashoward",
+        "linkedin": "https://linkedin.com/in/matthewdouglashoward"
+      }
+    ],
     "ceo": null
   },
   "Drill Creative": {
@@ -216,7 +286,12 @@
   },
   "Dyno Therapeutics": {
     "url": "https://dynotx.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kelsic",
+        "linkedin": "https://linkedin.com/in/kelsic"
+      }
+    ],
     "ceo": null
   },
   "E-Pal": {
@@ -241,7 +316,24 @@
   },
   "Earli": {
     "url": "https://earli.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mark Jacobstein",
+        "linkedin": "https://linkedin.com/in/markjacobstein"
+      },
+      {
+        "name": "Adam Bass",
+        "linkedin": "https://linkedin.com/in/adam-bass-a1402534"
+      },
+      {
+        "name": "Alex Parker",
+        "linkedin": "https://linkedin.com/in/alex-parker-955a292"
+      },
+      {
+        "name": "Jeff Lee, HRZ (Korea/US) \u2192",
+        "linkedin": "https://linkedin.com/in/jeffdlee"
+      }
+    ],
     "ceo": null
   },
   "Earn Holdings": {
