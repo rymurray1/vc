@@ -11,7 +11,32 @@
   },
   "Embroker": {
     "url": "https://embroker.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ben Jennings 8643B61",
+        "linkedin": "https://linkedin.com/in/ben-jennings-8643b61"
+      },
+      {
+        "name": "Deannaljohnston",
+        "linkedin": "https://linkedin.com/in/deannaljohnston"
+      },
+      {
+        "name": "Brianacks",
+        "linkedin": "https://linkedin.com/in/brianacks"
+      },
+      {
+        "name": "Andy Lea 46Bb642",
+        "linkedin": "https://linkedin.com/in/andy-lea-46bb642"
+      },
+      {
+        "name": "Kristy Malm 57072A1",
+        "linkedin": "https://linkedin.com/in/kristy-malm-57072a1"
+      },
+      {
+        "name": "Genelinetsky",
+        "linkedin": "https://linkedin.com/in/genelinetsky"
+      }
+    ],
     "ceo": null
   },
   "Emerge Tools": {
@@ -46,7 +71,56 @@
   },
   "Enable": {
     "url": "https://enable.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/awbutt"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/phildavisny"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/steve-davito"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/ligia-zamora"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/martylabelle"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/susanlyonhailey"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/steve-sloane-7a00ba30"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/seanjacobsohn"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/philine-huizing"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/kimisaac"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/levin"
+      },
+      {
+        "name": "Linkedin",
+        "linkedin": "https://linkedin.com/in/julieiskow"
+      }
+    ],
     "ceo": null
   },
   "Encoded Therapeutics": {
@@ -71,7 +145,76 @@
   },
   "Endor Labs": {
     "url": "https://endorlabs.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Varun BadhwarCEO and Co-Founder",
+        "linkedin": "https://linkedin.com/in/vbadhwar"
+      },
+      {
+        "name": "Dimitri StiliadisCTO and Co-Founder",
+        "linkedin": "https://linkedin.com/in/stiliadis"
+      },
+      {
+        "name": "Aisling MacRunnelsChief Growth Officer",
+        "linkedin": "https://linkedin.com/in/aisling-macrunnels-a021572"
+      },
+      {
+        "name": "Georgios GousiosChief Researcher",
+        "linkedin": "https://linkedin.com/in/gousiosg"
+      },
+      {
+        "name": "Ram GodaVP, Engineering",
+        "linkedin": "https://linkedin.com/in/ramgoda"
+      },
+      {
+        "name": "Sriram SubramanianManaging Director and R&D Head India",
+        "linkedin": "https://linkedin.com/in/reachsrirams"
+      },
+      {
+        "name": "Amod GuptaVP of Product",
+        "linkedin": "https://linkedin.com/in/amodgupta"
+      },
+      {
+        "name": "Nic LaBuzVP, Sales",
+        "linkedin": "https://linkedin.com/in/nicolaslabuz"
+      },
+      {
+        "name": "Tom GleasonVP, Customer Solutions",
+        "linkedin": "https://linkedin.com/in/thomasdgleason"
+      },
+      {
+        "name": "Andrew DavidsonVP, Business Development",
+        "linkedin": "https://linkedin.com/in/andrewdgtm"
+      },
+      {
+        "name": "Michael McClainVP, Finance",
+        "linkedin": "https://linkedin.com/in/michael-mcclain-2989753"
+      },
+      {
+        "name": "Heidi GermainVP, People",
+        "linkedin": "https://linkedin.com/in/heidi-germain-b939b124"
+      },
+      {
+        "name": "Arif JanmohamedPartner",
+        "linkedin": "https://linkedin.com/in/arifj"
+      },
+      {
+        "name": "Sri ViswanathManaging Director/CEO",
+        "linkedin": "https://linkedin.com/in/sriviswanath"
+      },
+      {
+        "name": "Deepak JeevankumarManaging Director",
+        "linkedin": "https://linkedin.com/in/deepakjeevankumar"
+      },
+      {
+        "name": "Ramin SayarVenture Partner",
+        "linkedin": "https://linkedin.com/in/raminsayar"
+      },
+      {
+        "name": "Kartik GuptaPrincipal",
+        "linkedin": "https://linkedin.com/in/kartikeyagupta9"
+      }
+    ],
     "ceo": null
   },
   "Endowus": {

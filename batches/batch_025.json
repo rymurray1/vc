@@ -41,7 +41,24 @@
   },
   "Fixposition": {
     "url": "https://fixposition.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ph.D. Zhenzhong Su CEO",
+        "linkedin": "https://linkedin.com/in/zhenzhong-su"
+      },
+      {
+        "name": "Lukas Meier CTO and",
+        "linkedin": "https://linkedin.com/in/lukasdanmeier"
+      },
+      {
+        "name": "Peter Mardaleichvili Head of",
+        "linkedin": "https://linkedin.com/in/peter-mardaleichvili-9050881b0"
+      },
+      {
+        "name": "Ulf Claesson Independent Chairman",
+        "linkedin": "https://linkedin.com/in/ulfclaesson"
+      }
+    ],
     "ceo": null
   },
   "Fizz": {
