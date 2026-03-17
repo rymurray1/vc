@@ -19904,128 +19904,7 @@
   {
     "name": "Breakthrough Energy Ventures",
     "country": "United States",
-    "investments": [
-      {
-        "company": "Fervo Energy",
-        "url": "https://fervoenergy.com"
-      },
-      {
-        "company": "Antora Energy",
-        "url": "https://antoraenergy.com"
-      },
-      {
-        "company": "Lilac Solutions",
-        "url": "https://lilacsolutions.com"
-      },
-      {
-        "company": "1366 Technologies",
-        "url": "https://1366tech.com"
-      },
-      {
-        "company": "75F",
-        "url": "https://75f.io"
-      },
-      {
-        "company": "CarbonCure Technologies",
-        "url": "https://carboncure.com"
-      },
-      {
-        "company": "Pachama",
-        "url": "https://pachama.com"
-      },
-      {
-        "company": "Sparkmeter",
-        "url": "https://sparkmeter.io"
-      },
-      {
-        "company": "Zap Energy",
-        "url": "https://zapenergy.com"
-      },
-      {
-        "company": "Commonwealth Fusion Systems",
-        "url": "https://cfs.energy"
-      },
-      {
-        "company": "Electric Hydrogen",
-        "url": "https://eh2.com"
-      },
-      {
-        "company": "Noon Energy",
-        "url": "https://noonenergy.com"
-      },
-      {
-        "company": "Rondo Energy",
-        "url": "https://rondo.com"
-      },
-      {
-        "company": "Form Energy",
-        "url": "https://formenergy.com"
-      },
-      {
-        "company": "Solid Power",
-        "url": "https://solidpowerbattery.com"
-      },
-      {
-        "company": "QuantumScape",
-        "url": "https://quantumscape.com"
-      },
-      {
-        "company": "IonQ",
-        "url": "https://ionq.com"
-      },
-      {
-        "company": "Impossible Foods",
-        "url": "https://impossiblefoods.com"
-      },
-      {
-        "company": "Pivot Bio",
-        "url": "https://pivotbio.com"
-      },
-      {
-        "company": "Arcadia Biosciences",
-        "url": "https://arcadiabio.com"
-      },
-      {
-        "company": "Heirloom Carbon",
-        "url": "https://heirloomcarbon.com"
-      },
-      {
-        "company": "Blue Planet Systems",
-        "url": "https://blueplanetsystems.com"
-      },
-      {
-        "company": "Boston Metal",
-        "url": "https://bostonmetal.com"
-      },
-      {
-        "company": "Carbon Clean",
-        "url": "https://carbonclean.com"
-      },
-      {
-        "company": "Twelve",
-        "url": "https://twelve.co"
-      },
-      {
-        "company": "C16 Biosciences",
-        "url": "https://c16bio.com"
-      },
-      {
-        "company": "Ceres Imaging",
-        "url": "https://ceresimaging.net"
-      },
-      {
-        "company": "Mati Carbon",
-        "url": "https://maticarbontech.com"
-      },
-      {
-        "company": "Terra CO2 Technology",
-        "url": "https://terraco2.com"
-      },
-      {
-        "company": "Verdox",
-        "url": "https://verdox.com"
-      }
-    ]
+    "investments": []
   },
   {
     "name": "Crosslink Capital",
@@ -24704,5 +24583,785 @@
         "url": "https://medstack.co"
       }
     ]
+  },
+  {
+    "name": "The Engine",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Clean Energy Ventures",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "United Airlines",
+        "url": "https://www.united.com/ual/en/us/fly/company/united-airlines-ventures.html"
+      },
+      {
+        "company": "Breakthrough Energy Fellows",
+        "url": "https://www.breakthroughenergy.org/our-work/discovery/fellows/"
+      },
+      {
+        "company": "Linkedin",
+        "url": "https://www.linkedin.com/company/clean-energy-ventures"
+      },
+      {
+        "company": "Looking for Investment?",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "Pillar VC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Atlas Venture",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Energy Impact Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Activate Global",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "Meet the InnovatorsShaping the Future",
+        "url": ""
+      },
+      {
+        "company": "Bridging science with entrepreneurship",
+        "url": ""
+      },
+      {
+        "company": "The Fellowship",
+        "url": ""
+      },
+      {
+        "company": "Innovation Labs",
+        "url": ""
+      },
+      {
+        "company": "Our Community",
+        "url": ""
+      },
+      {
+        "company": "Blog & News",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "Third Rock Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Hyperplane",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Underscore VC",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "Co-Investors",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "MassVentures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Prelude Ventures",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "AMP",
+        "url": "https://www.preludeventures.com/portfolio/amp-robotics"
+      },
+      {
+        "company": "Arable",
+        "url": "https://www.preludeventures.com/portfolio/arable"
+      },
+      {
+        "company": "Atom Computing",
+        "url": "https://www.preludeventures.com/portfolio/atom-computing"
+      },
+      {
+        "company": "Augmenta",
+        "url": "https://www.preludeventures.com/portfolio/augmenta"
+      },
+      {
+        "company": "Boston Metal",
+        "url": "https://www.preludeventures.com/portfolio/boston-metal"
+      },
+      {
+        "company": "Branch Energy",
+        "url": "https://www.preludeventures.com/portfolio/branch-energy"
+      },
+      {
+        "company": "Brightband",
+        "url": "https://www.preludeventures.com/portfolio/brightband"
+      },
+      {
+        "company": "Citrine Informatics",
+        "url": "https://www.preludeventures.com/portfolio/citrine"
+      },
+      {
+        "company": "Copper",
+        "url": "https://www.preludeventures.com/portfolio/copper"
+      },
+      {
+        "company": "Ebb Carbon",
+        "url": "https://www.preludeventures.com/portfolio/ebb-carbon"
+      },
+      {
+        "company": "Electric Hydrogen",
+        "url": "https://www.preludeventures.com/portfolio/electric-hydrogen"
+      },
+      {
+        "company": "Element Energy",
+        "url": "https://www.preludeventures.com/portfolio/element-energy"
+      },
+      {
+        "company": "Form Energy",
+        "url": "https://www.preludeventures.com/portfolio/form-energy"
+      },
+      {
+        "company": "Graphyte",
+        "url": "https://www.preludeventures.com/portfolio/graphyte"
+      },
+      {
+        "company": "Heirloom Technologies",
+        "url": "https://www.preludeventures.com/portfolio/heirloom-technologies"
+      },
+      {
+        "company": "Koloma",
+        "url": "https://www.preludeventures.com/portfolio/koloma"
+      },
+      {
+        "company": "Latitude Media",
+        "url": "https://www.preludeventures.com/portfolio/latitude-media"
+      },
+      {
+        "company": "LevelTen Energy",
+        "url": "https://www.preludeventures.com/portfolio/levelten-energy"
+      },
+      {
+        "company": "Lightship",
+        "url": "https://www.preludeventures.com/portfolio/lightship"
+      },
+      {
+        "company": "Lime",
+        "url": "https://www.preludeventures.com/portfolio/lime"
+      },
+      {
+        "company": "Living Carbon",
+        "url": "https://www.preludeventures.com/portfolio/living-carbon"
+      },
+      {
+        "company": "Lunar Energy",
+        "url": "https://www.preludeventures.com/portfolio/lunar-energy"
+      },
+      {
+        "company": "LuxWall",
+        "url": "https://www.preludeventures.com/portfolio/luxwall"
+      },
+      {
+        "company": "Meridian Clean Energy",
+        "url": "https://www.preludeventures.com/portfolio/meridian"
+      },
+      {
+        "company": "Mill",
+        "url": "https://www.preludeventures.com/portfolio/mill"
+      },
+      {
+        "company": "MineSense",
+        "url": "https://www.preludeventures.com/portfolio/minesense"
+      },
+      {
+        "company": "OptimoRoute",
+        "url": "https://www.preludeventures.com/portfolio/optimoroute"
+      },
+      {
+        "company": "Persefoni",
+        "url": "https://www.preludeventures.com/portfolio/persefoni"
+      },
+      {
+        "company": "Photara",
+        "url": "https://www.preludeventures.com/portfolio/photara"
+      },
+      {
+        "company": "Pivot Bio",
+        "url": "https://www.preludeventures.com/portfolio/pivotbio"
+      },
+      {
+        "company": "Pyka",
+        "url": "https://www.preludeventures.com/portfolio/pyka"
+      },
+      {
+        "company": "Quaise",
+        "url": "https://www.preludeventures.com/portfolio/quaise"
+      },
+      {
+        "company": "Recurrent",
+        "url": "https://www.preludeventures.com/portfolio/recurrent"
+      },
+      {
+        "company": "Redoxblox",
+        "url": "https://www.preludeventures.com/portfolio/redoxblox"
+      },
+      {
+        "company": "Renew Financial",
+        "url": "https://www.preludeventures.com/portfolio/renew-financial"
+      },
+      {
+        "company": "Rhoda AI",
+        "url": "https://www.preludeventures.com/portfolio/rhoda-ai"
+      },
+      {
+        "company": "Ripple Foods",
+        "url": "https://www.preludeventures.com/portfolio/ripple-foods"
+      },
+      {
+        "company": "Rumin8",
+        "url": "https://www.preludeventures.com/portfolio/rumin8"
+      },
+      {
+        "company": "Sense",
+        "url": "https://www.preludeventures.com/portfolio/sense"
+      },
+      {
+        "company": "Terabase Energy",
+        "url": "https://www.preludeventures.com/portfolio/terabase-energy"
+      },
+      {
+        "company": "Thea Energy",
+        "url": "https://www.preludeventures.com/portfolio/thea-energy"
+      },
+      {
+        "company": "Trove",
+        "url": "https://www.preludeventures.com/portfolio/trove"
+      },
+      {
+        "company": "Understory",
+        "url": "https://www.preludeventures.com/portfolio/understory"
+      },
+      {
+        "company": "Vaulted Deep",
+        "url": "https://www.preludeventures.com/portfolio/vaulted-deep"
+      },
+      {
+        "company": "Voltus",
+        "url": "https://www.preludeventures.com/portfolio/voltus"
+      },
+      {
+        "company": "Windfall Bio",
+        "url": "https://www.preludeventures.com/portfolio/windfall-bio"
+      },
+      {
+        "company": "Xcimer",
+        "url": "https://www.preludeventures.com/portfolio/xcimer"
+      },
+      {
+        "company": "Zero Homes",
+        "url": "https://www.preludeventures.com/portfolio/zero-homes"
+      },
+      {
+        "company": "LinkedIn",
+        "url": "https://www.linkedin.com/company/prelude-ventures"
+      },
+      {
+        "company": "Bold thinkers deserve innovative partnerships.",
+        "url": ""
+      },
+      {
+        "company": "Sort by",
+        "url": ""
+      },
+      {
+        "company": "ClearMetal",
+        "url": ""
+      },
+      {
+        "company": "CoverCress",
+        "url": ""
+      },
+      {
+        "company": "EnergySavvy",
+        "url": ""
+      },
+      {
+        "company": "Fervo Energy",
+        "url": ""
+      },
+      {
+        "company": "GreenLight Biosciences",
+        "url": ""
+      },
+      {
+        "company": "Planet",
+        "url": ""
+      },
+      {
+        "company": "PLANT PV",
+        "url": ""
+      },
+      {
+        "company": "QuantumScape",
+        "url": ""
+      },
+      {
+        "company": "Raxium",
+        "url": ""
+      },
+      {
+        "company": "Sense Photonics",
+        "url": ""
+      },
+      {
+        "company": "SolarBridge Technologies",
+        "url": ""
+      },
+      {
+        "company": "Unspun",
+        "url": ""
+      },
+      {
+        "company": "Zymergen",
+        "url": ""
+      },
+      {
+        "company": "Work with ourportfolio companies",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "Congruent Ventures",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "LinkedIn",
+        "url": "https://www.linkedin.com/company/congruent-ventures/"
+      },
+      {
+        "company": "Amply Power(Acquired by BP)\nEV fleet managementFilters Here",
+        "url": "https://congruentvc.com/portfolio/Amply-Power"
+      },
+      {
+        "company": "Bright HarborDisaster recovery supportFilters Here",
+        "url": "https://congruentvc.com/portfolio/bright-harbor"
+      },
+      {
+        "company": "FleetCommuter benefits platformFilters Here",
+        "url": "https://congruentvc.com/portfolio/fleet"
+      },
+      {
+        "company": "Hopthru(Acquired by Swiftly) Public transit efficiencyFilters Here",
+        "url": "https://congruentvc.com/portfolio/Hopthru"
+      },
+      {
+        "company": "LightshipAll-electric towable RVsFilters Here",
+        "url": "https://congruentvc.com/portfolio/Lightship"
+      },
+      {
+        "company": "LydianSustainable electro-fuelsFilters Here",
+        "url": "https://congruentvc.com/portfolio/lydian-labs"
+      },
+      {
+        "company": "OptimoRouteRoute optimizationFilters Here",
+        "url": "https://congruentvc.com/portfolio/OptimoRoute"
+      },
+      {
+        "company": "Parallel SystemsElectrified, autonomous railFilters Here",
+        "url": "https://congruentvc.com/portfolio/Parallel-Systems"
+      },
+      {
+        "company": "PrestoPublic EV charging serviceFilters Here",
+        "url": "https://congruentvc.com/portfolio/chargepass"
+      },
+      {
+        "company": "Sense Photonics(Acquired by OUST)\nFlash lidar systemsFilters Here",
+        "url": "https://congruentvc.com/portfolio/Sense-Photonics"
+      },
+      {
+        "company": "Stable AutoSaaS for EV charging stationsFilters Here",
+        "url": "https://congruentvc.com/portfolio/Stable-Auto"
+      },
+      {
+        "company": "SynopEV infrastructure optimizationFilters Here",
+        "url": "https://congruentvc.com/portfolio/Synop"
+      },
+      {
+        "company": "XtelligentAI dynamic traffic routing & lightsFilters Here",
+        "url": "https://congruentvc.com/portfolio/xtelligent"
+      },
+      {
+        "company": "ZenoSports utility electric motorcycles, batteries, and energyFilters Here",
+        "url": "https://congruentvc.com/portfolio/zeno"
+      },
+      {
+        "company": "Adaptive InsuranceParametric Climate InsuranceFilters Here",
+        "url": "https://congruentvc.com/portfolio/adaptive-insurance"
+      },
+      {
+        "company": "Avalanche EnergyMicro fusion reactorsFilters Here",
+        "url": "https://congruentvc.com/portfolio/Avalanche-Energy"
+      },
+      {
+        "company": "Blueprint Power(Acquired by BP)\nBuilding DER managementFilters Here",
+        "url": "https://congruentvc.com/portfolio/Blueprint-Power"
+      },
+      {
+        "company": "CamusSoftware for grid operatorsFilters Here",
+        "url": "https://congruentvc.com/portfolio/camus"
+      },
+      {
+        "company": "DemexClimate risk reinsuranceFilters Here",
+        "url": "https://congruentvc.com/portfolio/demex"
+      },
+      {
+        "company": "EnerfloSolar developer ERP softwareFilters Here",
+        "url": "https://congruentvc.com/portfolio/enerflo"
+      },
+      {
+        "company": "Energetic CapitalMGU for renewable energy industryFilters Here",
+        "url": "https://congruentvc.com/portfolio/Energetic-Insurance"
+      },
+      {
+        "company": "FervoGeothermal electric powerFilters Here",
+        "url": "https://congruentvc.com/portfolio/Fervo"
+      },
+      {
+        "company": "First StreetClimate risk analyticsFilters Here",
+        "url": "https://congruentvc.com/portfolio/first-street"
+      },
+      {
+        "company": "GridStrongAll-in-one platform for grid compliance and operationsFilters Here",
+        "url": "https://congruentvc.com/portfolio/gridstrong"
+      },
+      {
+        "company": "HalcyonDecarbonization data platformFilters Here",
+        "url": "https://congruentvc.com/portfolio/halcyon"
+      },
+      {
+        "company": "LeapDER aggregator and marketplaceFilters Here",
+        "url": "https://congruentvc.com/portfolio/leapfrog-power"
+      },
+      {
+        "company": "OmnidianO&M and performance guaranteeFilters Here",
+        "url": "https://congruentvc.com/portfolio/Omnidian"
+      },
+      {
+        "company": "Raptor MapsUtility-scale solar analyticsFilters Here",
+        "url": "https://congruentvc.com/portfolio/Raptor-Maps"
+      },
+      {
+        "company": "Span.IOSmart electrical panelsFilters Here",
+        "url": "https://congruentvc.com/portfolio/SpanIO"
+      },
+      {
+        "company": "VEIRNext-gen electric transmission linesFilters Here",
+        "url": "https://congruentvc.com/portfolio/VEIR"
+      },
+      {
+        "company": "Applied CarbonIn-field biochar processingFilters Here",
+        "url": "https://congruentvc.com/portfolio/Climate-Robotics"
+      },
+      {
+        "company": "AuX LabsAnimal-free dairy and egg proteinsFilters Here",
+        "url": "https://congruentvc.com/portfolio/aux-labs"
+      },
+      {
+        "company": "Bellwether CoffeeCoffee roasting systems & beansFilters Here",
+        "url": "https://congruentvc.com/portfolio/Bellwether-Coffee"
+      },
+      {
+        "company": "Bonsai RoboticsAg equipment autonomyFilters Here",
+        "url": "https://congruentvc.com/portfolio/bonsai-robotics"
+      },
+      {
+        "company": "HearteeContainerized mushroom agFilters Here",
+        "url": "https://congruentvc.com/portfolio/Adapt"
+      },
+      {
+        "company": "Hippo HarvestGreenhouse AI & automationFilters Here",
+        "url": "https://congruentvc.com/portfolio/Hippo-Harvest"
+      },
+      {
+        "company": "KodamaForest health managementFilters Here",
+        "url": "https://congruentvc.com/portfolio/Kodama"
+      },
+      {
+        "company": "Pano.AIAI for wildfire managementFilters Here",
+        "url": "https://congruentvc.com/portfolio/PanoAI"
+      },
+      {
+        "company": "Phase GenomicsComp. genomics for microbiomesFilters Here",
+        "url": "https://congruentvc.com/portfolio/Phase-Genomics"
+      },
+      {
+        "company": "RobigoEngineered bio-pesticidesFilters Here",
+        "url": "https://congruentvc.com/portfolio/robigo"
+      },
+      {
+        "company": "Stor PrEquipment and software for food preservationFilters Here",
+        "url": "https://congruentvc.com/portfolio/stor-preservation-systems"
+      },
+      {
+        "company": "Telesense(Acquired by UPL) Grain & seed supply chain IoTFilters Here",
+        "url": "https://congruentvc.com/portfolio/Telesense"
+      },
+      {
+        "company": "Alloy EnterprisesAluminum and copper mfgFilters Here",
+        "url": "https://congruentvc.com/portfolio/Alloy-Enterprises"
+      },
+      {
+        "company": "AMPRobotic recycling sortationFilters Here",
+        "url": "https://congruentvc.com/portfolio/AMP"
+      },
+      {
+        "company": "Dispatch GoodsCircular commerce for packagingFilters Here",
+        "url": "https://congruentvc.com/portfolio/Dispatch-Goods"
+      },
+      {
+        "company": "Ebb CarbonOcean-based carbon removalFilters Here",
+        "url": "https://congruentvc.com/portfolio/Ebb-Carbon"
+      },
+      {
+        "company": "Fox Robotics(Acquired by SYM) Autonomous forkliftsFilters Here",
+        "url": "https://congruentvc.com/portfolio/Fox-Robotics"
+      },
+      {
+        "company": "Machina LabsTool-free sheet metal formingFilters Here",
+        "url": "https://congruentvc.com/portfolio/Machina-Labs"
+      },
+      {
+        "company": "Muon SpaceNext-generation climate satellitesFilters Here",
+        "url": "https://congruentvc.com/portfolio/muon-space"
+      },
+      {
+        "company": "Pico MESFactory efficiency softwareFilters Here",
+        "url": "https://congruentvc.com/portfolio/Pico-MES"
+      },
+      {
+        "company": "Planet FWDCarbon lifecycle assessmentsFilters Here",
+        "url": "https://congruentvc.com/portfolio/planet-fwd"
+      },
+      {
+        "company": "PolySpectraAdvanced 3D printing polymersFilters Here",
+        "url": "https://congruentvc.com/portfolio/PolySpectra"
+      },
+      {
+        "company": "Rendered.AISynthetic data platformFilters Here",
+        "url": "https://congruentvc.com/portfolio/RenderedAI"
+      },
+      {
+        "company": "TerranovaTerraforming robots that lift land out of flood zonesFilters Here",
+        "url": "https://congruentvc.com/portfolio/terranova"
+      },
+      {
+        "company": "TrashieClosed loop fashionFilters Here",
+        "url": "https://congruentvc.com/portfolio/For-Days"
+      },
+      {
+        "company": "VectorSupply chain efficiency toolsFilters Here",
+        "url": "https://congruentvc.com/portfolio/Vector"
+      },
+      {
+        "company": "Mobility +\u00a0Urbanization",
+        "url": ""
+      },
+      {
+        "company": "Mobility +Urbanization",
+        "url": ""
+      },
+      {
+        "company": "ENERGY\u00a0\u00a0TRANSITION",
+        "url": ""
+      },
+      {
+        "company": "FOOD\u00a0+\u00a0AGRICULTURE",
+        "url": ""
+      },
+      {
+        "company": "Food +\u00a0Agriculture",
+        "url": ""
+      },
+      {
+        "company": "SUSTAINABLEPRODUCTION\u00a0+CONSUMPTION",
+        "url": ""
+      },
+      {
+        "company": "Sustainable Production +\u00a0Consumption",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "Greentown Labs",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Prime Coalition",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Plug and Play",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Draper Associates",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Correlation Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Heartcore Capital",
+    "country": "Denmark",
+    "investments": []
+  },
+  {
+    "name": "Contrarian Ventures",
+    "country": "Lithuania",
+    "investments": []
+  },
+  {
+    "name": "IDG Capital",
+    "country": "China",
+    "investments": []
+  },
+  {
+    "name": "Airtree Ventures",
+    "country": "Australia",
+    "investments": []
+  },
+  {
+    "name": "Playfair Capital",
+    "country": "United Kingdom",
+    "investments": []
+  },
+  {
+    "name": "BDC Venture Capital",
+    "country": "Canada",
+    "investments": []
+  },
+  {
+    "name": "Future Energy Ventures",
+    "country": "Germany",
+    "investments": []
+  },
+  {
+    "name": "Kapor Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Icebreaker.vc",
+    "country": "Finland",
+    "investments": []
+  },
+  {
+    "name": "Partech",
+    "country": "France",
+    "investments": []
+  },
+  {
+    "name": "Boost VC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Panache Ventures",
+    "country": "Canada",
+    "investments": []
+  },
+  {
+    "name": "Axon Partners Group",
+    "country": "Spain",
+    "investments": []
+  },
+  {
+    "name": "Mercury",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Emerald Technology Ventures",
+    "country": "Switzerland",
+    "investments": []
+  },
+  {
+    "name": "HCVC",
+    "country": "France",
+    "investments": []
+  },
+  {
+    "name": "Lemnos VC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Fortune Venture Capital",
+    "country": "China",
+    "investments": []
+  },
+  {
+    "name": "SHIFT Invest",
+    "country": "Netherlands",
+    "investments": []
+  },
+  {
+    "name": "Cortado Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cycle Capital",
+    "country": "Canada",
+    "investments": []
+  },
+  {
+    "name": "Frontier Venture Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Startuplab",
+    "country": "Norway",
+    "investments": []
+  },
+  {
+    "name": "ArcTern Ventures",
+    "country": "Canada",
+    "investments": []
+  },
+  {
+    "name": "Inven Capital",
+    "country": "Czech Republic",
+    "investments": []
+  },
+  {
+    "name": "Industrifonden",
+    "country": "Sweden",
+    "investments": []
   }
 ]

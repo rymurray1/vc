@@ -1,0 +1,1029 @@
+{
+  "Sequoia Capital": {
+    "focus": [
+      "deep tech",
+      "general"
+    ],
+    "ma_presence": false,
+    "hq": "Palo Alto, CA"
+  },
+  "Andreessen Horowitz": {
+    "focus": [
+      "deep tech",
+      "general"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Kleiner Perkins": {
+    "focus": [
+      "deep tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Accel": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Benchmark": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Greylock Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "New Enterprise Associates": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Lightspeed Venture Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "General Catalyst": {
+    "focus": [
+      "deep tech",
+      "general"
+    ],
+    "ma_presence": true,
+    "hq": "Cambridge, MA"
+  },
+  "Bessemer Venture Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Battery Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Founders Fund": {
+    "focus": [
+      "deep tech",
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "First Round Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Philadelphia, PA"
+  },
+  "Khosla Ventures": {
+    "focus": [
+      "deep tech",
+      "green tech",
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Menlo Park, CA"
+  },
+  "Union Square Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Spark Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Index Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "London, UK"
+  },
+  "Insight Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Tiger Global Management": {
+    "focus": [
+      "general"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Coatue Management": {
+    "focus": [
+      "deep tech",
+      "general"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "GV": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Intel Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Santa Clara, CA"
+  },
+  "Salesforce Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "M12": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Seattle, WA"
+  },
+  "Lux Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "New York, NY"
+  },
+  "True Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Forerunner Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Felicis Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "CRV": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Matrix Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Norwest Venture Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Menlo Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Menlo Park, CA"
+  },
+  "Mayfield Fund": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Palo Alto, CA"
+  },
+  "Canaan Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "RRE Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Draper Fisher Jurvetson": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Foundation Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Scale Venture Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Upfront Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Los Angeles, CA"
+  },
+  "Y Combinator": {
+    "focus": [
+      "deep tech",
+      "general"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "500 Global": {
+    "focus": [
+      "deep tech",
+      "general"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Initialized Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "SV Angel": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Two Sigma Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Sapphire Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Emergence Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "OpenView Venture Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Boston, MA"
+  },
+  "Redpoint Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Palo Alto, CA"
+  },
+  "IVP": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "General Atlantic": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Summit Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "TA Associates": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Bain Capital Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "GGV Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "DCM Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Ribbit Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Thrive Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Craft Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "SignalFire": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Social Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Homebrew": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Slow Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "TCV": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "8VC": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Atomic": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Baseline Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Palo Alto, CA"
+  },
+  "Bond Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Breakthrough Energy Ventures": {
+    "focus": [
+      "green tech",
+      "energy tech",
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Kirkland, WA"
+  },
+  "Crosslink Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "DCVC": {
+    "focus": [
+      "deep tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Drive Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Columbus, OH"
+  },
+  "Eclipse Ventures": {
+    "focus": [
+      "deep tech",
+      "green tech",
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Palo Alto, CA"
+  },
+  "Flagship Pioneering": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Cambridge, MA"
+  },
+  "Greenspring Associates": {
+    "focus": [
+      "green tech",
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Baltimore, MD"
+  },
+  "Innovation Endeavors": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Jump Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Lerer Hippeau": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "NextView Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Obvious Ventures": {
+    "focus": [
+      "deep tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Primary Venture Partners": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Point72 Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Stanford, CT"
+  },
+  "Freestyle Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "BoxGroup": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Canvas Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Eniac Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Philadelphia, PA"
+  },
+  "FirstMark Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "New York, NY"
+  },
+  "Greenoaks Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Haystack": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Boston, MA"
+  },
+  "Lowercase Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Shasta Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Altimeter Capital": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Addition": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "SoftBank Vision Fund": {
+    "focus": [
+      "deep tech",
+      "general"
+    ],
+    "ma_presence": false,
+    "hq": "Tokyo, Japan"
+  },
+  "DST Global": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Moscow, Russia"
+  },
+  "Growthworks": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Toronto, Canada"
+  },
+  "The Engine": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Cambridge, MA"
+  },
+  "Clean Energy Ventures": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Pillar VC": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Atlas Venture": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Cambridge, MA"
+  },
+  "Energy Impact Partners": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Activate Global": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Somerville, MA"
+  },
+  "Third Rock Ventures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Hyperplane": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "Underscore VC": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Boston, MA"
+  },
+  "MassVentures": {
+    "focus": [
+      "deep tech"
+    ],
+    "ma_presence": true,
+    "hq": "Waltham, MA"
+  },
+  "Prelude Ventures": {
+    "focus": [
+      "green tech",
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, CA"
+  },
+  "Congruent Ventures": {
+    "focus": [
+      "green tech",
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Oakland, CA"
+  },
+  "Greentown Labs": {
+    "focus": [
+      "green tech",
+      "energy tech"
+    ],
+    "ma_presence": true,
+    "hq": "Somerville, MA"
+  },
+  "Prime Coalition": {
+    "focus": [
+      "green tech",
+      "energy tech"
+    ],
+    "ma_presence": true,
+    "hq": "Cambridge, MA"
+  },
+  "Plug and Play": {
+    "focus": [
+      "energy tech",
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "Sunnyvale, California",
+    "website": "plugandplaytechcenter.com"
+  },
+  "Draper Associates": {
+    "focus": [
+      "energy tech",
+      "deep tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Mateo, California",
+    "website": "draper.vc"
+  },
+  "Correlation Ventures": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "San Diego, California",
+    "website": "correlationvc.com"
+  },
+  "Heartcore Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Copenhagen, Denmark",
+    "website": "heartcore.com"
+  },
+  "Contrarian Ventures": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "Vilnius, Lithuania",
+    "website": "cventures.vc"
+  },
+  "IDG Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Beijing, China",
+    "website": "cn.idgcapital.com"
+  },
+  "Airtree Ventures": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Surry Hills, Australia",
+    "website": "airtree.vc"
+  },
+  "Playfair Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "London, England",
+    "website": "playfair.vc"
+  },
+  "BDC Venture Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Canada",
+    "website": "bdc.ca"
+  },
+  "Future Energy Ventures": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "Germany",
+    "website": "fev.vc"
+  },
+  "Kapor Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "United States",
+    "website": "kaporcapital.com"
+  },
+  "Icebreaker.vc": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "Finland",
+    "website": "icebreaker.vc"
+  },
+  "Partech": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "France",
+    "website": "partechpartners.com"
+  },
+  "Boost VC": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "United States",
+    "website": "boost.vc"
+  },
+  "Panache Ventures": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Canada",
+    "website": "panache.vc"
+  },
+  "Axon Partners Group": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Spain",
+    "website": "axonpartnersgroup.com"
+  },
+  "Mercury": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "United States",
+    "website": "mercuryfund.com"
+  },
+  "Emerald Technology Ventures": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "Switzerland",
+    "website": "emerald.vc"
+  },
+  "HCVC": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "France",
+    "website": "hcvc.co"
+  },
+  "Lemnos VC": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "United States",
+    "website": "lemnos.vc"
+  },
+  "Fortune Venture Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "China",
+    "website": "fortunevc.com"
+  },
+  "SHIFT Invest": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "Netherlands",
+    "website": "shiftinvest.com"
+  },
+  "Cortado Ventures": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "United States",
+    "website": "cortado.ventures"
+  },
+  "Cycle Capital": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "Canada",
+    "website": "cyclecapital.com"
+  },
+  "Frontier Venture Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "United States",
+    "website": "frontiervc.com"
+  },
+  "Startuplab": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Norway",
+    "website": "startuplab.no"
+  },
+  "ArcTern Ventures": {
+    "focus": [
+      "energy tech",
+      "green tech"
+    ],
+    "ma_presence": false,
+    "hq": "Canada",
+    "website": "arcternventures.com"
+  },
+  "Inven Capital": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Czech Republic",
+    "website": "invencapital.cz"
+  },
+  "Industrifonden": {
+    "focus": [
+      "energy tech"
+    ],
+    "ma_presence": false,
+    "hq": "Sweden",
+    "website": "industrifonden.com"
+  }
+}
