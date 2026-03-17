@@ -25224,111 +25224,7 @@
     "country": "United States",
     "investments": [
       {
-        "company": "PayPal",
-        "url": ""
-      },
-      {
-        "company": "Dropbox",
-        "url": ""
-      },
-      {
-        "company": "Lending Club",
-        "url": ""
-      },
-      {
-        "company": "Honey",
-        "url": ""
-      },
-      {
-        "company": "Hippo Insurance",
-        "url": ""
-      },
-      {
-        "company": "Api.ai",
-        "url": ""
-      },
-      {
-        "company": "SoundHound",
-        "url": ""
-      },
-      {
-        "company": "Zoosk",
-        "url": ""
-      },
-      {
-        "company": "NatureBox",
-        "url": ""
-      },
-      {
-        "company": "Rappi",
-        "url": ""
-      },
-      {
-        "company": "Airalo",
-        "url": ""
-      },
-      {
-        "company": "Zero Hash",
-        "url": ""
-      },
-      {
-        "company": "Decagon",
-        "url": ""
-      },
-      {
-        "company": "Blockdaemon",
-        "url": ""
-      },
-      {
-        "company": "Flutterwave",
-        "url": ""
-      },
-      {
-        "company": "Guardant Health",
-        "url": ""
-      },
-      {
-        "company": "N26",
-        "url": ""
-      },
-      {
-        "company": "Gr4vy",
-        "url": ""
-      },
-      {
-        "company": "BigID",
-        "url": ""
-      },
-      {
-        "company": "Course Hero",
-        "url": ""
-      },
-      {
-        "company": "Kustomer",
-        "url": ""
-      },
-      {
-        "company": "ApplyBoard",
-        "url": ""
-      },
-      {
-        "company": "Matcha",
-        "url": ""
-      },
-      {
-        "company": "VentureBeat",
-        "url": ""
-      },
-      {
-        "company": "ChangeTip",
-        "url": ""
-      },
-      {
-        "company": "Danger",
-        "url": ""
-      },
-      {
-        "company": "Vudu",
+        "company": "AdSpark",
         "url": ""
       },
       {
@@ -25336,59 +25232,15 @@
         "url": ""
       },
       {
-        "company": "Baarzo",
+        "company": "Aeronology",
         "url": ""
       },
       {
-        "company": "Milo",
+        "company": "Agrointelli",
         "url": ""
       },
       {
-        "company": "Zama",
-        "url": ""
-      },
-      {
-        "company": "Notion",
-        "url": ""
-      },
-      {
-        "company": "Scale AI",
-        "url": ""
-      },
-      {
-        "company": "Rippling",
-        "url": ""
-      },
-      {
-        "company": "Linear",
-        "url": ""
-      },
-      {
-        "company": "Figma",
-        "url": ""
-      },
-      {
-        "company": "Webflow",
-        "url": ""
-      },
-      {
-        "company": "Airtable",
-        "url": ""
-      },
-      {
-        "company": "Stripe",
-        "url": ""
-      },
-      {
-        "company": "Slack",
-        "url": ""
-      },
-      {
-        "company": "Lyft",
-        "url": ""
-      },
-      {
-        "company": "Uber",
+        "company": "Airalo",
         "url": ""
       },
       {
@@ -25396,11 +25248,75 @@
         "url": ""
       },
       {
-        "company": "Twitch",
+        "company": "Airtable",
         "url": ""
       },
       {
-        "company": "Instacart",
+        "company": "Api.ai",
+        "url": ""
+      },
+      {
+        "company": "ApplyBoard",
+        "url": ""
+      },
+      {
+        "company": "Arro",
+        "url": ""
+      },
+      {
+        "company": "Artemis",
+        "url": ""
+      },
+      {
+        "company": "Baarzo",
+        "url": ""
+      },
+      {
+        "company": "BigID",
+        "url": ""
+      },
+      {
+        "company": "Blockdaemon",
+        "url": ""
+      },
+      {
+        "company": "Carbon Run",
+        "url": ""
+      },
+      {
+        "company": "Cavnue",
+        "url": ""
+      },
+      {
+        "company": "ChangeTip",
+        "url": ""
+      },
+      {
+        "company": "Coinbase",
+        "url": ""
+      },
+      {
+        "company": "ControlPoint Inc.",
+        "url": ""
+      },
+      {
+        "company": "Course Hero",
+        "url": ""
+      },
+      {
+        "company": "CoverGo",
+        "url": ""
+      },
+      {
+        "company": "DIRO",
+        "url": ""
+      },
+      {
+        "company": "Danger",
+        "url": ""
+      },
+      {
+        "company": "Decagon",
         "url": ""
       },
       {
@@ -25408,11 +25324,303 @@
         "url": ""
       },
       {
+        "company": "Dropbox",
+        "url": ""
+      },
+      {
+        "company": "Edgecom Energy",
+        "url": ""
+      },
+      {
+        "company": "Einride",
+        "url": ""
+      },
+      {
+        "company": "Expanso",
+        "url": ""
+      },
+      {
+        "company": "Figma",
+        "url": ""
+      },
+      {
+        "company": "Flowy",
+        "url": ""
+      },
+      {
+        "company": "Flutterwave",
+        "url": ""
+      },
+      {
+        "company": "FlyX Technologies",
+        "url": ""
+      },
+      {
+        "company": "Frameplay",
+        "url": ""
+      },
+      {
+        "company": "GelSana Therapeutics",
+        "url": ""
+      },
+      {
+        "company": "General Galactic",
+        "url": ""
+      },
+      {
+        "company": "Gigablue",
+        "url": ""
+      },
+      {
+        "company": "Globick",
+        "url": ""
+      },
+      {
+        "company": "Gr4vy",
+        "url": ""
+      },
+      {
+        "company": "Guardant Health",
+        "url": ""
+      },
+      {
+        "company": "HT Vet",
+        "url": ""
+      },
+      {
+        "company": "Hippo Insurance",
+        "url": ""
+      },
+      {
+        "company": "HolosGen",
+        "url": ""
+      },
+      {
+        "company": "Honey",
+        "url": ""
+      },
+      {
+        "company": "IPD",
+        "url": ""
+      },
+      {
+        "company": "Imaginario AI",
+        "url": ""
+      },
+      {
+        "company": "Immunai",
+        "url": ""
+      },
+      {
+        "company": "Instacart",
+        "url": ""
+      },
+      {
+        "company": "Isometric",
+        "url": ""
+      },
+      {
+        "company": "Kustomer",
+        "url": ""
+      },
+      {
+        "company": "Lending Club",
+        "url": ""
+      },
+      {
+        "company": "Linear",
+        "url": ""
+      },
+      {
+        "company": "Lumaegis",
+        "url": ""
+      },
+      {
+        "company": "Lyft",
+        "url": ""
+      },
+      {
+        "company": "L\u014cD",
+        "url": ""
+      },
+      {
+        "company": "Matcha",
+        "url": ""
+      },
+      {
+        "company": "Milo",
+        "url": ""
+      },
+      {
+        "company": "Moggie",
+        "url": ""
+      },
+      {
+        "company": "Mona Lee",
+        "url": ""
+      },
+      {
+        "company": "Muse",
+        "url": ""
+      },
+      {
+        "company": "N26",
+        "url": ""
+      },
+      {
+        "company": "NatureBox",
+        "url": ""
+      },
+      {
+        "company": "NeoKe",
+        "url": ""
+      },
+      {
+        "company": "Nota",
+        "url": ""
+      },
+      {
+        "company": "Notion",
+        "url": ""
+      },
+      {
+        "company": "OKY",
+        "url": ""
+      },
+      {
+        "company": "OxByEl",
+        "url": ""
+      },
+      {
+        "company": "Parloa",
+        "url": ""
+      },
+      {
+        "company": "PayPal",
+        "url": ""
+      },
+      {
+        "company": "Plata",
+        "url": ""
+      },
+      {
+        "company": "Queens Carbon",
+        "url": ""
+      },
+      {
+        "company": "Rappi",
+        "url": ""
+      },
+      {
+        "company": "Rippling",
+        "url": ""
+      },
+      {
         "company": "Robinhood",
         "url": ""
       },
       {
-        "company": "Coinbase",
+        "company": "SYNCRIS",
+        "url": ""
+      },
+      {
+        "company": "Scale AI",
+        "url": ""
+      },
+      {
+        "company": "SentiSum",
+        "url": ""
+      },
+      {
+        "company": "Shiny",
+        "url": ""
+      },
+      {
+        "company": "Slack",
+        "url": ""
+      },
+      {
+        "company": "SoundHound",
+        "url": ""
+      },
+      {
+        "company": "Squadtrip",
+        "url": ""
+      },
+      {
+        "company": "Stripe",
+        "url": ""
+      },
+      {
+        "company": "SunFlex",
+        "url": ""
+      },
+      {
+        "company": "Sylvester.ai",
+        "url": ""
+      },
+      {
+        "company": "TRUE-See Systems",
+        "url": ""
+      },
+      {
+        "company": "Tokeny",
+        "url": ""
+      },
+      {
+        "company": "Transfur",
+        "url": ""
+      },
+      {
+        "company": "TrueAlgae",
+        "url": ""
+      },
+      {
+        "company": "Twitch",
+        "url": ""
+      },
+      {
+        "company": "Uber",
+        "url": ""
+      },
+      {
+        "company": "Ucaneo",
+        "url": ""
+      },
+      {
+        "company": "Uglycash",
+        "url": ""
+      },
+      {
+        "company": "Uplinq",
+        "url": ""
+      },
+      {
+        "company": "VentureBeat",
+        "url": ""
+      },
+      {
+        "company": "Vudu",
+        "url": ""
+      },
+      {
+        "company": "Webflow",
+        "url": ""
+      },
+      {
+        "company": "Zama",
+        "url": ""
+      },
+      {
+        "company": "Zero Hash",
+        "url": ""
+      },
+      {
+        "company": "Zoosk",
+        "url": ""
+      },
+      {
+        "company": "eco.mio",
         "url": ""
       }
     ]
