@@ -25764,5 +25764,163 @@
     "name": "Industrifonden",
     "country": "Sweden",
     "investments": []
+  },
+  {
+    "name": "Ridgeline VC",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "AI Squared",
+        "url": ""
+      },
+      {
+        "company": "Altana",
+        "url": ""
+      },
+      {
+        "company": "Anvl",
+        "url": ""
+      },
+      {
+        "company": "Auxon",
+        "url": ""
+      },
+      {
+        "company": "Blueshift",
+        "url": ""
+      },
+      {
+        "company": "Cape AI",
+        "url": ""
+      },
+      {
+        "company": "Cornelis Networks",
+        "url": ""
+      },
+      {
+        "company": "Composabl",
+        "url": ""
+      },
+      {
+        "company": "Eclypsium",
+        "url": ""
+      },
+      {
+        "company": "Eion",
+        "url": ""
+      },
+      {
+        "company": "Gilmour Space",
+        "url": ""
+      },
+      {
+        "company": "Harbinger",
+        "url": ""
+      },
+      {
+        "company": "Harbr",
+        "url": ""
+      },
+      {
+        "company": "Icon",
+        "url": ""
+      },
+      {
+        "company": "Implicit Cloud",
+        "url": ""
+      },
+      {
+        "company": "Agolo",
+        "url": ""
+      },
+      {
+        "company": "Knox",
+        "url": ""
+      },
+      {
+        "company": "LGND",
+        "url": ""
+      },
+      {
+        "company": "Loft Orbital",
+        "url": ""
+      },
+      {
+        "company": "Matta",
+        "url": ""
+      },
+      {
+        "company": "Machine Metrics",
+        "url": ""
+      },
+      {
+        "company": "Mesomat",
+        "url": ""
+      },
+      {
+        "company": "Multiscale",
+        "url": ""
+      },
+      {
+        "company": "Myriota",
+        "url": ""
+      },
+      {
+        "company": "Neural Magic",
+        "url": ""
+      },
+      {
+        "company": "Opentrons",
+        "url": ""
+      },
+      {
+        "company": "Planet Watchers",
+        "url": ""
+      },
+      {
+        "company": "Psionic",
+        "url": ""
+      },
+      {
+        "company": "Q-CTRL",
+        "url": ""
+      },
+      {
+        "company": "Replicated",
+        "url": ""
+      },
+      {
+        "company": "Sabi",
+        "url": ""
+      },
+      {
+        "company": "Satellite Vu",
+        "url": ""
+      },
+      {
+        "company": "Smallstep",
+        "url": ""
+      },
+      {
+        "company": "Spell",
+        "url": ""
+      },
+      {
+        "company": "StreamSets",
+        "url": ""
+      },
+      {
+        "company": "Tread",
+        "url": ""
+      },
+      {
+        "company": "Wallaroo",
+        "url": ""
+      },
+      {
+        "company": "Zenith AI",
+        "url": ""
+      }
+    ]
   }
 ]

@@ -1025,5 +1025,15 @@
     "ma_presence": false,
     "hq": "Sweden",
     "website": "industrifonden.com"
+  },
+  "Ridgeline VC": {
+    "focus": [
+      "deep tech",
+      "infrastructure",
+      "ai"
+    ],
+    "ma_presence": false,
+    "hq": "San Francisco, California",
+    "website": "ridgeline.vc"
   }
 }
