@@ -2560,8 +2560,24 @@
   },
   "Air Space Intelligence": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Aerospace Valued",
+        "linkedin": ""
+      },
+      {
+        "name": "Air Force",
+        "linkedin": ""
+      },
+      {
+        "name": "Air Space",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Aerospace Valued",
+      "linkedin": ""
+    }
   },
   "AirGarage": {
     "url": "",
@@ -3761,10 +3777,23 @@
   },
   "Alltrna": {
     "url": "https://alltrna.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "About Michelle",
+        "linkedin": ""
+      },
+      {
+        "name": "Afeyan, Ph.D.,",
+        "linkedin": ""
+      },
+      {
+        "name": "Afzelius, Alltrna",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Michelle Werner",
-      "linkedin": "https://linkedin.com/in/michelle-c-werner"
+      "name": "About Michelle",
+      "linkedin": ""
     }
   },
   "Alluxio": {
@@ -3875,8 +3904,24 @@
   },
   "Alpha & Omega Semiconductor": {
     "url": "https://aosmd.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "AOSL Stock",
+        "linkedin": ""
+      },
+      {
+        "name": "Alpha And",
+        "linkedin": ""
+      },
+      {
+        "name": "And Omega",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "AOSL Stock",
+      "linkedin": ""
+    }
   },
   "Alpha-9 Oncology": {
     "url": "",
@@ -3937,10 +3982,23 @@
   },
   "Alpine Bio": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Achievements. Founded",
+        "linkedin": ""
+      },
+      {
+        "name": "Alpine Bio",
+        "linkedin": ""
+      },
+      {
+        "name": "Alpine Bio's",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Peter McGuinness",
-      "linkedin": "https://linkedin.com/in/peterjmcguinness"
+      "name": "Achievements. Founded",
+      "linkedin": ""
     }
   },
   "Alsym Energy": {
@@ -5062,10 +5120,23 @@
   },
   "Antares Therapeutics": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "About, Seasoned",
+        "linkedin": ""
+      },
+      {
+        "name": "Adam Friedman",
+        "linkedin": ""
+      },
+      {
+        "name": "Adam Friedman,",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Adam Friedman, MD, PhD",
-      "linkedin": "https://linkedin.com/in/adam-friedman-md-phd-15aa2915"
+      "name": "About, Seasoned",
+      "linkedin": ""
     }
   },
   "Anterior": {
@@ -5360,8 +5431,24 @@
   },
   "Apexon": {
     "url": "https://apexon.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Radha Krishnan",
+        "linkedin": ""
+      },
+      {
+        "name": "Radhakrishnan Gurusamy",
+        "linkedin": ""
+      },
+      {
+        "name": "Founder Apexon",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Radha Krishnan",
+      "linkedin": ""
+    }
   },
   "Apiiro": {
     "url": "https://apiiro.com",
@@ -5916,8 +6003,24 @@
   },
   "Aquafortus": {
     "url": "https://aquafortus.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Global Water",
+        "linkedin": ""
+      },
+      {
+        "name": "Daryl Briggs",
+        "linkedin": ""
+      },
+      {
+        "name": "Darryl Briggs",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Global Water",
+      "linkedin": ""
+    }
   },
   "Aquantia": {
     "url": "",
@@ -6171,10 +6274,23 @@
   },
   "Arcserve": {
     "url": "https://arcserve.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leadership Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Arcserve Appoints",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Babel",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Brannon Lacey",
-      "linkedin": "https://linkedin.com/in/brannonlacey"
+      "name": "Leadership Team",
+      "linkedin": ""
     }
   },
   "Arctic Wolf": {
@@ -6894,10 +7010,23 @@
   },
   "Ascend Advanced Therapies": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Mike Stella",
+        "linkedin": ""
+      },
+      {
+        "name": "Tim Funnell",
+        "linkedin": ""
+      },
+      {
+        "name": "Leadership Team",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Alessandra Rispoli",
-      "linkedin": "https://linkedin.com/in/alessandra-rispoli-23ba3458"
+      "name": "Mike Stella",
+      "linkedin": ""
     }
   },
   "Asimov": {
@@ -8280,10 +8409,23 @@
   },
   "Avere Systems": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Avere Systems",
+        "linkedin": ""
+      },
+      {
+        "name": "Last Word",
+        "linkedin": ""
+      },
+      {
+        "name": "Ron Bianchini",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Michael McMahon",
-      "linkedin": "https://linkedin.com/in/michael-mcmahon-a211671"
+      "name": "Avere Systems",
+      "linkedin": ""
     }
   },
   "Aveska": {
@@ -13079,8 +13221,24 @@
   },
   "Brightree, LLC": {
     "url": "https://brightree.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Crunchbase Company",
+        "linkedin": ""
+      },
+      {
+        "name": "Matt Mellott",
+        "linkedin": ""
+      },
+      {
+        "name": "Awarded Best",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Crunchbase Company",
+      "linkedin": ""
+    }
   },
   "Brightside": {
     "url": "https://brightside.com",
@@ -13349,10 +13507,23 @@
   },
   "BuildDirect": {
     "url": "https://builddirect.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "How Jeff",
+        "linkedin": ""
+      },
+      {
+        "name": "Direct Co",
+        "linkedin": ""
+      },
+      {
+        "name": "Jeff Booth",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Dan Park",
-      "linkedin": "https://linkedin.com/in/dan-park-88a25b3"
+      "name": "How Jeff",
+      "linkedin": ""
     }
   },
   "BuildOps": {
@@ -15730,10 +15901,23 @@
   },
   "Cellworks": {
     "url": "https://cellworks.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cellworks Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Groundbreaking Cancer",
+        "linkedin": ""
+      },
+      {
+        "name": "Yatin Mundkur",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Matthew L. Scullin",
-      "linkedin": "https://linkedin.com/in/mlscullin"
+      "name": "Cellworks Team",
+      "linkedin": ""
     }
   },
   "Celo": {
@@ -16800,10 +16984,23 @@
   },
   "Ciena": {
     "url": "https://ciena.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "The Story",
+        "linkedin": ""
+      },
+      {
+        "name": "Ciena Leadership",
+        "linkedin": ""
+      },
+      {
+        "name": "Gary Smith",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Gary B. Smith",
-      "linkedin": "https://linkedin.com/in/garysmithciena"
+      "name": "The Story",
+      "linkedin": ""
     }
   },
   "Ciitizen": {
@@ -18342,8 +18539,24 @@
   },
   "Clubessential Holdings, LLC": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Our Leadership",
+        "linkedin": ""
+      },
+      {
+        "name": "Clubessential Holdings",
+        "linkedin": ""
+      },
+      {
+        "name": "Randy Eckels",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Our Leadership",
+      "linkedin": ""
+    }
   },
   "Clubhouse": {
     "url": "https://clubhouse.com",
@@ -20017,16 +20230,45 @@
   },
   "Comprehensive Pharmacy Services": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Fred Lapatinsky",
+        "linkedin": ""
+      },
+      {
+        "name": "Comprehensive Pharmacy",
+        "linkedin": ""
+      },
+      {
+        "name": "Don Nickleson",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Brandon Newman, PharmD, MMHC, CSP",
-      "linkedin": "https://linkedin.com/in/brandon-newman-pharmd-mmhc-csp-132bba8"
+      "name": "Fred Lapatinsky",
+      "linkedin": ""
     }
   },
   "ConcertoCare": {
     "url": "https://concertocare.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Concertocare Ceo",
+        "linkedin": ""
+      },
+      {
+        "name": "Dr Julian",
+        "linkedin": ""
+      },
+      {
+        "name": "Harris Recognized",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Concertocare Ceo",
+      "linkedin": ""
+    }
   },
   "ConductorOne": {
     "url": "https://conductorone.com",
@@ -20659,10 +20901,23 @@
   },
   "Copperleaf Technologies": {
     "url": "https://copperleaf.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Judi Hess",
+        "linkedin": ""
+      },
+      {
+        "name": "National Winner",
+        "linkedin": ""
+      },
+      {
+        "name": "Copperleaf Announces",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Eric Macdonald",
-      "linkedin": "https://linkedin.com/in/eric-macdonald-7b77a252"
+      "name": "Judi Hess",
+      "linkedin": ""
     }
   },
   "Copy.ai": {
@@ -22511,8 +22766,24 @@
   },
   "Cyngn": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Lior Tal",
+        "linkedin": ""
+      },
+      {
+        "name": "Investor Relations",
+        "linkedin": ""
+      },
+      {
+        "name": "Executive Leadership",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Lior Tal",
+      "linkedin": ""
+    }
   },
   "Cynomi": {
     "url": "https://cynomi.com",
@@ -23234,8 +23505,24 @@
   },
   "DataStax": {
     "url": "https://datastax.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Chet Kapoor",
+        "linkedin": ""
+      },
+      {
+        "name": "Amazon Web",
+        "linkedin": ""
+      },
+      {
+        "name": "Hires Former",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Chet Kapoor",
+      "linkedin": ""
+    }
   },
   "Databook": {
     "url": "https://trydatabook.com",
@@ -23391,8 +23678,24 @@
   },
   "Datastax": {
     "url": "https://datastax.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Chet Kapoor",
+        "linkedin": ""
+      },
+      {
+        "name": "Amazon Web",
+        "linkedin": ""
+      },
+      {
+        "name": "Hires Former",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Chet Kapoor",
+      "linkedin": ""
+    }
   },
   "DatologyAI": {
     "url": "https://datologyai.com",
@@ -25397,10 +25700,23 @@
   },
   "Dotmatics": {
     "url": "https://dotmatics.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Thomas Swalla",
+        "linkedin": ""
+      },
+      {
+        "name": "Dotmatics Discusses",
+        "linkedin": ""
+      },
+      {
+        "name": "Why Should",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
       "name": "Thomas Swalla",
-      "linkedin": "https://linkedin.com/in/thomasswalla"
+      "linkedin": ""
     }
   },
   "Double": {
@@ -27035,8 +27351,24 @@
   },
   "Eikon Therapeutics": {
     "url": "https://eikontx.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Roger Perlmutter",
+        "linkedin": ""
+      },
+      {
+        "name": "Eikon Therapeutics",
+        "linkedin": ""
+      },
+      {
+        "name": "About Us",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Roger Perlmutter",
+      "linkedin": ""
+    }
   },
   "Elastic": {
     "url": "https://elastic.co",
@@ -27092,8 +27424,24 @@
   },
   "Elastifile, Ltd.": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Google Buys",
+        "linkedin": ""
+      },
+      {
+        "name": "Israeli Cloud",
+        "linkedin": ""
+      },
+      {
+        "name": "Storage Company",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Google Buys",
+      "linkedin": ""
+    }
   },
   "Electric": {
     "url": "https://electric.ai",
@@ -28347,8 +28695,24 @@
   },
   "Enovix Corporation": {
     "url": "https://enovix.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Investor Relations",
+        "linkedin": ""
+      },
+      {
+        "name": "Harrold Rust",
+        "linkedin": ""
+      },
+      {
+        "name": "Media Advisory",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Investor Relations",
+      "linkedin": ""
+    }
   },
   "Entelo, Inc.": {
     "url": "",
@@ -30795,8 +31159,24 @@
   },
   "Fei Protocol": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Joey Santoro",
+        "linkedin": ""
+      },
+      {
+        "name": "Fei Labs",
+        "linkedin": ""
+      },
+      {
+        "name": "Crunchbase Person",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Joey Santoro",
+      "linkedin": ""
+    }
   },
   "Fellow": {
     "url": "https://fellow.app",
@@ -31144,10 +31524,23 @@
   },
   "Finastra": {
     "url": "https://finastra.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Meet Our",
+        "linkedin": ""
+      },
+      {
+        "name": "Executive Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Simon Paris",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Chris Walters",
-      "linkedin": "https://linkedin.com/in/chriswalters-bcor"
+      "name": "Meet Our",
+      "linkedin": ""
     }
   },
   "Fingerprint": {
@@ -34324,10 +34717,23 @@
   },
   "Galleon Energy": {
     "url": "https://galleonenergy.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Galleon Global",
+        "linkedin": ""
+      },
+      {
+        "name": "Galleon Group",
+        "linkedin": ""
+      },
+      {
+        "name": "Founder Surfaces",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Andy Williamson",
-      "linkedin": "https://linkedin.com/in/andy-williamson-233a655"
+      "name": "Galleon Global",
+      "linkedin": ""
     }
   },
   "Galxyz": {
@@ -35174,10 +35580,23 @@
   },
   "Gigamon": {
     "url": "https://gigamon.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Executive Leadership",
+        "linkedin": ""
+      },
+      {
+        "name": "Gigamon Appoints",
+        "linkedin": ""
+      },
+      {
+        "name": "Shane Buckley",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Shane Buckley",
-      "linkedin": "https://linkedin.com/in/shbuckley"
+      "name": "Executive Leadership",
+      "linkedin": ""
     }
   },
   "Gigs": {
@@ -37875,8 +38294,24 @@
   },
   "Guidewire Software": {
     "url": "https://guidewire.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Guidewire Software",
+        "linkedin": ""
+      },
+      {
+        "name": "Names New",
+        "linkedin": ""
+      },
+      {
+        "name": "Executive Team",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Guidewire Software",
+      "linkedin": ""
+    }
   },
   "Guild": {
     "url": "https://guildeducation.com",
@@ -38169,10 +38604,27 @@
   },
   "Habana Labs": {
     "url": "https://habana.ai",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Habana Labs'",
+        "linkedin": ""
+      },
+      {
+        "name": "Senior Staff",
+        "linkedin": ""
+      },
+      {
+        "name": "Software Engineer",
+        "linkedin": ""
+      },
+      {
+        "name": "Staff Software",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "David D\u200f",
-      "linkedin": "https://linkedin.com/in/davidd-dahan"
+      "name": "Habana Labs'",
+      "linkedin": ""
     }
   },
   "Habana Labs, Ltd.": {
@@ -38498,8 +38950,24 @@
   },
   "Harbinger Health": {
     "url": "https://harbingerhealth.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Ajit Singh",
+        "linkedin": ""
+      },
+      {
+        "name": "Harbinger Health",
+        "linkedin": ""
+      },
+      {
+        "name": "Strengthens Leadership",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ajit Singh",
+      "linkedin": ""
+    }
   },
   "Harbor": {
     "url": "",
@@ -39217,8 +39685,24 @@
   },
   "Helloverify": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Varun Mirchandani",
+        "linkedin": ""
+      },
+      {
+        "name": "Professional Profile",
+        "linkedin": ""
+      },
+      {
+        "name": "Company Profile",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Varun Mirchandani",
+      "linkedin": ""
+    }
   },
   "Helsing": {
     "url": "https://helsing.ai",
@@ -39429,8 +39913,24 @@
   },
   "Hi Marley": {
     "url": "https://himarley.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Co-Founder Mike",
+        "linkedin": ""
+      },
+      {
+        "name": "Marley CEO",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Greene",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Co-Founder Mike",
+      "linkedin": ""
+    }
   },
   "HiBob": {
     "url": "https://hibob.com",
@@ -40493,10 +40993,27 @@
   },
   "Horizon Pharma": {
     "url": "https://horizonpharma.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "CEO, Tim",
+        "linkedin": ""
+      },
+      {
+        "name": "Horizon Therapeutics",
+        "linkedin": ""
+      },
+      {
+        "name": "Therapeutics For",
+        "linkedin": ""
+      },
+      {
+        "name": "Tim Walbert,",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Jason Dana Costa, MBA, PHR",
-      "linkedin": "https://linkedin.com/in/jasondanacosta"
+      "name": "CEO, Tim",
+      "linkedin": ""
     }
   },
   "Horizon Quantum Computing": {
@@ -41531,8 +42048,24 @@
   },
   "Immersive Gamebox": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "How Tough",
+        "linkedin": ""
+      },
+      {
+        "name": "Will Dean",
+        "linkedin": ""
+      },
+      {
+        "name": "Immersive Gamebox",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "How Tough",
+      "linkedin": ""
+    }
   },
   "ImmunOs Therapeutics": {
     "url": "https://immunos.com",
@@ -41589,10 +42122,39 @@
   },
   "Imperva": {
     "url": "https://imperva.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Cato Networks,",
+        "linkedin": ""
+      },
+      {
+        "name": "Check Point,",
+        "linkedin": ""
+      },
+      {
+        "name": "Haleliuk's Post",
+        "linkedin": ""
+      },
+      {
+        "name": "Point, Imperva,",
+        "linkedin": ""
+      },
+      {
+        "name": "Post Shlomo",
+        "linkedin": ""
+      },
+      {
+        "name": "Ross Haleliuk's",
+        "linkedin": ""
+      },
+      {
+        "name": "Shlomo Kramer,",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Pam Murphy",
-      "linkedin": "https://linkedin.com/in/pam-murphy-a5297915"
+      "name": "Cato Networks,",
+      "linkedin": ""
     }
   },
   "Impira": {
@@ -43618,8 +44180,24 @@
   },
   "Istra Research, Ltd.": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Istra Research",
+        "linkedin": ""
+      },
+      {
+        "name": "Crunchbase Company",
+        "linkedin": ""
+      },
+      {
+        "name": "Jonathan Lewin",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Istra Research",
+      "linkedin": ""
+    }
   },
   "Iterable": {
     "url": "https://iterable.com",
@@ -43787,8 +44365,32 @@
   },
   "JOOR": {
     "url": "https://joor.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Board Member",
+        "linkedin": ""
+      },
+      {
+        "name": "Industry Expert.",
+        "linkedin": ""
+      },
+      {
+        "name": "Kristin Savilia's",
+        "linkedin": ""
+      },
+      {
+        "name": "Payments Industry",
+        "linkedin": ""
+      },
+      {
+        "name": "Savilia's Post",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Board Member",
+      "linkedin": ""
+    }
   },
   "Jask Labs, Inc.": {
     "url": "",
@@ -44225,10 +44827,23 @@
   },
   "Jumio": {
     "url": "https://jumio.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leadership Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Jumio Founder",
+        "linkedin": ""
+      },
+      {
+        "name": "Million Fraud",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Robert Prigge",
-      "linkedin": "https://linkedin.com/in/robertprigge"
+      "name": "Leadership Team",
+      "linkedin": ""
     }
   },
   "Jump": {
@@ -44358,8 +44973,32 @@
   },
   "Juniper Networks": {
     "url": "https://juniper.net",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "CTO, Co-Founder",
+        "linkedin": ""
+      },
+      {
+        "name": "Juniper Networks'",
+        "linkedin": ""
+      },
+      {
+        "name": "Rahim's Post",
+        "linkedin": ""
+      },
+      {
+        "name": "Rami Rahim's",
+        "linkedin": ""
+      },
+      {
+        "name": "SynerComm Inc.",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "CTO, Co-Founder",
+      "linkedin": ""
+    }
   },
   "Juniper Square": {
     "url": "https://junipersquare.com",
@@ -44684,8 +45323,24 @@
   },
   "KSQ Therapeutics": {
     "url": "https://ksqtx.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Qasim Rizvi",
+        "linkedin": ""
+      },
+      {
+        "name": "Therapeutics Emerges",
+        "linkedin": ""
+      },
+      {
+        "name": "Therapeutics Announces",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Qasim Rizvi",
+      "linkedin": ""
+    }
   },
   "Kabam": {
     "url": "https://kabam.com",
@@ -46268,8 +46923,24 @@
   },
   "Kofax": {
     "url": "https://kofax.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Leadership Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Tungsten Automation",
+        "linkedin": ""
+      },
+      {
+        "name": "About Us",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Leadership Team",
+      "linkedin": ""
+    }
   },
   "Kojo": {
     "url": "https://usekojo.com",
@@ -47491,8 +48162,24 @@
   },
   "Lido Finance": {
     "url": "https://lido.fi",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Lido Co",
+        "linkedin": ""
+      },
+      {
+        "name": "Paradigm Secretly",
+        "linkedin": ""
+      },
+      {
+        "name": "Back Eigen",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Lido Co",
+      "linkedin": ""
+    }
   },
   "Life360": {
     "url": "https://life360.com",
@@ -48192,8 +48879,24 @@
   },
   "LiveIntent, Inc.": {
     "url": "https://liveintent.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Matthew Keiser",
+        "linkedin": ""
+      },
+      {
+        "name": "Park City",
+        "linkedin": ""
+      },
+      {
+        "name": "United States",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Matthew Keiser",
+      "linkedin": ""
+    }
   },
   "LiveKit": {
     "url": "",
@@ -48281,8 +48984,24 @@
   },
   "Local Motion": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Rob Burns",
+        "linkedin": ""
+      },
+      {
+        "name": "Local Motion",
+        "linkedin": ""
+      },
+      {
+        "name": "John Stanfield",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Rob Burns",
+      "linkedin": ""
+    }
   },
   "LocalOn": {
     "url": "",
@@ -48346,10 +49065,67 @@
   },
   "Locus Robotics": {
     "url": "https://locusrobotics.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chief Revenue",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-Founder, Chief",
+        "linkedin": ""
+      },
+      {
+        "name": "Co-Founder, President/COO",
+        "linkedin": ""
+      },
+      {
+        "name": "Dartmouth College",
+        "linkedin": ""
+      },
+      {
+        "name": "Education: Dartmouth",
+        "linkedin": ""
+      },
+      {
+        "name": "Experience: Locus",
+        "linkedin": ""
+      },
+      {
+        "name": "Greater Boston",
+        "linkedin": ""
+      },
+      {
+        "name": "LinkedIn. View",
+        "linkedin": ""
+      },
+      {
+        "name": "Location: Greater",
+        "linkedin": ""
+      },
+      {
+        "name": "Locus Robotics",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Johnson",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike Johnson's",
+        "linkedin": ""
+      },
+      {
+        "name": "Revenue Officer",
+        "linkedin": ""
+      },
+      {
+        "name": "View Mike",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Rick Faulk",
-      "linkedin": "https://linkedin.com/in/rickfaulk"
+      "name": "Chief Revenue",
+      "linkedin": ""
     }
   },
   "Loft": {
@@ -48760,8 +49536,24 @@
   },
   "Lotame": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Andy Monfried",
+        "linkedin": ""
+      },
+      {
+        "name": "New York",
+        "linkedin": ""
+      },
+      {
+        "name": "United States",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Andy Monfried",
+      "linkedin": ""
+    }
   },
   "Lotus Development": {
     "url": "https://lotus.com",
@@ -50940,8 +51732,24 @@
   },
   "Maze Therapeutics": {
     "url": "https://mazetherapeutics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "About Us",
+        "linkedin": ""
+      },
+      {
+        "name": "Maze Therapeutics",
+        "linkedin": ""
+      },
+      {
+        "name": "Appoints Jason",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "About Us",
+      "linkedin": ""
+    }
   },
   "McAfee": {
     "url": "https://mcafee.com",
@@ -51604,8 +52412,24 @@
   },
   "Metaphore Biotechnologies": {
     "url": "https://metaphorebio.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Angela Hwang",
+        "linkedin": ""
+      },
+      {
+        "name": "Metaphore Biotechnologies",
+        "linkedin": ""
+      },
+      {
+        "name": "Metaphore Bio",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Angela Hwang",
+      "linkedin": ""
+    }
   },
   "Metatheory": {
     "url": "",
@@ -52169,8 +52993,24 @@
   },
   "Mino Monsters": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Josh Buckley",
+        "linkedin": ""
+      },
+      {
+        "name": "Mino Monsters",
+        "linkedin": ""
+      },
+      {
+        "name": "Mino Games",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Josh Buckley",
+      "linkedin": ""
+    }
   },
   "Mint": {
     "url": "https://mint.com",
@@ -53024,10 +53864,23 @@
   },
   "Momentive": {
     "url": "https://momentive.ai",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Our Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Momentive Software",
+        "linkedin": ""
+      },
+      {
+        "name": "Sam Conzone",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Sam Conzone",
-      "linkedin": "https://linkedin.com/in/sam-conzone-337b878"
+      "name": "Our Team",
+      "linkedin": ""
     }
   },
   "Monad": {
@@ -57088,10 +57941,23 @@
   },
   "OZON.ru": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Index Ventures",
+        "linkedin": ""
+      },
+      {
+        "name": "Management Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Org Chart",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Hayk Karapetyan",
-      "linkedin": "https://linkedin.com/in/hayk-karapetyan-05385a12"
+      "name": "Index Ventures",
+      "linkedin": ""
     }
   },
   "Oasis Labs": {
@@ -58213,10 +59079,23 @@
   },
   "Openlink Financial": {
     "url": "https://openlink.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "The Carlyle",
+        "linkedin": ""
+      },
+      {
+        "name": "Group Acquires",
+        "linkedin": ""
+      },
+      {
+        "name": "Link Financial",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Rich Grossi",
-      "linkedin": "https://linkedin.com/in/rich-grossi"
+      "name": "The Carlyle",
+      "linkedin": ""
     }
   },
   "Openly": {
@@ -59271,10 +60150,23 @@
   },
   "Panaya, Ltd.": {
     "url": "https://panaya.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Learn About",
+        "linkedin": ""
+      },
+      {
+        "name": "Our Story",
+        "linkedin": ""
+      },
+      {
+        "name": "David Binny",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Dekel Wiesman Consulting\u200f",
-      "linkedin": "https://linkedin.com/in/dekelw"
+      "name": "Learn About",
+      "linkedin": ""
     }
   },
   "Pandora": {
@@ -59300,10 +60192,23 @@
   },
   "Panduit": {
     "url": "https://panduit.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Panduit Mourns",
+        "linkedin": ""
+      },
+      {
+        "name": "Former President",
+        "linkedin": ""
+      },
+      {
+        "name": "Panduit Founder",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Shannon McDaniel",
-      "linkedin": "https://linkedin.com/in/shannonmcdaniel"
+      "name": "Panduit Mourns",
+      "linkedin": ""
     }
   },
   "Pano AI": {
@@ -59640,10 +60545,23 @@
   },
   "Paravision": {
     "url": "https://paravision.ai",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Trusted Identity",
+        "linkedin": ""
+      },
+      {
+        "name": "Doug Aley",
+        "linkedin": ""
+      },
+      {
+        "name": "Crunchbase Person",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Doug Aley",
-      "linkedin": "https://linkedin.com/in/dougaley"
+      "name": "Trusted Identity",
+      "linkedin": ""
     }
   },
   "Parsable": {
@@ -59713,8 +60631,24 @@
   },
   "PartyDAO": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Michael Joseph",
+        "linkedin": ""
+      },
+      {
+        "name": "Project Introduction",
+        "linkedin": ""
+      },
+      {
+        "name": "John Palmer",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Michael Joseph",
+      "linkedin": ""
+    }
   },
   "Passport": {
     "url": "https://passportshipping.com",
@@ -64162,8 +65096,24 @@
   },
   "Qognify Limited": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Crunchbase Company",
+        "linkedin": ""
+      },
+      {
+        "name": "Steve Shine",
+        "linkedin": ""
+      },
+      {
+        "name": "Qognify Acquired",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Crunchbase Company",
+      "linkedin": ""
+    }
   },
   "Quali": {
     "url": "https://quali.com",
@@ -67103,10 +68053,23 @@
   },
   "Resilinc": {
     "url": "https://resilinc.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Bindiya Vakil",
+        "linkedin": ""
+      },
+      {
+        "name": "Named Woman",
+        "linkedin": ""
+      },
+      {
+        "name": "Of The",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
       "name": "Bindiya Vakil",
-      "linkedin": "https://linkedin.com/in/bindiya-vakil"
+      "linkedin": ""
     }
   },
   "Resistant AI": {
@@ -67786,8 +68749,24 @@
   },
   "RiskIQ, Inc.": {
     "url": "https://riskiq.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Elias Manousos",
+        "linkedin": ""
+      },
+      {
+        "name": "San Francisco",
+        "linkedin": ""
+      },
+      {
+        "name": "United States",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Elias Manousos",
+      "linkedin": ""
+    }
   },
   "Ritual": {
     "url": "https://ritual.com",
@@ -68123,10 +69102,19 @@
   },
   "Roivant Sciences": {
     "url": "https://roivant.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Roivant Sciences",
+        "linkedin": ""
+      },
+      {
+        "name": "Vivek Ramaswamy",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Frank Torti",
-      "linkedin": "https://linkedin.com/in/frank-torti-84665b37"
+      "name": "Roivant Sciences",
+      "linkedin": ""
     }
   },
   "Roli": {
@@ -68737,10 +69725,23 @@
   },
   "Sabre Corporation": {
     "url": "https://sabre.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Investor Relations",
+        "linkedin": ""
+      },
+      {
+        "name": "Kurt Ekert",
+        "linkedin": ""
+      },
+      {
+        "name": "Finding Growth",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Ashan Willy",
-      "linkedin": "https://linkedin.com/in/ashanwilly"
+      "name": "Investor Relations",
+      "linkedin": ""
     }
   },
   "Safe Superintelligence": {
@@ -69701,10 +70702,23 @@
   },
   "SciSparc": {
     "url": "https://scisparc.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Management Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Sparc Ltd",
+        "linkedin": ""
+      },
+      {
+        "name": "Company Profile",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Oz Adler, CPA\u200f",
-      "linkedin": "https://linkedin.com/in/oz-adler-cpa-94050652"
+      "name": "Management Team",
+      "linkedin": ""
     }
   },
   "Science": {
@@ -70763,10 +71777,23 @@
   },
   "Seres Therapeutics": {
     "url": "https://serestherapeutics.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "About Us",
+        "linkedin": ""
+      },
+      {
+        "name": "Seres Therapeutics",
+        "linkedin": ""
+      },
+      {
+        "name": "David Ege",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Eric Shaff",
-      "linkedin": "https://linkedin.com/in/eric-shaff-9179825"
+      "name": "About Us",
+      "linkedin": ""
     }
   },
   "Series AI": {
@@ -70842,10 +71869,23 @@
   },
   "ServicePower": {
     "url": "https://servicepower.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "About Us",
+        "linkedin": ""
+      },
+      {
+        "name": "Brings Enterprise",
+        "linkedin": ""
+      },
+      {
+        "name": "Software Leadership",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Frank Gelbart",
-      "linkedin": "https://linkedin.com/in/frankgelbart"
+      "name": "About Us",
+      "linkedin": ""
     }
   },
   "ServiceTitan": {
@@ -71250,10 +72290,23 @@
   },
   "SiSense, Ltd.": {
     "url": "https://sisense.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "About Us",
+        "linkedin": ""
+      },
+      {
+        "name": "Learn More",
+        "linkedin": ""
+      },
+      {
+        "name": "About Sisense",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Korey Martin",
-      "linkedin": "https://linkedin.com/in/koreymartin"
+      "name": "About Us",
+      "linkedin": ""
     }
   },
   "Side": {
@@ -71275,10 +72328,23 @@
   },
   "Sidecar Health": {
     "url": "https://sidecarehealth.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Patrick Quigley",
+        "linkedin": ""
+      },
+      {
+        "name": "Sidecar Health",
+        "linkedin": ""
+      },
+      {
+        "name": "Chief Executive",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
       "name": "Patrick Quigley",
-      "linkedin": "https://linkedin.com/in/quigleyp"
+      "linkedin": ""
     }
   },
   "Sieve": {
@@ -71304,8 +72370,24 @@
   },
   "Sievert Larson Cybersecurity": {
     "url": "https://slcyber.io",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Save Your",
+        "linkedin": ""
+      },
+      {
+        "name": "Ancoria Bank",
+        "linkedin": ""
+      },
+      {
+        "name": "Tissue Engineering",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Save Your",
+      "linkedin": ""
+    }
   },
   "SigOpt": {
     "url": "https://sigopt.com",
@@ -71433,10 +72515,23 @@
   },
   "Signiant, Inc.": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ian Hamilton",
+        "linkedin": ""
+      },
+      {
+        "name": "Fellow Honoree",
+        "linkedin": ""
+      },
+      {
+        "name": "Signiant Inc",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Sebastian Vos",
-      "linkedin": "https://linkedin.com/in/sebastianvos"
+      "name": "Ian Hamilton",
+      "linkedin": ""
     }
   },
   "Signifyd": {
@@ -72291,10 +73386,23 @@
   },
   "SmartBear": {
     "url": "https://smartbear.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jason Cohen",
+        "linkedin": ""
+      },
+      {
+        "name": "Smart Bear",
+        "linkedin": ""
+      },
+      {
+        "name": "Bear Software",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Dan Faulkner",
-      "linkedin": "https://linkedin.com/in/danielfaulkner"
+      "name": "Jason Cohen",
+      "linkedin": ""
     }
   },
   "SmartRecruiters": {
@@ -73053,18 +74161,44 @@
   },
   "SolarWinds": {
     "url": "https://solarwinds.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Leadership Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Who Got",
+        "linkedin": ""
+      },
+      {
+        "name": "Rich This",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Mike Bennett",
-      "linkedin": "https://linkedin.com/in/mike-bennett-5613296"
+      "name": "Leadership Team",
+      "linkedin": ""
     }
   },
   "Solid Power": {
     "url": "https://solidpowerbattery.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Meet Our",
+        "linkedin": ""
+      },
+      {
+        "name": "Leadership Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Solid Power",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "John Van Scoter",
-      "linkedin": "https://linkedin.com/in/john-van-scoter-4a8b887"
+      "name": "Meet Our",
+      "linkedin": ""
     }
   },
   "SoloLearn": {
@@ -73320,10 +74454,23 @@
   },
   "Sovos": {
     "url": "https://sovos.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kevin Akeroyd",
+        "linkedin": ""
+      },
+      {
+        "name": "Todd Lachman",
+        "linkedin": ""
+      },
+      {
+        "name": "Sovos Brands",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Alex Terwilliger",
-      "linkedin": "https://linkedin.com/in/alexterwilliger"
+      "name": "Kevin Akeroyd",
+      "linkedin": ""
     }
   },
   "Sovrun": {
@@ -74052,10 +75199,23 @@
   },
   "Standard Nuclear": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Kurt Terrani",
+        "linkedin": ""
+      },
+      {
+        "name": "Standard Nuclear",
+        "linkedin": ""
+      },
+      {
+        "name": "Atomic Show",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
       "name": "Kurt Terrani",
-      "linkedin": "https://linkedin.com/in/kurt-terrani-6219819"
+      "linkedin": ""
     }
   },
   "Standard Treasury": {
@@ -74434,10 +75594,23 @@
   },
   "Stratasys, Inc.": {
     "url": "https://stratasys.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Driving Change",
+        "linkedin": ""
+      },
+      {
+        "name": "Stratasys Ltd",
+        "linkedin": ""
+      },
+      {
+        "name": "Management Team",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Bill Priedeman",
-      "linkedin": "https://linkedin.com/in/billpriedeman"
+      "name": "Driving Change",
+      "linkedin": ""
     }
   },
   "Strateos": {
@@ -75143,10 +76316,23 @@
   },
   "Super Evil Megacorp": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Super Evil",
+        "linkedin": ""
+      },
+      {
+        "name": "Kristian Segerstrale",
+        "linkedin": ""
+      },
+      {
+        "name": "Plugged In",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Ian Fielding",
-      "linkedin": "https://linkedin.com/in/ifielding"
+      "name": "Super Evil",
+      "linkedin": ""
     }
   },
   "SuperGaming": {
@@ -76751,10 +77937,23 @@
   },
   "Tandem PV": {
     "url": "https://tandem-pv.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Scott Wharton",
+        "linkedin": ""
+      },
+      {
+        "name": "Pioneering America",
+        "linkedin": ""
+      },
+      {
+        "name": "Solar Technology",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
       "name": "Scott Wharton",
-      "linkedin": "https://linkedin.com/in/scottwharton"
+      "linkedin": ""
     }
   },
   "Tanium": {
@@ -77764,10 +78963,23 @@
   },
   "Tenstorrent": {
     "url": "https://tenstorrent.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Jim Keller",
+        "linkedin": ""
+      },
+      {
+        "name": "Tenstorrent Inc",
+        "linkedin": ""
+      },
+      {
+        "name": "The Ojo",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
       "name": "Jim Keller",
-      "linkedin": "https://linkedin.com/in/jimbkeller"
+      "linkedin": ""
     }
   },
   "Terminal": {
@@ -78023,10 +79235,23 @@
   },
   "The Boring Company": {
     "url": "https://boringcompany.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "The Boring",
+        "linkedin": ""
+      },
+      {
+        "name": "Elon Musk",
+        "linkedin": ""
+      },
+      {
+        "name": "Boring Co",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "henry sothern",
-      "linkedin": "https://linkedin.com/in/henry-sothern-a4475b158"
+      "name": "The Boring",
+      "linkedin": ""
     }
   },
   "The Business of Fashion": {
@@ -80137,8 +81362,24 @@
   },
   "Trillium Therapeutics": {
     "url": "https://trilliumtherapeutics.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Story Trillium",
+        "linkedin": ""
+      },
+      {
+        "name": "Jan Skvarka",
+        "linkedin": ""
+      },
+      {
+        "name": "From Discovery",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Story Trillium",
+      "linkedin": ""
+    }
   },
   "TripleLift": {
     "url": "https://triplelift.com",
@@ -80321,8 +81562,24 @@
   },
   "TrueFort": {
     "url": "https://truefort.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Sameer Malhotra",
+        "linkedin": ""
+      },
+      {
+        "name": "Full Interview",
+        "linkedin": ""
+      },
+      {
+        "name": "Ed Amoroso",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Sameer Malhotra",
+      "linkedin": ""
+    }
   },
   "Truemed": {
     "url": "",
@@ -81005,10 +82262,23 @@
   },
   "Ultimate Software": {
     "url": "https://ultimatesoftware.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Ultimate Software",
+        "linkedin": ""
+      },
+      {
+        "name": "Scott Scherr",
+        "linkedin": ""
+      },
+      {
+        "name": "Announces Agreement",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Scott Fletcher",
-      "linkedin": "https://linkedin.com/in/scottfletcher"
+      "name": "Ultimate Software",
+      "linkedin": ""
     }
   },
   "Umoja": {
@@ -82727,10 +83997,23 @@
   },
   "Verizon Media": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Verizon Media",
+        "linkedin": ""
+      },
+      {
+        "name": "Guru Gowrappan",
+        "linkedin": ""
+      },
+      {
+        "name": "Management Team",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Sowmyanarayan Sampath",
-      "linkedin": "https://linkedin.com/in/sowmyanarayan"
+      "name": "Verizon Media",
+      "linkedin": ""
     }
   },
   "Verkada": {
@@ -82807,10 +84090,23 @@
   },
   "Vetcor": {
     "url": "",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Chris Strong",
+        "linkedin": ""
+      },
+      {
+        "name": "Executive Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Veteran Franchise",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Paul Huszar, CFE, P.E.",
-      "linkedin": "https://linkedin.com/in/paulhuszar"
+      "name": "Chris Strong",
+      "linkedin": ""
     }
   },
   "Vetted": {
@@ -83110,10 +84406,23 @@
   },
   "Virtual Marine Technology": {
     "url": "https://virtualmarine.ca",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Randy Billard",
+        "linkedin": ""
+      },
+      {
+        "name": "Virtual Marine",
+        "linkedin": ""
+      },
+      {
+        "name": "Design Leaders",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Anthony Patterson AFNI",
-      "linkedin": "https://linkedin.com/in/anthony-patterson-afni-b6891910"
+      "name": "Randy Billard",
+      "linkedin": ""
     }
   },
   "Virtually Human Studio": {
@@ -83428,10 +84737,23 @@
   },
   "Volue": {
     "url": "https://volue.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Trond Straume",
+        "linkedin": ""
+      },
+      {
+        "name": "Chief Executive",
+        "linkedin": ""
+      },
+      {
+        "name": "Volue Appoints",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "T\u00f3mas Sigur\u00f0sson",
-      "linkedin": "https://linkedin.com/in/t%C3%B3mas-sigur%C3%B0sson-4b53b986"
+      "name": "Trond Straume",
+      "linkedin": ""
     }
   },
   "Vooma": {
@@ -84526,8 +85848,24 @@
   },
   "Whistic, Inc.": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Crunchbase Company",
+        "linkedin": ""
+      },
+      {
+        "name": "Juan Rodriguez",
+        "linkedin": ""
+      },
+      {
+        "name": "Whistic Inc",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Crunchbase Company",
+      "linkedin": ""
+    }
   },
   "Wholeshare": {
     "url": "",
@@ -85810,10 +87148,23 @@
   },
   "ZAYO Group Holdings, Inc.": {
     "url": "https://zayo.com",
-    "founders": [],
+    "founders": [
+      {
+        "name": "Zayo Group",
+        "linkedin": ""
+      },
+      {
+        "name": "Company Leadership",
+        "linkedin": ""
+      },
+      {
+        "name": "Chief Executives",
+        "linkedin": ""
+      }
+    ],
     "ceo": {
-      "name": "Steve Smith",
-      "linkedin": "https://linkedin.com/in/steve-smith-15856210"
+      "name": "Zayo Group",
+      "linkedin": ""
     }
   },
   "ZYOD": {
@@ -86732,8 +88083,24 @@
   },
   "Zywave": {
     "url": "https://zywave.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Leadership Team",
+        "linkedin": ""
+      },
+      {
+        "name": "Jason Liu",
+        "linkedin": ""
+      },
+      {
+        "name": "Zywave Names",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Leadership Team",
+      "linkedin": ""
+    }
   },
   "[24]7.ai": {
     "url": "https://247.ai",
@@ -87326,8 +88693,24 @@
   },
   "honeylove": {
     "url": "",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Our Story",
+        "linkedin": ""
+      },
+      {
+        "name": "Betsie Larkin",
+        "linkedin": ""
+      },
+      {
+        "name": "Igor Lebovic",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Our Story",
+      "linkedin": ""
+    }
   },
   "humans&": {
     "url": "https://humansand.com",
@@ -87412,8 +88795,24 @@
   },
   "iHerb": {
     "url": "https://iherb.com",
-    "founders": [],
-    "ceo": null
+    "founders": [
+      {
+        "name": "Emun Zabihi",
+        "linkedin": ""
+      },
+      {
+        "name": "Named Among",
+        "linkedin": ""
+      },
+      {
+        "name": "Os Transforming",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Emun Zabihi",
+      "linkedin": ""
+    }
   },
   "iParadigms": {
     "url": "",
@@ -89011,8 +90410,24 @@
   },
   "Brightband": {
     "url": "https://www.preludeventures.com/portfolio/brightband",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Julian Green",
+        "linkedin": ""
+      },
+      {
+        "name": "Introducing Brightband",
+        "linkedin": ""
+      },
+      {
+        "name": "Brightband Management",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Julian Green",
+      "linkedin": ""
+    }
   },
   "Ebb Carbon": {
     "url": "https://www.preludeventures.com/portfolio/ebb-carbon",
@@ -89324,8 +90739,24 @@
   },
   "Koloma": {
     "url": "https://www.preludeventures.com/portfolio/koloma",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Opening Statement",
+        "linkedin": ""
+      },
+      {
+        "name": "Peter Johnson",
+        "linkedin": ""
+      },
+      {
+        "name": "Chief Executive",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Opening Statement",
+      "linkedin": ""
+    }
   },
   "Latitude Media": {
     "url": "https://www.preludeventures.com/portfolio/latitude-media",
@@ -89766,8 +91197,24 @@
   },
   "Meridian Clean Energy": {
     "url": "https://www.preludeventures.com/portfolio/meridian",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Meridian Clean",
+        "linkedin": ""
+      },
+      {
+        "name": "Peter Liu",
+        "linkedin": ""
+      },
+      {
+        "name": "Chris Quarterman",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Meridian Clean",
+      "linkedin": ""
+    }
   },
   "Mill": {
     "url": "https://www.preludeventures.com/portfolio/mill",
@@ -89856,8 +91303,24 @@
   },
   "MineSense": {
     "url": "https://www.preludeventures.com/portfolio/minesense",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Jeff More",
+        "linkedin": ""
+      },
+      {
+        "name": "Sense Technologies",
+        "linkedin": ""
+      },
+      {
+        "name": "John Slaven",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Jeff More",
+      "linkedin": ""
+    }
   },
   "OptimoRoute": {
     "url": "https://www.preludeventures.com/portfolio/optimoroute",
@@ -90263,8 +91726,24 @@
   },
   "Renew Financial": {
     "url": "https://www.preludeventures.com/portfolio/renew-financial",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Leadership Staff",
+        "linkedin": ""
+      },
+      {
+        "name": "Renew Financial",
+        "linkedin": ""
+      },
+      {
+        "name": "Vinay Gupta",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Leadership Staff",
+      "linkedin": ""
+    }
   },
   "Rhoda AI": {
     "url": "https://www.preludeventures.com/portfolio/rhoda-ai",
@@ -90305,8 +91784,24 @@
   },
   "Ripple Foods": {
     "url": "https://www.preludeventures.com/portfolio/ripple-foods",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Our Story",
+        "linkedin": ""
+      },
+      {
+        "name": "Ripple Foods",
+        "linkedin": ""
+      },
+      {
+        "name": "Adam Lowry",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Our Story",
+      "linkedin": ""
+    }
   },
   "Rumin8": {
     "url": "https://www.preludeventures.com/portfolio/rumin8",
@@ -91363,8 +92858,24 @@
   },
   "CoverCress": {
     "url": "",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Cress Inc",
+        "linkedin": ""
+      },
+      {
+        "name": "Announces Retirement",
+        "linkedin": ""
+      },
+      {
+        "name": "Mike De",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Cress Inc",
+      "linkedin": ""
+    }
   },
   "EnergySavvy": {
     "url": "",
@@ -91600,8 +93111,24 @@
   },
   "Sense Photonics": {
     "url": "",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Ouster Completes",
+        "linkedin": ""
+      },
+      {
+        "name": "Sense Photonics",
+        "linkedin": ""
+      },
+      {
+        "name": "Names Shauna",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ouster Completes",
+      "linkedin": ""
+    }
   },
   "SolarBridge Technologies": {
     "url": "",
@@ -91837,8 +93364,24 @@
   },
   "FleetCommuter benefits platform": {
     "url": "https://congruentvc.com/portfolio/fleet",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Shaurya Saluja",
+        "linkedin": ""
+      },
+      {
+        "name": "Chief Executive",
+        "linkedin": ""
+      },
+      {
+        "name": "Our Mission",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Shaurya Saluja",
+      "linkedin": ""
+    }
   },
   "Hopthru": {
     "url": "https://congruentvc.com/portfolio/Hopthru",
@@ -92183,13 +93726,45 @@
   },
   "Sense Photonics(Acquired by OUST)\nFlash lidar systems": {
     "url": "https://congruentvc.com/portfolio/Sense-Photonics",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Ouster Completes",
+        "linkedin": ""
+      },
+      {
+        "name": "Sense Photonics",
+        "linkedin": ""
+      },
+      {
+        "name": "Ouster Acquires",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ouster Completes",
+      "linkedin": ""
+    }
   },
   "Stable AutoSaaS for EV charging stations": {
     "url": "https://congruentvc.com/portfolio/Stable-Auto",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Rohan Puri",
+        "linkedin": ""
+      },
+      {
+        "name": "Charging Profitable",
+        "linkedin": ""
+      },
+      {
+        "name": "Stable Auto",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Rohan Puri",
+      "linkedin": ""
+    }
   },
   "SynopEV infrastructure optimization": {
     "url": "https://congruentvc.com/portfolio/Synop",
@@ -92397,8 +93972,24 @@
   },
   "Avalanche EnergyMicro fusion reactors": {
     "url": "https://congruentvc.com/portfolio/Avalanche-Energy",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Going Big",
+        "linkedin": ""
+      },
+      {
+        "name": "Clean Energy",
+        "linkedin": ""
+      },
+      {
+        "name": "Small Fusion",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Going Big",
+      "linkedin": ""
+    }
   },
   "Blueprint Power(Acquired by BP)": {
     "url": "https://congruentvc.com/portfolio/Blueprint-Power",
@@ -92648,8 +94239,24 @@
   },
   "Demex": {
     "url": "https://congruentvc.com/portfolio/demex",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Ed Byrns",
+        "linkedin": ""
+      },
+      {
+        "name": "Daniel Guggenheim",
+        "linkedin": ""
+      },
+      {
+        "name": "Aerospace Engineering",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ed Byrns",
+      "linkedin": ""
+    }
   },
   "EnerfloSolar developer ERP software": {
     "url": "https://congruentvc.com/portfolio/enerflo",
@@ -92758,8 +94365,24 @@
   },
   "Energetic CapitalMGU for renewable energy industry": {
     "url": "https://congruentvc.com/portfolio/Energetic-Insurance",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Energetic Capital",
+        "linkedin": ""
+      },
+      {
+        "name": "Raises Funds",
+        "linkedin": ""
+      },
+      {
+        "name": "Accelerate Underserved",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Energetic Capital",
+      "linkedin": ""
+    }
   },
   "Fervo": {
     "url": "https://congruentvc.com/portfolio/Fervo",
@@ -93023,8 +94646,24 @@
   },
   "LeapDER aggregator and marketplace": {
     "url": "https://congruentvc.com/portfolio/leapfrog-power",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Leopard Finance",
+        "linkedin": ""
+      },
+      {
+        "name": "Revolutionize Modern",
+        "linkedin": ""
+      },
+      {
+        "name": "Age Finance",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Leopard Finance",
+      "linkedin": ""
+    }
   },
   "Omnidian": {
     "url": "https://congruentvc.com/portfolio/Omnidian",
@@ -93370,8 +95009,24 @@
   },
   "Bellwether Coffee": {
     "url": "https://congruentvc.com/portfolio/Bellwether-Coffee",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Coffee People",
+        "linkedin": ""
+      },
+      {
+        "name": "Ricardo Lopez",
+        "linkedin": ""
+      },
+      {
+        "name": "Bellwether Coffee",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Coffee People",
+      "linkedin": ""
+    }
   },
   "Heartee": {
     "url": "https://congruentvc.com/portfolio/Adapt",
@@ -94981,8 +96636,24 @@
   },
   "TerranovaTerraforming robots that lift land out of flood zones": {
     "url": "https://congruentvc.com/portfolio/terranova",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Terranova Raises",
+        "linkedin": ""
+      },
+      {
+        "name": "Bring Terraforming",
+        "linkedin": ""
+      },
+      {
+        "name": "Terranova Shakes",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Terranova Raises",
+      "linkedin": ""
+    }
   },
   "TrashieClosed loop fashion": {
     "url": "https://congruentvc.com/portfolio/For-Days",
@@ -95599,13 +97270,45 @@
   },
   "Honey": {
     "url": "",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Ryan Hudson",
+        "linkedin": ""
+      },
+      {
+        "name": "Pal Honey",
+        "linkedin": ""
+      },
+      {
+        "name": "Honey Co",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Ryan Hudson",
+      "linkedin": ""
+    }
   },
   "Hippo Insurance": {
     "url": "",
-    "founders": [],
-    "ceo": {}
+    "founders": [
+      {
+        "name": "Assaf Wand",
+        "linkedin": ""
+      },
+      {
+        "name": "Hippo Insurance",
+        "linkedin": ""
+      },
+      {
+        "name": "Investor Relations",
+        "linkedin": ""
+      }
+    ],
+    "ceo": {
+      "name": "Assaf Wand",
+      "linkedin": ""
+    }
   },
   "Api.ai": {
     "url": "",
