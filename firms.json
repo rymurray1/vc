@@ -25222,7 +25222,200 @@
   {
     "name": "Plug and Play",
     "country": "United States",
-    "investments": []
+    "investments": [
+      {
+        "company": "PayPal",
+        "url": ""
+      },
+      {
+        "company": "Dropbox",
+        "url": ""
+      },
+      {
+        "company": "Lending Club",
+        "url": ""
+      },
+      {
+        "company": "Honey",
+        "url": ""
+      },
+      {
+        "company": "Hippo Insurance",
+        "url": ""
+      },
+      {
+        "company": "Api.ai",
+        "url": ""
+      },
+      {
+        "company": "SoundHound",
+        "url": ""
+      },
+      {
+        "company": "Zoosk",
+        "url": ""
+      },
+      {
+        "company": "NatureBox",
+        "url": ""
+      },
+      {
+        "company": "Rappi",
+        "url": ""
+      },
+      {
+        "company": "Airalo",
+        "url": ""
+      },
+      {
+        "company": "Zero Hash",
+        "url": ""
+      },
+      {
+        "company": "Decagon",
+        "url": ""
+      },
+      {
+        "company": "Blockdaemon",
+        "url": ""
+      },
+      {
+        "company": "Flutterwave",
+        "url": ""
+      },
+      {
+        "company": "Guardant Health",
+        "url": ""
+      },
+      {
+        "company": "N26",
+        "url": ""
+      },
+      {
+        "company": "Gr4vy",
+        "url": ""
+      },
+      {
+        "company": "BigID",
+        "url": ""
+      },
+      {
+        "company": "Course Hero",
+        "url": ""
+      },
+      {
+        "company": "Kustomer",
+        "url": ""
+      },
+      {
+        "company": "ApplyBoard",
+        "url": ""
+      },
+      {
+        "company": "Matcha",
+        "url": ""
+      },
+      {
+        "company": "VentureBeat",
+        "url": ""
+      },
+      {
+        "company": "ChangeTip",
+        "url": ""
+      },
+      {
+        "company": "Danger",
+        "url": ""
+      },
+      {
+        "company": "Vudu",
+        "url": ""
+      },
+      {
+        "company": "AddThis",
+        "url": ""
+      },
+      {
+        "company": "Baarzo",
+        "url": ""
+      },
+      {
+        "company": "Milo",
+        "url": ""
+      },
+      {
+        "company": "Zama",
+        "url": ""
+      },
+      {
+        "company": "Notion",
+        "url": ""
+      },
+      {
+        "company": "Scale AI",
+        "url": ""
+      },
+      {
+        "company": "Rippling",
+        "url": ""
+      },
+      {
+        "company": "Linear",
+        "url": ""
+      },
+      {
+        "company": "Figma",
+        "url": ""
+      },
+      {
+        "company": "Webflow",
+        "url": ""
+      },
+      {
+        "company": "Airtable",
+        "url": ""
+      },
+      {
+        "company": "Stripe",
+        "url": ""
+      },
+      {
+        "company": "Slack",
+        "url": ""
+      },
+      {
+        "company": "Lyft",
+        "url": ""
+      },
+      {
+        "company": "Uber",
+        "url": ""
+      },
+      {
+        "company": "Airbnb",
+        "url": ""
+      },
+      {
+        "company": "Twitch",
+        "url": ""
+      },
+      {
+        "company": "Instacart",
+        "url": ""
+      },
+      {
+        "company": "DoorDash",
+        "url": ""
+      },
+      {
+        "company": "Robinhood",
+        "url": ""
+      },
+      {
+        "company": "Coinbase",
+        "url": ""
+      }
+    ]
   },
   {
     "name": "Draper Associates",
