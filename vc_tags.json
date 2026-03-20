@@ -4564,5 +4564,957 @@
     ],
     "ma_presence": true,
     "hq": "Boston, MA"
+  },
+  "500 Startups": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://500.co/"
+  },
+  "AI Grant": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://aigrant.com/"
+  },
+  "AIN Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.ainventures.com"
+  },
+  "Accel Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.accel.com/"
+  },
+  "Aether VC": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.aethervc.com/"
+  },
+  "Agence Francaise de Developpement": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.afd.fr/en"
+  },
+  "American Express": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.americanexpress.com/"
+  },
+  "Anzu Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.anzupartners.com/"
+  },
+  "Argonne National Laboratory (Cradle to Commerce Program)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://c2c.lbl.gov/"
+  },
+  "BHP Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.bhp.com/about/our-businesses/ventures"
+  },
+  "BMW i Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.bmwiventures.com/"
+  },
+  "BRITE Energy Innovators": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://brite.org/"
+  },
+  "Bertelsmann Digital Media Investments (BDMI)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://bdmifund.com/"
+  },
+  "BlackRock": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.blackrock.com/"
+  },
+  "Blumberg Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://blumbergcapital.com/"
+  },
+  "Boston Impact Initiative": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://bostonimpact.org/"
+  },
+  "Builders Vision": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.buildersvision.com/"
+  },
+  "CIT Inc.": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.cit.com/"
+  },
+  "CMA CGM": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.cma-cgm.com/"
+  },
+  "CalSEED (California)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://calseed.fund/"
+  },
+  "Capricorn Investment Group": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://capricornllc.com/"
+  },
+  "Carrier Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.corporate.carrier.com/our-company/innovation/carrier-ventures/"
+  },
+  "ChargeUp Accelerator": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://neny.org/programs/chargeup-accelerator/"
+  },
+  "Claritas Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.claritascapital.com/"
+  },
+  "CleanTech Open": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.cleantechopen.org/"
+  },
+  "Collab Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://collabfund.com/"
+  },
+  "Collaborative Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://collabfund.com/"
+  },
+  "ConocoPhillips Company": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.conocophillips.com/"
+  },
+  "Cota Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.cotacapital.com/"
+  },
+  "Crestwood Energy": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.crestwoodenergy.com/"
+  },
+  "Deutsche Bank": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.db.com/"
+  },
+  "Duke Energy": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.duke-energy.com/"
+  },
+  "Earth Venture Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.earth.vc/"
+  },
+  "Elemental Excelerator": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://elementalimpact.com/"
+  },
+  "Eni Next": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.eni.com/eninext/en-US/home.html"
+  },
+  "Enterprise Singapore": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.enterprisesg.gov.sg/"
+  },
+  "Envisioning Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://envisioning.partners/"
+  },
+  "Escape Velocity": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://ev3.xyz/"
+  },
+  "Foothill Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.foothill.ventures/"
+  },
+  "Ford Foundation": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.fordfoundation.org/"
+  },
+  "Foresite Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.foresitecapital.com/"
+  },
+  "Forum Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.forumvc.com/"
+  },
+  "Founders Pledge": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.founderspledge.com/"
+  },
+  "Front Row Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://frontrow.ventures/"
+  },
+  "Garage Technology Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.garageventures.com/"
+  },
+  "Geodesic Alliance Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://geodesiccap.com/"
+  },
+  "Ground Squirrel Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.groundsquirrelventures.com/"
+  },
+  "HV Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.hvcapital.com/"
+  },
+  "Highside Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://highsidecompanies.com/"
+  },
+  "INNOVX": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://innovx.com/"
+  },
+  "IQT": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.iqt.org/"
+  },
+  "In-Q-Tel (IQT)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.iqt.org/"
+  },
+  "Innovation Crossroads (Oak Ridge National Laboratory)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://innovationcrossroads.ornl.gov/"
+  },
+  "Keen Venture Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.keenventurepartners.com/"
+  },
+  "L'Or\u00e9al Fund for Nature Regeneration": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.loreal.com/en/articles/commitments/fund-for-nature-regeneration/"
+  },
+  "LG Technology Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.lgtechventures.com/"
+  },
+  "Lifeforce Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.lifeforcecap.com/"
+  },
+  "Lightbank": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.lightbank.com/"
+  },
+  "Lockheed Martin Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.lockheedmartin.com/en-us/who-we-are/lockheed-martin-ventures.html"
+  },
+  "Los Angeles Cleantech Incubator (LACI)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://laincubator.org/"
+  },
+  "MPower Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.mpower-partners.com/"
+  },
+  "Mainspring Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.mainspringcap.com/"
+  },
+  "Mainspring Capital Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.mainspringcap.com/"
+  },
+  "Manulife Investment Management Holdings": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.manulifeim.com/"
+  },
+  "Maroon Venture Partners Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.maroonventurepartners.com/"
+  },
+  "MassMutual Catalyst Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.massmutual.com/impact-investing/catalyst"
+  },
+  "Massachusetts Clean Energy Center": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.masscec.com/"
+  },
+  "Massachusetts Clean Energy Center (MassCEC)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.masscec.com/"
+  },
+  "Massachusetts Technology Collaborative": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://masstech.org/"
+  },
+  "McCune Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.mccune.vc/"
+  },
+  "MegaJoule Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://megajouleventures.com/"
+  },
+  "NEC X": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.nec-x.com/"
+  },
+  "National Geographic Society": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.nationalgeographic.org/society/"
+  },
+  "National Science Foundation": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.nsf.gov/"
+  },
+  "Neotribe": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.neotribe.vc/"
+  },
+  "New Jersey Commission on Science, Innovation and Technology": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.njcsit.gov/"
+  },
+  "New Jersey Seed Grant": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.njeda.gov/"
+  },
+  "NextFab Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://nextfabventures.com/"
+  },
+  "Norsk Hydro": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.hydro.com/"
+  },
+  "Northwater Capital Management": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.northwatercapital.com/"
+  },
+  "OMX Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.omx.vc/"
+  },
+  "Ocean Azul Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://oceanazulpartners.com/"
+  },
+  "Oikocredit": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.oikocredit.org/"
+  },
+  "Old Silver VC": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://oldsilvervc.com/"
+  },
+  "Open Society Institute (George Soros)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.opensocietyfoundations.org/"
+  },
+  "Opera Tech Ventures (BNP Paribas VC)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.operatechventures.com/"
+  },
+  "Perceptive Advisors": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.perceptivelife.com/"
+  },
+  "Porsche Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://porsche.ventures/"
+  },
+  "Presidio (Sumitomo Corporation)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://presidio-ventures.com/"
+  },
+  "Prime Impact Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.primeimpactfund.com/"
+  },
+  "Prosper Marketplace": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.prosper.com/"
+  },
+  "RTX Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.rtx.com/who-we-are/ventures"
+  },
+  "RTX Ventures (Raytheon Technologies)": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.rtx.com/who-we-are/ventures"
+  },
+  "Raven Indigenous Capital Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.ravencapitalpartners.com/"
+  },
+  "Refactor Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://refactor.com/"
+  },
+  "Rivian Foundation": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://rivianfoundation.org/"
+  },
+  "Rogers Corporation": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.rogerscorp.com/"
+  },
+  "S2G Investments": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.s2ginvestments.com/"
+  },
+  "STOA Infra & Energy": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.stoainfraenergy.com/en/"
+  },
+  "Saint Gobain": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.saint-gobain.com/en"
+  },
+  "SeedInvest's Selections Fund": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.seedinvest.com/"
+  },
+  "Shell Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.shell.com/what-we-do/technology-and-innovation/innovate-with-shell/shell-ventures.html"
+  },
+  "Sky Foundation": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://skyfoundationinc.org/"
+  },
+  "Stellantis Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.stellantis.ventures/en"
+  },
+  "Taiyo Nippon Sanso": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.tn-sanso.co.jp/en/"
+  },
+  "Temasek Holdings": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://temasek.com.sg/"
+  },
+  "The Grantham Foundation": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.granthamfoundation.org/"
+  },
+  "Toba Capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://tobacapital.com/"
+  },
+  "Traxys": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.traxys.com/"
+  },
+  "U.S. Department of Defense": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.defense.gov/"
+  },
+  "U.S. Department of Energy": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.energy.gov/"
+  },
+  "US Renewables Group": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://usregroup.com/"
+  },
+  "Venrock Healthcare Capital Partners": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.venrock.com/"
+  },
+  "Viking Global Investors": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://vikingglobal.com/"
+  },
+  "Visa": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://corporate.visa.com/en"
+  },
+  "W. L. Gore & Associates": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.gore.com/"
+  },
+  "XPRIZE Foundation": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.xprize.org/"
+  },
+  "Yamaha Motor Ventures": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.yamahamotor.vc/"
+  },
+  "milemark.capital": {
+    "focus": [
+      "unknown"
+    ],
+    "ma_presence": false,
+    "hq": "Unknown",
+    "website": "https://www.milemark.capital/"
   }
 }
