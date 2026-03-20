@@ -61,94 +61,6 @@ def dashboard():
     )
 
 
-@bp.route('/upload-csv', methods=['POST'])
-def upload_csv():
-    """Handle CSV file upload of LinkedIn connections."""
-    if 'username' not in session:
-        return redirect(url_for('main.index'))
-
-    user = User.query.filter_by(username=session['username']).first()
-    if not user:
-        return redirect(url_for('main.index'))
-
-    # Check if file was uploaded
-    if 'file' not in request.files:
-        flash('No file uploaded', 'error')
-        return redirect(url_for('main.dashboard'))
-
-    file = request.files['file']
-    if file.filename == '':
-        flash('No file selected', 'error')
-        return redirect(url_for('main.dashboard'))
-
-    if not file.filename.endswith('.csv'):
-        flash('File must be a CSV', 'error')
-        return redirect(url_for('main.dashboard'))
-
-    try:
-        # Read CSV file
-        stream = io.TextIOWrapper(file.stream, encoding='utf-8')
-        reader = csv.DictReader(stream)
-
-        if not reader.fieldnames:
-            flash('Invalid CSV file', 'error')
-            return redirect(url_for('main.dashboard'))
-
-        # Parse CSV - LinkedIn format has columns like:
-        # First Name, Last Name, Email Address, Company, Position, Connected On
-        # We'll look for variations
-        count = 0
-        for row in reader:
-            # Try to extract name
-            if 'First Name' in row and 'Last Name' in row:
-                name = f"{row['First Name']} {row['Last Name']}".strip()
-            elif 'Name' in row:
-                name = row['Name'].strip()
-            else:
-                continue
-
-            # Try to extract title/position
-            title = row.get('Position', '')
-
-            # Try to extract LinkedIn URL
-            linkedin_url = row.get('Profile URL', '') or row.get('linkedin_url', '')
-
-            if not name:
-                continue
-
-            # Extract slug from URL if available
-            slug = None
-            if linkedin_url:
-                slug = extract_linkedin_slug(linkedin_url)
-
-            # Only add if we have a name and ideally a slug for matching
-            if name and slug:
-                existing = Connection.query.filter_by(user_id=user.id, slug=slug).first()
-                if existing:
-                    existing.name = name
-                    existing.title = title
-                    existing.linkedin_url = linkedin_url
-                    existing.synced_at = datetime.utcnow()
-                else:
-                    new_conn = Connection(
-                        user_id=user.id,
-                        name=name,
-                        title=title,
-                        linkedin_url=linkedin_url,
-                        slug=slug
-                    )
-                    db.session.add(new_conn)
-                count += 1
-
-        db.session.commit()
-        flash(f'✓ {count} connections synced from CSV', 'success')
-
-    except Exception as e:
-        flash(f'Error parsing CSV: {str(e)}', 'error')
-
-    return redirect(url_for('main.dashboard'))
-
-
 @bp.route('/api/connections', methods=['POST'])
 def sync_connections():
     """Bookmarklet endpoint to sync LinkedIn connections."""
@@ -312,7 +224,7 @@ def download_results():
 
 @bp.route('/load-connections')
 def load_connections():
-    """Load connections from CSV in connections/ directory."""
+    """Load connections from linkedin_vc_map_all.json."""
     if 'username' not in session:
         return redirect(url_for('main.index'))
 
@@ -320,34 +232,26 @@ def load_connections():
     if not user:
         return redirect(url_for('main.index'))
 
-    # Find CSV files in connections/ directory
     base_dir = Path(__file__).parent.parent.parent
-    connections_dir = base_dir / 'connections'
+    json_path = base_dir / 'linkedin_vc_map_all.json'
 
-    if not connections_dir.exists():
-        flash('No connections directory found', 'error')
+    if not json_path.exists():
+        flash('linkedin_vc_map_all.json not found', 'error')
         return redirect(url_for('main.dashboard'))
-
-    # Get most recent CSV file
-    csv_files = sorted(connections_dir.glob('linkedin-connections-*.csv'), reverse=True)
-    if not csv_files:
-        flash('No CSV files found in connections/ directory', 'error')
-        return redirect(url_for('main.dashboard'))
-
-    csv_path = csv_files[0]
 
     try:
-        with open(csv_path, 'r', encoding='utf-8-sig') as f:
-            reader = csv.DictReader(f)
+        # Clear existing connections
+        Connection.query.filter_by(user_id=user.id).delete()
+        db.session.commit()
+
+        with open(json_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
             count = 0
 
-            for row in reader:
-                # Extract from LinkedIn export format
-                name = row.get('Name', '').strip()
-                title = row.get('Title', '').strip()
-                linkedin_url = row.get('Linkedin URL', '').strip()
+            for person_name, person_data in data.items():
+                linkedin_url = person_data.get('linkedin', '').strip()
 
-                if not name or not linkedin_url:
+                if not linkedin_url:
                     continue
 
                 slug = extract_linkedin_slug(linkedin_url)
@@ -357,15 +261,15 @@ def load_connections():
                 # Upsert connection
                 existing = Connection.query.filter_by(user_id=user.id, slug=slug).first()
                 if existing:
-                    existing.name = name
-                    existing.title = title
+                    existing.name = person_name
+                    existing.title = ""
                     existing.linkedin_url = linkedin_url
                     existing.synced_at = datetime.utcnow()
                 else:
                     new_conn = Connection(
                         user_id=user.id,
-                        name=name,
-                        title=title,
+                        name=person_name,
+                        title="",
                         linkedin_url=linkedin_url,
                         slug=slug
                     )
@@ -373,7 +277,7 @@ def load_connections():
                 count += 1
 
             db.session.commit()
-            flash(f'✓ Loaded {count} connections from {csv_path.name}', 'success')
+            flash(f'✓ Loaded {count} connections', 'success')
 
     except Exception as e:
         flash(f'Error loading connections: {str(e)}', 'error')

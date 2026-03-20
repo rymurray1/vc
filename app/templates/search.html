@@ -9,13 +9,15 @@
         <p>Loading your connections...</p>
     </div>
 
-    <div id="search-section" class="search-card {% if connections_loaded %}{% else %}loading-hidden{% endif %}">
-        <h2>Search Your Connections</h2>
-        <p class="subtitle">Find VCs you're connected to through your network</p>
+    <div id="search-section" class="search-panel {% if connections_loaded %}{% else %}loading-hidden{% endif %}">
+        <div class="search-header">
+            <h2>Search Your Connections</h2>
+            <p>Find VCs you're connected to through your network</p>
+        </div>
 
-        <div class="search-tabs">
-            <button class="tab-btn active" onclick="switchTab('person-search')">👤 Person → VCs</button>
-            <button class="tab-btn" onclick="switchTab('vc-search')">🏢 VC → People</button>
+        <div class="search-tabs-pill">
+            <button class="tab-btn-pill active" onclick="switchTab('person-search')">Person → VCs</button>
+            <button class="tab-btn-pill" onclick="switchTab('vc-search')">VC → People</button>
         </div>
 
         <div id="person-search" class="tab-content active">
@@ -37,221 +39,40 @@
     </div>
 </div>
 
-<style>
-    .search-container {
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        min-height: 60vh;
-        padding: 2rem 0;
-    }
-
-    .search-card {
-        background: white;
-        border-radius: 8px;
-        padding: 3rem;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        max-width: 600px;
-        width: 100%;
-        text-align: left;
-    }
-
-    .search-card.loading-hidden {
-        display: none;
-    }
-
-    .spinner {
-        border: 4px solid #f3f3f3;
-        border-top: 4px solid var(--primary);
-        border-radius: 50%;
-        width: 50px;
-        height: 50px;
-        animation: spin 1s linear infinite;
-        margin: 0 auto 1.5rem;
-        display: block;
-    }
-
-    @keyframes spin {
-        0% { transform: rotate(0deg); }
-        100% { transform: rotate(360deg); }
-    }
-
-    .search-card > p {
-        font-size: 1.1rem;
-        margin-bottom: 1rem;
-        text-align: center;
-    }
-
-    .search-tabs {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-        margin-bottom: 2rem;
-    }
-
-    .tab-btn {
-        padding: 0.75rem 1rem;
-        border: 2px solid var(--border);
-        background: white;
-        border-radius: 4px;
-        cursor: pointer;
-        transition: all 0.2s;
-        font-size: 0.95rem;
-        font-weight: 500;
-    }
-
-    .tab-btn.active {
-        border-color: var(--primary);
-        background: var(--primary);
-        color: white;
-    }
-
-    .tab-btn:hover:not(.active) {
-        border-color: var(--primary);
-    }
-
-    .tab-content {
-        display: none;
-    }
-
-    .tab-content.active {
-        display: block;
-    }
-
-    .search-input {
-        width: 100%;
-        padding: 0.75rem;
-        border: 1px solid var(--border);
-        border-radius: 4px;
-        font-size: 1rem;
-        margin-bottom: 1rem;
-    }
-
-    .search-input:focus {
-        outline: none;
-        border-color: var(--primary);
-        box-shadow: 0 0 0 3px rgba(0, 102, 204, 0.1);
-    }
-
-    .search-results {
-        max-height: 400px;
-        overflow-y: auto;
-        border: 1px solid var(--border);
-        border-radius: 4px;
-        padding: 1rem;
-    }
-
-    .search-results.empty {
-        text-align: center;
-        color: var(--secondary);
-        padding: 2rem 1rem;
-    }
-
-    .result-item {
-        padding: 1rem;
-        border-bottom: 1px solid var(--border);
-        cursor: pointer;
-        transition: background-color 0.2s;
-    }
-
-    .result-item:last-child {
-        border-bottom: none;
-    }
-
-    .result-item:hover {
-        background-color: var(--bg-light);
-    }
-
-    .result-item h4 {
-        margin: 0 0 0.25rem 0;
-        color: var(--primary);
-        font-size: 1rem;
-    }
-
-    .result-item p {
-        margin: 0.25rem 0 0 0;
-        font-size: 0.85rem;
-        color: var(--secondary);
-    }
-
-    .result-item a {
-        color: var(--primary);
-        text-decoration: none;
-        font-size: 0.85rem;
-    }
-
-    .result-item a:hover {
-        text-decoration: underline;
-    }
-
-    #results-content {
-        margin-top: 1.5rem;
-    }
-
-    .company-block {
-        background: var(--bg-light);
-        padding: 1rem;
-        border-radius: 4px;
-        margin-bottom: 1.5rem;
-    }
-
-    .company-block h4 {
-        margin: 0 0 0.5rem 0;
-        color: var(--primary);
-    }
-
-    .company-block p {
-        margin: 0.25rem 0;
-        font-size: 0.9rem;
-    }
-
-    .vc-list {
-        list-style: none;
-        padding: 0.5rem 0;
-        margin: 0.5rem 0 0 0;
-    }
-
-    .vc-list li {
-        padding: 0.25rem 0;
-        font-size: 0.9rem;
-        color: var(--secondary);
-    }
-
-    .vc-list li strong {
-        color: var(--text);
-    }
-
-    @media (max-width: 768px) {
-        .search-card {
-            padding: 1.5rem;
-        }
-
-        .search-tabs {
-            grid-template-columns: 1fr;
-        }
-    }
-</style>
 
 <script>
     let allPeople = [];
     let allVCs = [];
     let loadingStarted = false;
 
+    function roundPillClass(round) {
+        if (!round) return 'pill pill-other';
+        const r = round.toLowerCase();
+        if (r.includes('seed') || r.includes('pre-seed') || r.includes('angel')) return 'pill pill-seed';
+        if (r.includes('series a')) return 'pill pill-series-a';
+        if (r.includes('series b')) return 'pill pill-series-b';
+        if (r.includes('series c') || r.includes('series d') || r.includes('series e')) return 'pill pill-series-c';
+        return 'pill pill-other';
+    }
+
     function initializeSearch() {
         const loadingSection = document.getElementById('loading-section');
 
-        if (loadingSection.classList.contains('loading-hidden')) {
-            return;
-        }
-
         if (!loadingStarted) {
             loadingStarted = true;
-            // Load data in background while spinner runs
+            // Load data in background
             loadData();
-            setTimeout(function() {
-                loadingSection.classList.add('loading-hidden');
+
+            // If connections already loaded, show search immediately
+            if (loadingSection.classList.contains('loading-hidden')) {
                 document.getElementById('search-section').classList.remove('loading-hidden');
-            }, 5000);
+            } else {
+                // Otherwise wait 5 seconds before showing search
+                setTimeout(function() {
+                    loadingSection.classList.add('loading-hidden');
+                    document.getElementById('search-section').classList.remove('loading-hidden');
+                }, 5000);
+            }
         }
     }
 
@@ -275,7 +96,7 @@
         document.getElementById('vc-search').classList.remove('active');
 
         // Remove active class from all buttons
-        document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+        document.querySelectorAll('.tab-btn-pill').forEach(btn => btn.classList.remove('active'));
 
         // Show selected tab
         document.getElementById(tab).classList.add('active');
@@ -285,7 +106,9 @@
         document.getElementById('person-input').value = '';
         document.getElementById('vc-input').value = '';
         document.getElementById('person-list').innerHTML = '';
+        document.getElementById('person-list').classList.remove('has-results');
         document.getElementById('vc-list').innerHTML = '';
+        document.getElementById('vc-list').classList.remove('has-results');
     }
 
     function filterPeople() {
@@ -293,6 +116,7 @@
         const list = document.getElementById('person-list');
 
         if (!input) {
+            list.classList.remove('has-results');
             list.innerHTML = '';
             return;
         }
@@ -300,18 +124,68 @@
         const filtered = allPeople.filter(p => p.name.toLowerCase().includes(input));
 
         if (filtered.length === 0) {
+            list.classList.remove('has-results');
             list.innerHTML = '<div class="search-results empty">No people found</div>';
             return;
         }
 
-        list.innerHTML = '<div class="search-results">' + filtered.map(person => `
+        list.classList.add('has-results');
+
+        // Collect all VCs from matching people's companies (excluding grants)
+        const vcsMap = new Map(); // vc_name -> rounds
+        filtered.forEach(person => {
+            if (person.companies_founded && person.companies_founded.length > 0) {
+                person.companies_founded.forEach(company => {
+                    if (company.investors && company.investors.length > 0) {
+                        company.investors.forEach(inv => {
+                            // Skip grants
+                            if (inv.round && inv.round.includes('Grant')) {
+                                return;
+                            }
+                            if (!vcsMap.has(inv.vc_name)) {
+                                vcsMap.set(inv.vc_name, []);
+                            }
+                            if (!vcsMap.get(inv.vc_name).includes(inv.round)) {
+                                vcsMap.get(inv.vc_name).push(inv.round);
+                            }
+                        });
+                    }
+                });
+            }
+        });
+        const connectedVCs = Array.from(vcsMap.entries()).sort((a, b) => a[0].localeCompare(b[0]));
+
+        let html = '<div>';
+
+        // Show people
+        html += '<div style="margin-bottom: 1.5rem;">';
+        html += filtered.map(person => `
             <div class="result-item" onclick="searchPersonVCs('${person.name.replace(/'/g, "\\'")}')">
                 <h4>${person.name}</h4>
                 <p><a href="${person.linkedin}" target="_blank">LinkedIn</a></p>
                 ${person.companies_founded && person.companies_founded.length > 0 ?
                     `<p>${person.companies_founded.length} company/companies</p>` : ''}
             </div>
-        `).join('') + '</div>';
+        `).join('');
+        html += '</div>';
+
+        // Show connected VCs if any
+        if (connectedVCs.length > 0) {
+            html += '<div style="border-top: 1px solid var(--border); padding-top: 1rem;">';
+            html += '<p style="font-weight: 600; margin-bottom: 0.75rem; color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.5px;">Connected VCs</p>';
+            html += '<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">';
+            html += connectedVCs.map(([vc, rounds]) => {
+                const roundText = rounds.filter(r => !r.includes('Grant')).join(', ');
+                return `<span class="vc-chip" onclick="searchVCPeople('${vc.replace(/'/g, "\\'")}')" title="Click to see connections">
+                    <span class="vc-chip-name">${vc}</span>
+                    ${roundText ? `<span class="vc-chip-round ${roundPillClass(rounds[0]).split(' ')[1]}">${roundText}</span>` : ''}
+                </span>`;
+            }).join('');
+            html += '</div></div>';
+        }
+
+        html += '</div>';
+        list.innerHTML = html;
     }
 
     function filterVCs() {
@@ -319,6 +193,7 @@
         const list = document.getElementById('vc-list');
 
         if (!input) {
+            list.classList.remove('has-results');
             list.innerHTML = '';
             return;
         }
@@ -326,11 +201,13 @@
         const filtered = allVCs.filter(vc => vc.name.toLowerCase().includes(input));
 
         if (filtered.length === 0) {
+            list.classList.remove('has-results');
             list.innerHTML = '<div class="search-results empty">No VCs found</div>';
             return;
         }
 
-        list.innerHTML = '<div class="search-results">' + filtered.map(vc => `
+        list.classList.add('has-results');
+        list.innerHTML = '<div>' + filtered.map(vc => `
             <div class="result-item" onclick="searchVCPeople('${vc.name.replace(/'/g, "\\'")}')">
                 <h4>${vc.name}</h4>
                 <p>📍 ${vc.hq || 'Location TBD'}</p>

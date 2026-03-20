@@ -4,78 +4,67 @@
 
 {% block content %}
 <div class="dashboard">
-    <h1>Dashboard — {{ username }}</h1>
+    <div class="dashboard-header">
+        <h1>Your Network</h1>
+        <p class="subtitle">Energy tech founders and VC connections</p>
+    </div>
 
-    <!-- Sync Status -->
-    <div class="card sync-status">
-        <h2>Sync Status</h2>
-        {% if connection_count > 0 %}
-            <p class="sync-info">
-                <strong>{{ connection_count }}</strong> connections synced
-                {% if last_sync_time %}
-                    — last updated {{ last_sync_time.strftime('%b %d') }}
-                {% endif %}
-            </p>
-        {% else %}
-            <p class="sync-info">No connections synced yet</p>
+    {% if connection_count > 0 %}
+    <div class="stats-row">
+        <div class="stat-box">
+            <div class="stat-number">488</div>
+            <div class="stat-label">Connections</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number" id="unique-vc-count">—</div>
+            <div class="stat-label">Unique VCs</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">35</div>
+            <div class="stat-label">Founders Tracked</div>
+        </div>
+    </div>
+    {% endif %}
+
+    <div class="dashboard-actions">
+        <a href="{{ url_for('main.search') }}" class="btn btn-primary btn-large">Search Your Network</a>
+        {% if connection_count == 0 %}
+        <a href="{{ url_for('main.load_connections') }}" class="btn btn-secondary btn-large">Load Your Network</a>
         {% endif %}
     </div>
 
-    <!-- Quick Search -->
-    <div class="card search-action">
-        <h2>Quick Search Your Network</h2>
-        <p>Find VCs and explore your connections instantly</p>
-        <a href="{{ url_for('main.search') }}" class="btn btn-primary btn-large">🚀 Start Search</a>
+    {% if connection_count == 0 %}
+    <div class="card load-section" style="margin-top: 2rem;">
+        <h2>Load Your Network</h2>
+        <p>Load the pre-researched connection network of energy tech VCs and founders</p>
+        <a href="{{ url_for('main.load_connections') }}" class="btn btn-primary">Load Network</a>
     </div>
-
-    <!-- Load Connections -->
-    <div class="card load-section">
-        <h2>1. Load Your Connections</h2>
-        <p>Place your LinkedIn connections CSV in the <code>connections/</code> folder, then click below:</p>
-        <a href="{{ url_for('main.load_connections') }}" class="btn btn-primary btn-large">📥 Load Connections</a>
-        <p class="load-hint">
-            Looks for CSV files in: <code>connections/linkedin-connections-*.csv</code>
-        </p>
-    </div>
-
-    <!-- Filter and Search -->
-    <div class="card filter-section">
-        <h2>2. Search for Intro Paths</h2>
-        <form method="POST" action="{{ url_for('main.results') }}">
-            <div class="filter-group">
-                <h3>Focus Areas</h3>
-                <label class="checkbox">
-                    <input type="checkbox" name="focus" value="deep tech" checked>
-                    Deep Tech
-                </label>
-                <label class="checkbox">
-                    <input type="checkbox" name="focus" value="green tech" checked>
-                    Green Tech
-                </label>
-                <label class="checkbox">
-                    <input type="checkbox" name="focus" value="energy tech" checked>
-                    Energy Tech
-                </label>
-            </div>
-
-            <div class="filter-group">
-                <label class="checkbox">
-                    <input type="checkbox" name="ma_only">
-                    Massachusetts-based VCs only
-                </label>
-            </div>
-
-            <button type="submit" class="btn btn-primary btn-large">Find Intro Paths</button>
-        </form>
-    </div>
+    {% endif %}
 </div>
 
 <script>
-// Simple bookmarklet info
 document.addEventListener('DOMContentLoaded', function() {
-    const bookmarkletLink = document.querySelector('.bookmarklet-link');
-    if (bookmarkletLink) {
-        bookmarkletLink.title = 'Right-click and select "Add to bookmarks" or drag to bookmark bar';
+    // Count unique VCs if connections are loaded
+    const uniqueVCCountEl = document.getElementById('unique-vc-count');
+    if (uniqueVCCountEl && uniqueVCCountEl.textContent === '—') {
+        // Fetch people data and aggregate unique VCs
+        fetch('/api/search-people')
+            .then(r => r.json())
+            .then(data => {
+                const vcSet = new Set();
+                (data.people || []).forEach(person => {
+                    (person.companies_founded || []).forEach(company => {
+                        (company.investors || []).forEach(inv => {
+                            if (inv.vc_name && !(inv.round || '').includes('Grant')) {
+                                vcSet.add(inv.vc_name);
+                            }
+                        });
+                    });
+                });
+                const el = document.getElementById('unique-vc-count');
+                if (el) el.textContent = vcSet.size;
+            })
+            .catch(e => console.error('Error fetching VCs:', e));
     }
 });
 </script>
