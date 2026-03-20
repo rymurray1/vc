@@ -1,0 +1,219 @@
+{% extends "base.html" %}
+
+{% block title %}Search Connections{% endblock %}
+
+{% block content %}
+<div class="search-container">
+    <div id="loading-section" class="search-card loading-active">
+        <div class="spinner"></div>
+        <p>Loading your connections...</p>
+    </div>
+
+    <div id="search-section" class="search-card loading-hidden">
+        <h2>Search Your Connections</h2>
+        <p class="subtitle">Find warm introductions to VCs or explore your network</p>
+
+        <div class="search-grid">
+            <button class="btn btn-primary btn-large search-btn" onclick="searchVCs()">
+                🔍 Search VCs
+            </button>
+            <button class="btn btn-primary btn-large search-btn" onclick="searchPeople()">
+                👥 Search People
+            </button>
+        </div>
+    </div>
+
+    <div id="results-section" class="search-card loading-hidden">
+        <button class="btn btn-secondary" onclick="backToSearch()">← Back</button>
+        <div id="results-content"></div>
+    </div>
+</div>
+
+<style>
+    .search-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 60vh;
+    }
+
+    .search-card {
+        background: white;
+        border-radius: 8px;
+        padding: 3rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        max-width: 500px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .search-card.loading-hidden {
+        display: none;
+    }
+
+    .spinner {
+        border: 4px solid #f3f3f3;
+        border-top: 4px solid var(--primary);
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        animation: spin 1s linear infinite;
+        margin: 0 auto 1.5rem;
+    }
+
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+
+    .search-card p {
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
+    }
+
+    .search-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+        margin-top: 2rem;
+    }
+
+    .search-btn {
+        padding: 1.5rem;
+        font-size: 1rem;
+    }
+
+    #results-content {
+        margin-top: 1.5rem;
+        text-align: left;
+        max-height: 60vh;
+        overflow-y: auto;
+    }
+
+    .result-item {
+        padding: 1rem;
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        margin-bottom: 0.75rem;
+        transition: background-color 0.2s;
+    }
+
+    .result-item:hover {
+        background-color: var(--bg-light);
+    }
+
+    .result-item h4 {
+        margin: 0 0 0.5rem 0;
+        color: var(--primary);
+    }
+
+    .result-item p {
+        margin: 0.25rem 0;
+        font-size: 0.9rem;
+        color: var(--secondary);
+    }
+
+    .result-item a {
+        color: var(--primary);
+        text-decoration: none;
+    }
+
+    .result-item a:hover {
+        text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+        .search-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .search-card {
+            padding: 2rem;
+        }
+    }
+</style>
+
+<script>
+    // Start loading on page load
+    window.addEventListener('load', function() {
+        setTimeout(enableSearch, 5000);
+    });
+
+    function enableSearch() {
+        document.getElementById('loading-section').classList.remove('loading-active');
+        document.getElementById('search-section').classList.remove('loading-hidden');
+    }
+
+    function searchVCs() {
+        document.getElementById('search-section').classList.add('loading-hidden');
+        document.getElementById('results-section').classList.remove('loading-hidden');
+        document.getElementById('results-content').innerHTML = '<p style="text-align: center;">Loading VCs...</p>';
+
+        fetch('/api/search-vcs')
+            .then(r => r.json())
+            .then(data => displayVCResults(data))
+            .catch(e => {
+                document.getElementById('results-content').innerHTML = '<p style="color: red;">Error loading VCs</p>';
+            });
+    }
+
+    function searchPeople() {
+        document.getElementById('search-section').classList.add('loading-hidden');
+        document.getElementById('results-section').classList.remove('loading-hidden');
+        document.getElementById('results-content').innerHTML = '<p style="text-align: center;">Loading people...</p>';
+
+        fetch('/api/search-people')
+            .then(r => r.json())
+            .then(data => displayPeopleResults(data))
+            .catch(e => {
+                document.getElementById('results-content').innerHTML = '<p style="color: red;">Error loading people</p>';
+            });
+    }
+
+    function displayVCResults(data) {
+        let html = '<h3>VCs You Can Access</h3>';
+        if (!data.vcs || data.vcs.length === 0) {
+            html += '<p>No VCs found</p>';
+        } else {
+            data.vcs.forEach(vc => {
+                html += `
+                    <div class="result-item">
+                        <h4>${vc.name}</h4>
+                        <p>📍 ${vc.hq || 'Location TBD'}</p>
+                        <p>🎯 ${vc.tags.join(', ')}</p>
+                        <p style="margin-top: 0.5rem;">
+                            <strong>Intros Available:</strong> ${vc.intros_available.length}
+                        </p>
+                    </div>
+                `;
+            });
+        }
+        document.getElementById('results-content').innerHTML = html;
+    }
+
+    function displayPeopleResults(data) {
+        let html = '<h3>Your Connections</h3>';
+        if (!data.people || data.people.length === 0) {
+            html += '<p>No people found</p>';
+        } else {
+            data.people.forEach(person => {
+                html += `
+                    <div class="result-item">
+                        <h4>${person.name}</h4>
+                        <p><a href="${person.linkedin}" target="_blank">LinkedIn Profile</a></p>
+                        ${person.companies_founded && person.companies_founded.length > 0 ? `
+                            <p><strong>Companies:</strong> ${person.companies_founded.map(c => c.name).join(', ')}</p>
+                        ` : ''}
+                    </div>
+                `;
+            });
+        }
+        document.getElementById('results-content').innerHTML = html;
+    }
+
+    function backToSearch() {
+        document.getElementById('results-section').classList.add('loading-hidden');
+        document.getElementById('search-section').classList.remove('loading-hidden');
+    }
+</script>
+{% endblock %}

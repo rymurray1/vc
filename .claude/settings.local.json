@@ -136,7 +136,11 @@
       "Bash(cd /Users/ryanmurray/programming/warmintro/backend && rm -rf venv && python3 -m venv venv && source venv/bin/activate && pip install --upgrade pip -q && pip install -r requirements.txt -q && echo \"✓ Dependencies installed successfully\")",
       "Bash(curl -X POST http://localhost:8000/auth/login \\\\\n  -H \"Content-Type: application/json\" \\\\\n  -d '{\"email\":\"test@example.com\",\"password\":\"anypass\"}' 2>/dev/null)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(python:*)",
+      "Bash(source venv/bin/activate)",
+      "Bash(curl -c /tmp/cookies.txt -d \"username=matt.millard&password=testpass123\" -s http://localhost:8000)",
+      "Bash(curl -b /tmp/cookies.txt -s http://localhost:8000/search)"
     ]
   }
 }

@@ -1,6 +1,7 @@
 import csv
 import io
 import os
+import json
 from pathlib import Path
 from datetime import datetime
 from flask import Blueprint, render_template, request, redirect, url_for, jsonify, send_file, session, flash
@@ -385,3 +386,77 @@ def logout():
     """Clear session and go back to home."""
     session.clear()
     return redirect(url_for('main.index'))
+
+
+@bp.route('/search')
+def search():
+    """Search connections and VCs page."""
+    if 'username' not in session:
+        return redirect(url_for('main.index'))
+
+    return render_template('search.html')
+
+
+@bp.route('/api/search-vcs')
+def api_search_vcs():
+    """Get list of VCs from warm intro map."""
+    if 'username' not in session:
+        return jsonify({'error': 'Unauthorized'}), 401
+
+    try:
+        base_dir = Path(__file__).parent.parent.parent
+        warm_intro_path = base_dir / 'warm_intro_map.json'
+
+        if not warm_intro_path.exists():
+            return jsonify({'vcs': []})
+
+        with open(warm_intro_path, 'r') as f:
+            data = json.load(f)
+
+        # Extract VCs from the energy_vcs section
+        vcs = []
+        if 'energy_vcs' in data:
+            for vc_name, vc_data in data['energy_vcs'].items():
+                vcs.append({
+                    'name': vc_name,
+                    'hq': vc_data.get('hq'),
+                    'tags': vc_data.get('tags', []),
+                    'ma_presence': vc_data.get('ma_presence', False),
+                    'intros_available': vc_data.get('intros_available', [])
+                })
+
+        return jsonify({'vcs': vcs})
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
+@bp.route('/api/search-people')
+def api_search_people():
+    """Get list of people from LinkedIn VC map."""
+    if 'username' not in session:
+        return jsonify({'error': 'Unauthorized'}), 401
+
+    try:
+        base_dir = Path(__file__).parent.parent.parent
+        linkedin_map_path = base_dir / 'linkedin_vc_map_all.json'
+
+        if not linkedin_map_path.exists():
+            return jsonify({'people': []})
+
+        with open(linkedin_map_path, 'r') as f:
+            data = json.load(f)
+
+        # Convert to list of people
+        people = []
+        for person_name, person_data in data.items():
+            people.append({
+                'name': person_name,
+                'linkedin': person_data.get('linkedin'),
+                'companies_founded': person_data.get('companies_founded', [])
+            })
+
+        return jsonify({'people': people})
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
