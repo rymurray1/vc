@@ -5,7 +5,8 @@
       "general"
     ],
     "ma_presence": false,
-    "hq": "Palo Alto, CA"
+    "hq": "Palo Alto, CA",
+    "website": "https://sequoiacap.com/"
   },
   "Andreessen Horowitz": {
     "focus": [
@@ -13,7 +14,8 @@
       "general"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://a16z.com/"
   },
   "Kleiner Perkins": {
     "focus": [
@@ -21,42 +23,48 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.kleinerperkins.com/"
   },
   "Accel": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.accel.com/"
   },
   "Benchmark": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://benchmark.com/"
   },
   "Greylock Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://greylock.com/"
   },
   "New Enterprise Associates": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.nea.com/"
   },
   "Lightspeed Venture Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://lsvp.com/"
   },
   "General Catalyst": {
     "focus": [
@@ -64,21 +72,24 @@
       "general"
     ],
     "ma_presence": true,
-    "hq": "Cambridge, MA"
+    "hq": "Cambridge, MA",
+    "website": "https://www.generalcatalyst.com"
   },
   "Bessemer Venture Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.bvp.com/"
   },
   "Battery Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.battery.com/"
   },
   "Founders Fund": {
     "focus": [
@@ -86,14 +97,16 @@
       "energy tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://foundersfund.com/"
   },
   "First Round Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Philadelphia, PA"
+    "hq": "Philadelphia, PA",
+    "website": "https://www.firstround.com/"
   },
   "Khosla Ventures": {
     "focus": [
@@ -102,42 +115,48 @@
       "energy tech"
     ],
     "ma_presence": false,
-    "hq": "Menlo Park, CA"
+    "hq": "Menlo Park, CA",
+    "website": "https://www.khoslaventures.com/"
   },
   "Union Square Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.usv.com/"
   },
   "Spark Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.sparkcapital.com/"
   },
   "Index Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "London, UK"
+    "hq": "London, UK",
+    "website": "https://www.indexventures.com/"
   },
   "Insight Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.insightpartners.com/"
   },
   "Tiger Global Management": {
     "focus": [
       "general"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.tigerglobal.com/"
   },
   "Coatue Management": {
     "focus": [
@@ -145,140 +164,160 @@
       "general"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.coatue.com/"
   },
   "GV": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.gv.com/"
   },
   "Intel Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Santa Clara, CA"
+    "hq": "Santa Clara, CA",
+    "website": "https://www.intelcapital.com/"
   },
   "Salesforce Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://salesforceventures.com/"
   },
   "M12": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Seattle, WA"
+    "hq": "Seattle, WA",
+    "website": "https://m12.vc/"
   },
   "Lux Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.luxcapital.com"
   },
   "True Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://trueventures.com/"
   },
   "Forerunner Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.forerunnerventures.com/"
   },
   "Felicis Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.felicis.com/"
   },
   "CRV": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.crv.com"
   },
   "Matrix Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://matrix.vc/"
   },
   "Norwest Venture Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.norwest.com/"
   },
   "Menlo Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Menlo Park, CA"
+    "hq": "Menlo Park, CA",
+    "website": "https://menlovc.com/"
   },
   "Mayfield Fund": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Palo Alto, CA"
+    "hq": "Palo Alto, CA",
+    "website": "https://www.mayfield.com/"
   },
   "Canaan Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.canaan.com/"
   },
   "RRE Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://rre.com/"
   },
   "Draper Fisher Jurvetson": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.dfj.com/"
   },
   "Foundation Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://foundationcapital.com/"
   },
   "Scale Venture Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.scalevp.com"
   },
   "Upfront Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Los Angeles, CA"
+    "hq": "Los Angeles, CA",
+    "website": "https://upfront.com/"
   },
   "Y Combinator": {
     "focus": [
@@ -286,7 +325,8 @@
       "general"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.ycombinator.com/"
   },
   "500 Global": {
     "focus": [
@@ -294,189 +334,216 @@
       "general"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://500.co/"
   },
   "Initialized Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://initialized.com/"
   },
   "SV Angel": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://svangel.com/"
   },
   "Two Sigma Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://twosigmaventures.com/"
   },
   "Sapphire Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://sapphireventures.com/"
   },
   "Emergence Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.emcap.com"
   },
   "OpenView Venture Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://openviewpartners.com/"
   },
   "Redpoint Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Palo Alto, CA"
+    "hq": "Palo Alto, CA",
+    "website": "https://www.redpoint.com/"
   },
   "IVP": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.ivp.com/"
   },
   "General Atlantic": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.generalatlantic.com/"
   },
   "Summit Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.summitpartners.com"
   },
   "TA Associates": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.ta.com/"
   },
   "Bain Capital Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://baincapitalventures.com/"
   },
   "GGV Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.ggvc.com/"
   },
   "DCM Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.dcm.com/"
   },
   "Ribbit Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.ribbitcap.com/"
   },
   "Thrive Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.thrivecap.com/"
   },
   "Craft Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.craftventures.com/"
   },
   "SignalFire": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.signalfire.com/"
   },
   "Social Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.socialcapital.com/"
   },
   "Homebrew": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://homebrew.co/"
   },
   "Slow Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://slow.co/"
   },
   "TCV": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.tcv.com/"
   },
   "8VC": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://8vc.com/"
   },
   "Atomic": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.atomic.vc/"
   },
   "Baseline Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Palo Alto, CA"
+    "hq": "Palo Alto, CA",
+    "website": "https://www.baselinev.com/"
   },
   "Bond Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.bondcap.com/"
   },
   "Breakthrough Energy Ventures": {
     "focus": [
@@ -485,14 +552,16 @@
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Kirkland, WA"
+    "hq": "Kirkland, WA",
+    "website": "https://www.breakthroughenergy.org/"
   },
   "Crosslink Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.crosslinkcapital.com/"
   },
   "DCVC": {
     "focus": [
@@ -500,14 +569,16 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.dcvc.com"
   },
   "Drive Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Columbus, OH"
+    "hq": "Columbus, OH",
+    "website": "https://drivecapital.com/"
   },
   "Eclipse Ventures": {
     "focus": [
@@ -516,14 +587,16 @@
       "energy tech"
     ],
     "ma_presence": false,
-    "hq": "Palo Alto, CA"
+    "hq": "Palo Alto, CA",
+    "website": "https://eclipse.capital/"
   },
   "Flagship Pioneering": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Cambridge, MA"
+    "hq": "Cambridge, MA",
+    "website": "https://www.flagshippioneering.com/"
   },
   "Greenspring Associates": {
     "focus": [
@@ -538,28 +611,32 @@
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.innovationendeavors.com/"
   },
   "Jump Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://jumpcap.com/"
   },
   "Lerer Hippeau": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.lererhippeau.com/"
   },
   "NextView Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://nextview.vc/"
   },
   "Obvious Ventures": {
     "focus": [
@@ -567,98 +644,112 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://obvious.com/"
   },
   "Primary Venture Partners": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.primary.vc/"
   },
   "Point72 Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Stanford, CT"
+    "hq": "Stanford, CT",
+    "website": "https://p72.vc/"
   },
   "Freestyle Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://freestyle.vc/"
   },
   "BoxGroup": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://www.boxgroup.com/"
   },
   "Canvas Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.canvas.vc/"
   },
   "Eniac Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Philadelphia, PA"
+    "hq": "Philadelphia, PA",
+    "website": "https://www.eniac.vc/"
   },
   "FirstMark Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "New York, NY"
+    "hq": "New York, NY",
+    "website": "https://firstmark.com/"
   },
   "Greenoaks Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://greenoaks.com/"
   },
   "Haystack": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://haystack.vc/"
   },
   "Lowercase Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://lowercasecapital.com/"
   },
   "Shasta Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.shasta.vc/"
   },
   "Altimeter Capital": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.altimeter.com/"
   },
   "Addition": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.addition.com/"
   },
   "SoftBank Vision Fund": {
     "focus": [
@@ -666,28 +757,32 @@
       "general"
     ],
     "ma_presence": false,
-    "hq": "Tokyo, Japan"
+    "hq": "Tokyo, Japan",
+    "website": "https://visionfund.com/"
   },
   "DST Global": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Moscow, Russia"
+    "hq": "Moscow, Russia",
+    "website": "https://dst-global.com/"
   },
   "Growthworks": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": false,
-    "hq": "Toronto, Canada"
+    "hq": "Toronto, Canada",
+    "website": "https://www.growthworks.ca/"
   },
   "The Engine": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Cambridge, MA"
+    "hq": "Cambridge, MA",
+    "website": "https://engine.xyz/"
   },
   "Clean Energy Ventures": {
     "focus": [
@@ -695,63 +790,72 @@
       "green tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://cleanenergyventures.com/"
   },
   "Pillar VC": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.pillar.vc/"
   },
   "Atlas Venture": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Cambridge, MA"
+    "hq": "Cambridge, MA",
+    "website": "https://atlasventure.com/"
   },
   "Energy Impact Partners": {
     "focus": [
       "energy tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.energyimpactpartners.com/"
   },
   "Activate Global": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Somerville, MA"
+    "hq": "Somerville, MA",
+    "website": "https://activatecap.com/"
   },
   "Third Rock Ventures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.thirdrockventures.com/"
   },
   "Hyperplane": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://hyperplane.vc/"
   },
   "Underscore VC": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://underscore.vc/"
   },
   "MassVentures": {
     "focus": [
       "deep tech"
     ],
     "ma_presence": true,
-    "hq": "Waltham, MA"
+    "hq": "Waltham, MA",
+    "website": "https://www.mass-ventures.com/"
   },
   "Prelude Ventures": {
     "focus": [
@@ -759,7 +863,8 @@
       "energy tech"
     ],
     "ma_presence": false,
-    "hq": "San Francisco, CA"
+    "hq": "San Francisco, CA",
+    "website": "https://www.preludeventures.com/"
   },
   "Congruent Ventures": {
     "focus": [
@@ -767,7 +872,8 @@
       "energy tech"
     ],
     "ma_presence": false,
-    "hq": "Oakland, CA"
+    "hq": "Oakland, CA",
+    "website": "https://www.congruentvc.com/"
   },
   "Greentown Labs": {
     "focus": [
@@ -775,7 +881,8 @@
       "energy tech"
     ],
     "ma_presence": true,
-    "hq": "Somerville, MA"
+    "hq": "Somerville, MA",
+    "website": "https://greentownlabs.com/"
   },
   "Prime Coalition": {
     "focus": [
@@ -783,7 +890,8 @@
       "energy tech"
     ],
     "ma_presence": true,
-    "hq": "Cambridge, MA"
+    "hq": "Cambridge, MA",
+    "website": "https://www.primecoalition.org/"
   },
   "Plug and Play": {
     "focus": [
@@ -792,7 +900,7 @@
     ],
     "ma_presence": false,
     "hq": "Sunnyvale, California",
-    "website": "plugandplaytechcenter.com"
+    "website": "https://www.plugandplaytechcenter.com/"
   },
   "Draper Associates": {
     "focus": [
@@ -801,7 +909,7 @@
     ],
     "ma_presence": false,
     "hq": "San Mateo, California",
-    "website": "draper.vc"
+    "website": "https://www.draper.vc/"
   },
   "Correlation Ventures": {
     "focus": [
@@ -809,7 +917,7 @@
     ],
     "ma_presence": false,
     "hq": "San Diego, California",
-    "website": "correlationvc.com"
+    "website": "https://correlationvc.com/"
   },
   "Heartcore Capital": {
     "focus": [
@@ -817,7 +925,7 @@
     ],
     "ma_presence": false,
     "hq": "Copenhagen, Denmark",
-    "website": "heartcore.com"
+    "website": "https://www.heartcore.com/"
   },
   "Contrarian Ventures": {
     "focus": [
@@ -826,7 +934,7 @@
     ],
     "ma_presence": false,
     "hq": "Vilnius, Lithuania",
-    "website": "cventures.vc"
+    "website": "https://www.cventures.vc/"
   },
   "IDG Capital": {
     "focus": [
@@ -834,7 +942,7 @@
     ],
     "ma_presence": false,
     "hq": "Beijing, China",
-    "website": "cn.idgcapital.com"
+    "website": "https://en.idgcapital.com/"
   },
   "Airtree Ventures": {
     "focus": [
@@ -842,7 +950,7 @@
     ],
     "ma_presence": false,
     "hq": "Surry Hills, Australia",
-    "website": "airtree.vc"
+    "website": "https://www.airtree.vc/"
   },
   "Playfair Capital": {
     "focus": [
@@ -850,7 +958,7 @@
     ],
     "ma_presence": false,
     "hq": "London, England",
-    "website": "playfair.vc"
+    "website": "https://playfair.vc/"
   },
   "BDC Venture Capital": {
     "focus": [
@@ -858,7 +966,7 @@
     ],
     "ma_presence": false,
     "hq": "Canada",
-    "website": "bdc.ca"
+    "website": "https://www.bdc.ca/en/bdc-capital/venture-capital"
   },
   "Future Energy Ventures": {
     "focus": [
@@ -867,7 +975,7 @@
     ],
     "ma_presence": false,
     "hq": "Germany",
-    "website": "fev.vc"
+    "website": "https://fev.vc/"
   },
   "Kapor Capital": {
     "focus": [
@@ -875,7 +983,7 @@
     ],
     "ma_presence": false,
     "hq": "United States",
-    "website": "kaporcapital.com"
+    "website": "https://www.kaporcapital.com/"
   },
   "Icebreaker.vc": {
     "focus": [
@@ -884,7 +992,7 @@
     ],
     "ma_presence": false,
     "hq": "Finland",
-    "website": "icebreaker.vc"
+    "website": "https://www.icebreaker.vc/"
   },
   "Partech": {
     "focus": [
@@ -892,7 +1000,7 @@
     ],
     "ma_presence": false,
     "hq": "France",
-    "website": "partechpartners.com"
+    "website": "https://partechpartners.com/"
   },
   "Boost VC": {
     "focus": [
@@ -900,7 +1008,7 @@
     ],
     "ma_presence": false,
     "hq": "United States",
-    "website": "boost.vc"
+    "website": "https://www.boost.vc/"
   },
   "Panache Ventures": {
     "focus": [
@@ -908,7 +1016,7 @@
     ],
     "ma_presence": false,
     "hq": "Canada",
-    "website": "panache.vc"
+    "website": "https://www.panache.vc/"
   },
   "Axon Partners Group": {
     "focus": [
@@ -916,7 +1024,7 @@
     ],
     "ma_presence": false,
     "hq": "Spain",
-    "website": "axonpartnersgroup.com"
+    "website": "https://axonpartnersgroup.com/"
   },
   "Mercury": {
     "focus": [
@@ -924,7 +1032,7 @@
     ],
     "ma_presence": false,
     "hq": "United States",
-    "website": "mercuryfund.com"
+    "website": "https://mercuryfund.com/"
   },
   "Emerald Technology Ventures": {
     "focus": [
@@ -933,7 +1041,7 @@
     ],
     "ma_presence": false,
     "hq": "Switzerland",
-    "website": "emerald.vc"
+    "website": "https://emerald.vc/"
   },
   "HCVC": {
     "focus": [
@@ -941,7 +1049,7 @@
     ],
     "ma_presence": false,
     "hq": "France",
-    "website": "hcvc.co"
+    "website": "https://www.hcvc.co/"
   },
   "Lemnos VC": {
     "focus": [
@@ -949,7 +1057,7 @@
     ],
     "ma_presence": false,
     "hq": "United States",
-    "website": "lemnos.vc"
+    "website": "https://www.lemnos.vc/"
   },
   "Fortune Venture Capital": {
     "focus": [
@@ -957,7 +1065,7 @@
     ],
     "ma_presence": false,
     "hq": "China",
-    "website": "fortunevc.com"
+    "website": "https://www.fortunevc.com/"
   },
   "SHIFT Invest": {
     "focus": [
@@ -966,7 +1074,7 @@
     ],
     "ma_presence": false,
     "hq": "Netherlands",
-    "website": "shiftinvest.com"
+    "website": "https://shiftinvest.com/"
   },
   "Cortado Ventures": {
     "focus": [
@@ -974,7 +1082,7 @@
     ],
     "ma_presence": false,
     "hq": "United States",
-    "website": "cortado.ventures"
+    "website": "https://cortado.ventures/"
   },
   "Cycle Capital": {
     "focus": [
@@ -983,7 +1091,7 @@
     ],
     "ma_presence": false,
     "hq": "Canada",
-    "website": "cyclecapital.com"
+    "website": "https://cyclecapital.com/en/"
   },
   "Frontier Venture Capital": {
     "focus": [
@@ -991,7 +1099,7 @@
     ],
     "ma_presence": false,
     "hq": "United States",
-    "website": "frontiervc.com"
+    "website": "https://frontiervc.com/"
   },
   "Startuplab": {
     "focus": [
@@ -999,7 +1107,7 @@
     ],
     "ma_presence": false,
     "hq": "Norway",
-    "website": "startuplab.no"
+    "website": "https://www.startuplab.no/"
   },
   "ArcTern Ventures": {
     "focus": [
@@ -1008,7 +1116,7 @@
     ],
     "ma_presence": false,
     "hq": "Canada",
-    "website": "arcternventures.com"
+    "website": "https://www.arcternventures.com/"
   },
   "Inven Capital": {
     "focus": [
@@ -1016,7 +1124,7 @@
     ],
     "ma_presence": false,
     "hq": "Czech Republic",
-    "website": "invencapital.cz"
+    "website": "https://www.invencapital.cz/"
   },
   "Industrifonden": {
     "focus": [
@@ -1024,7 +1132,7 @@
     ],
     "ma_presence": false,
     "hq": "Sweden",
-    "website": "industrifonden.com"
+    "website": "https://industrifonden.com/"
   },
   "Ridgeline VC": {
     "focus": [
@@ -1034,7 +1142,7 @@
     ],
     "ma_presence": false,
     "hq": "San Francisco, California",
-    "website": "ridgeline.vc"
+    "website": "https://www.ridgeline.vc/"
   },
   "ACCELR8": {
     "focus": [
@@ -1050,7 +1158,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.acvc.partners/"
   },
   "Accurant": {
     "focus": [
@@ -1058,7 +1167,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.accurantllc.com/"
   },
   "ABB": {
     "focus": [
@@ -1066,7 +1176,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.abb.com/global/en/company/ventures"
   },
   "Amplify Capital": {
     "focus": [
@@ -1074,7 +1185,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://amplifycapital.ca/"
   },
   "Antares Ventures": {
     "focus": [
@@ -1082,7 +1194,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://antares.ventures/"
   },
   "Aramco Ventures Sustainability Fund": {
     "focus": [
@@ -1090,7 +1203,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://aramcoventures.com/programs-fund/sustainability-fund/"
   },
   "At One Ventures": {
     "focus": [
@@ -1098,7 +1212,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.atoneventures.com/"
   },
   "Autodesk Foundation": {
     "focus": [
@@ -1106,7 +1221,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.autodesk.org/"
   },
   "Avista Corp.": {
     "focus": [
@@ -1122,7 +1238,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.bdc.ca/en/bdc-capital"
   },
   "Breakthrough Energy Fellows": {
     "focus": [
@@ -1130,7 +1247,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.breakthroughenergy.org/our-work/fellows/"
   },
   "Brookfield": {
     "focus": [
@@ -1138,7 +1256,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.brookfield.com/"
   },
   "Burnt Island Ventures": {
     "focus": [
@@ -1146,7 +1265,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.burntislandventures.com/"
   },
   "Buzzi Unicem USA": {
     "focus": [
@@ -1154,7 +1274,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.buzziunicemusa.com/"
   },
   "Carbon Drawdown Collective": {
     "focus": [
@@ -1162,7 +1283,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.carbondrawdowncollective.com"
   },
   "Caterpillar": {
     "focus": [
@@ -1170,7 +1292,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.caterpillar.com/en/company/innovation/caterpillar-ventures.html"
   },
   "CEMEX Ventures": {
     "focus": [
@@ -1178,7 +1301,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.cemexventures.com/"
   },
   "Cerberus Ventures": {
     "focus": [
@@ -1186,7 +1310,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.cerberus-ventures.com/"
   },
   "Chevron Technology Ventures": {
     "focus": [
@@ -1194,7 +1319,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.chevron.com/what-we-do/technology-and-innovation/technology-ventures"
   },
   "Climate Innovation Capital": {
     "focus": [
@@ -1202,7 +1328,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.climateic.com/"
   },
   "Climate Investment": {
     "focus": [
@@ -1210,7 +1337,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.climateinvestment.com/"
   },
   "Clearsky": {
     "focus": [
@@ -1218,7 +1346,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.clear-sky.com/"
   },
   "Closed Loop Ventures": {
     "focus": [
@@ -1226,7 +1355,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.closedlooppartners.com/"
   },
   "Decarbonization Partners": {
     "focus": [
@@ -1234,7 +1364,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.decarbpartners.com/"
   },
   "Doral Energy-Tech Ventures": {
     "focus": [
@@ -1242,7 +1373,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://doral-tech.com/"
   },
   "EDF": {
     "focus": [
@@ -1250,7 +1382,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.edf.fr/en/pulse/ventures"
   },
   "EDP Ventures": {
     "focus": [
@@ -1258,7 +1391,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.edpventures.vc/"
   },
   "Emerson Collective": {
     "focus": [
@@ -1266,7 +1400,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.emersoncollective.com/"
   },
   "ENGIE": {
     "focus": [
@@ -1274,7 +1409,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.engieventures.com/"
   },
   "Energy Foundry": {
     "focus": [
@@ -1282,7 +1418,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.earthfoundry.com/"
   },
   "Energy Innovation Capital": {
     "focus": [
@@ -1290,7 +1427,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.energyinnovationcapital.com/"
   },
   "Eni": {
     "focus": [
@@ -1298,7 +1436,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.eni.com/eninext/en-US/home.html"
   },
   "EPS Ventures": {
     "focus": [
@@ -1306,7 +1445,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://ventures.epshipping.com.sg/"
   },
   "Extantia": {
     "focus": [
@@ -1314,7 +1454,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.extantia.com"
   },
   "Farvatn Ventures": {
     "focus": [
@@ -1322,7 +1463,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.farvatnventure.com/"
   },
   "Frankstahl": {
     "focus": [
@@ -1330,7 +1472,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.frankstahl.com/"
   },
   "Good Growth Capital": {
     "focus": [
@@ -1338,7 +1481,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.goodgrowthvc.com"
   },
   "Grantham Foundation": {
     "focus": [
@@ -1346,7 +1490,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.granthamfoundation.org/"
   },
   "Gravity Climate Fund": {
     "focus": [
@@ -1354,7 +1499,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.gravityclimatech.com/"
   },
   "GS Energy": {
     "focus": [
@@ -1362,7 +1508,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.gsenergy.co.kr/english/"
   },
   "GS Futures": {
     "focus": [
@@ -1370,7 +1517,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.gsfutures.vc/"
   },
   "GVP Climate": {
     "focus": [
@@ -1378,7 +1526,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://gvpclimate.com/"
   },
   "High House Investments": {
     "focus": [
@@ -1386,7 +1535,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://highhousecapital.com/"
   },
   "Holcim MAQER Ventures": {
     "focus": [
@@ -1394,7 +1544,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://holcimmaqerventures.com/"
   },
   "Impact Science Ventures": {
     "focus": [
@@ -1402,7 +1553,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://impactscience.vc/"
   },
   "Investissement Quebec": {
     "focus": [
@@ -1410,7 +1562,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.investquebec.com/"
   },
   "KDT Ventures": {
     "focus": [
@@ -1418,7 +1571,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.kdtvc.com/"
   },
   "Kiko Ventures": {
     "focus": [
@@ -1426,7 +1580,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://kiko.vc/"
   },
   "Kinetics": {
     "focus": [
@@ -1434,7 +1589,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://kineticventures.com/"
   },
   "LG Tech Ventures": {
     "focus": [
@@ -1442,7 +1598,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.lgtechventures.com/"
   },
   "Lineage Logistics": {
     "focus": [
@@ -1450,7 +1607,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.onelineage.com/"
   },
   "Lowercarbon Capital": {
     "focus": [
@@ -1458,7 +1616,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://lowercarbon.com/"
   },
   "Lumens": {
     "focus": [
@@ -1466,7 +1625,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://lumen.ventures/"
   },
   "Luminate NY": {
     "focus": [
@@ -1474,7 +1634,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://luminate.org/"
   },
   "Marubeni": {
     "focus": [
@@ -1482,7 +1643,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.marubeni-ventures.com/en/"
   },
   "MassCEC": {
     "focus": [
@@ -1490,7 +1652,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.masscec.com/"
   },
   "MassMutual": {
     "focus": [
@@ -1498,7 +1661,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://massmutualventures.com/"
   },
   "MassMutual Ventures": {
     "focus": [
@@ -1506,7 +1670,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://massmutualventures.com/"
   },
   "Mercuria": {
     "focus": [
@@ -1514,7 +1679,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://mercuria.com/"
   },
   "Micron": {
     "focus": [
@@ -1522,7 +1688,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.micron.com/about/company/ventures"
   },
   "Microsoft": {
     "focus": [
@@ -1530,7 +1697,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://m12.vc/"
   },
   "Mistletoe": {
     "focus": [
@@ -1538,7 +1706,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "http://www.mistletoe.co"
   },
   "Mitsubishi Heavy Industry": {
     "focus": [
@@ -1546,7 +1715,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.mhi.com/"
   },
   "MOL Switch": {
     "focus": [
@@ -1554,7 +1724,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://molswitch.earth/"
   },
   "Muus Climate Partners": {
     "focus": [
@@ -1562,7 +1733,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.muusclimate.com/"
   },
   "National Grid": {
     "focus": [
@@ -1570,7 +1742,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.nationalgrid.com/national-grid-ventures"
   },
   "Neotribe Ventures": {
     "focus": [
@@ -1578,7 +1751,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.neotribe.vc/"
   },
   "Oxy Low Carbon Ventures": {
     "focus": [
@@ -1586,7 +1760,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.oxy.com/operations/carbon-innovation/"
   },
   "Pear VC": {
     "focus": [
@@ -1594,7 +1769,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://pear.vc/"
   },
   "Pentair": {
     "focus": [
@@ -1602,7 +1778,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.pentair.com/en-us.html"
   },
   "Piedmont Capital": {
     "focus": [
@@ -1610,7 +1787,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.piedmontcapitalre.com/"
   },
   "Powerhouse": {
     "focus": [
@@ -1618,7 +1796,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://powerhouse-ventures.co/"
   },
   "S2G Ventures": {
     "focus": [
@@ -1626,7 +1805,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.s2ginvestments.com/"
   },
   "SABIC Ventures": {
     "focus": [
@@ -1634,7 +1814,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://ventures.sabic.com/en"
   },
   "Schmidt Family Foundation": {
     "focus": [
@@ -1642,7 +1823,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://tsffoundation.org/"
   },
   "Second Century Ventures": {
     "focus": [
@@ -1650,7 +1832,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.scv.vc/"
   },
   "Shell Foundation": {
     "focus": [
@@ -1658,7 +1841,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://shellfoundation.org/"
   },
   "Skyview Ventures": {
     "focus": [
@@ -1666,7 +1850,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://skyviewventures.com/"
   },
   "SOSV": {
     "focus": [
@@ -1674,7 +1859,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://sosv.com/"
   },
   "Starlight Ventures": {
     "focus": [
@@ -1682,7 +1868,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://starlight.vc/"
   },
   "SWAN": {
     "focus": [
@@ -1690,7 +1877,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://swanventures.com/"
   },
   "TechEnergy Ventures": {
     "focus": [
@@ -1698,7 +1886,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.techenergyventures.com/en"
   },
   "Tenaska": {
     "focus": [
@@ -1706,7 +1895,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.tenaska.com/"
   },
   "the51": {
     "focus": [
@@ -1714,7 +1904,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://the51.com/"
   },
   "Trafigura": {
     "focus": [
@@ -1722,7 +1913,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.trafigura.com/"
   },
   "UCeed Investment Funds": {
     "focus": [
@@ -1730,7 +1922,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://uceed.ca/"
   },
   "UM6P Ventures": {
     "focus": [
@@ -1738,7 +1931,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://um6pventures.com/"
   },
   "United Airlines": {
     "focus": [
@@ -1746,7 +1940,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.unitedairlinesventures.com/"
   },
   "UP Partners": {
     "focus": [

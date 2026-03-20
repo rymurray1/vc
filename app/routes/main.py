@@ -311,16 +311,23 @@ def search():
 
 @bp.route('/api/search-vcs')
 def api_search_vcs():
-    """Get list of VCs from warm intro map."""
+    """Get list of VCs from warm intro map with website URLs."""
     if 'username' not in session:
         return jsonify({'error': 'Unauthorized'}), 401
 
     try:
         base_dir = Path(__file__).parent.parent.parent
         warm_intro_path = base_dir / 'warm_intro_map.json'
+        vc_tags_path = base_dir / 'vc_tags.json'
 
         if not warm_intro_path.exists():
             return jsonify({'vcs': []})
+
+        # Load VC tags (with website URLs)
+        vc_tags = {}
+        if vc_tags_path.exists():
+            with open(vc_tags_path, 'r') as f:
+                vc_tags = json.load(f)
 
         with open(warm_intro_path, 'r') as f:
             data = json.load(f)
@@ -329,13 +336,17 @@ def api_search_vcs():
         vcs = []
         if 'energy_vcs' in data:
             for vc_name, vc_data in data['energy_vcs'].items():
-                vcs.append({
+                vc_info = {
                     'name': vc_name,
                     'hq': vc_data.get('hq'),
                     'tags': vc_data.get('tags', []),
                     'ma_presence': vc_data.get('ma_presence', False),
                     'intros_available': vc_data.get('intros_available', [])
-                })
+                }
+                # Add website URL if available
+                if vc_name in vc_tags and vc_tags[vc_name].get('website'):
+                    vc_info['website'] = vc_tags[vc_name]['website']
+                vcs.append(vc_info)
 
         return jsonify({'vcs': vcs})
 
