@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+
+{% block title %}Results - VC Intro Paths{% endblock %}
+
+{% block content %}
+<div class="results-page">
+    <h1>Intro Paths</h1>
+
+    {% if results %}
+        <div class="results-summary">
+            <p>Found <strong>{{ results|length }}</strong> intro paths across <strong>{{ results|map(attribute='vc')|unique|list|length }}</strong> VCs</p>
+        </div>
+
+        <!-- Group results by VC firm -->
+        {% set vc_groups = {} %}
+        {% for result in results %}
+            {% if result.vc not in vc_groups %}
+                {% set _ = vc_groups.update({result.vc: []}) %}
+            {% endif %}
+            {% set _ = vc_groups[result.vc].append(result) %}
+        {% endfor %}
+
+        <!-- Display by VC -->
+        {% for vc_name in vc_groups|sort %}
+            <div class="vc-group">
+                <h2 class="vc-name">{{ vc_name }}</h2>
+                <div class="results-grid">
+                    {% for result in vc_groups[vc_name] %}
+                        <div class="result-card">
+                            <div class="card-section portfolio">
+                                <div class="label">Portfolio Company</div>
+                                <div class="value">{{ result.company }}</div>
+                            </div>
+
+                            <div class="card-section founder">
+                                <div class="label">{{ result.person_role }}</div>
+                                <div class="person-info">
+                                    <a href="{{ result.person_linkedin }}" target="_blank">
+                                        {{ result.person_name }}
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="card-section divider"></div>
+
+                            <div class="card-section connection">
+                                <div class="label">Your Connection</div>
+                                <div class="connection-info">
+                                    <div class="connection-name">{{ result.connection_name }}</div>
+                                    <div class="connection-title">{{ result.connection_title }}</div>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+
+        <!-- Download button -->
+        <div class="results-actions">
+            <form method="POST" action="{{ url_for('main.download_results') }}" style="display: inline;">
+                {% for focus in focus_areas %}
+                    <input type="hidden" name="focus" value="{{ focus }}">
+                {% endfor %}
+                {% if ma_only %}
+                    <input type="hidden" name="ma_only" value="on">
+                {% endif %}
+                <button type="submit" class="btn btn-secondary">📥 Download as CSV</button>
+            </form>
+            <a href="{{ url_for('main.dashboard') }}" class="btn btn-secondary">← Back to Dashboard</a>
+        </div>
+    {% else %}
+        <div class="results-empty">
+            <p>No intro paths found. Try adjusting your filters or syncing more connections.</p>
+            <a href="{{ url_for('main.dashboard') }}" class="btn btn-primary">← Back to Dashboard</a>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}

@@ -7438,272 +7438,2868 @@
     "country": "United States",
     "investments": [
       {
-        "company": "2U",
-        "url": "https://2u.com"
+        "company": "Biotech",
+        "url": ""
+      },
+      {
+        "company": "Fintech",
+        "url": ""
+      },
+      {
+        "company": "Marketplaces",
+        "url": ""
+      },
+      {
+        "company": "Anti-Portfolio",
+        "url": ""
+      },
+      {
+        "company": "See all companies",
+        "url": ""
+      },
+      {
+        "company": "Vertical software",
+        "url": ""
+      },
+      {
+        "company": "Developer",
+        "url": ""
+      },
+      {
+        "company": "India",
+        "url": ""
+      },
+      {
+        "company": "Israel",
+        "url": ""
+      },
+      {
+        "company": "2UNASDAQ: TWOU",
+        "url": ""
       },
       {
         "company": "Abridge",
-        "url": "https://abridge.com"
+        "url": ""
       },
       {
-        "company": "ACV Auctions",
-        "url": "https://acvauctions.com"
+        "company": "AcceleronNASDAQ: XLRN / ACQUIRED BY: MERCK",
+        "url": ""
+      },
+      {
+        "company": "Acquire.com (fka MicroAcquire)",
+        "url": ""
+      },
+      {
+        "company": "ACTIV Financial SystemsACQUIRED BY OPTIONS TECHNOLOGY",
+        "url": ""
+      },
+      {
+        "company": "ACV AuctionsNASDAQ: ACVA",
+        "url": ""
       },
       {
         "company": "Ada",
-        "url": "https://ada.cx"
+        "url": ""
       },
       {
-        "company": "Adaptive Insights",
-        "url": "https://adaptiveinsights.com"
+        "company": "Adaptive InsightsACQUIRED BY: WORKDAY",
+        "url": ""
+      },
+      {
+        "company": "Affirmed NetworksACQUIRED BY: MICROSOFT",
+        "url": ""
+      },
+      {
+        "company": "AIMon",
+        "url": ""
+      },
+      {
+        "company": "Aivar",
+        "url": ""
+      },
+      {
+        "company": "Aiwyn",
+        "url": ""
+      },
+      {
+        "company": "Alcresta TherapeuticsACQUIRED BY: LINDEN CAPITAL PARTNERS",
+        "url": ""
+      },
+      {
+        "company": "AlgoX2",
+        "url": ""
+      },
+      {
+        "company": "Allena PharmaceuticalsNASDAQ: ALNA",
+        "url": ""
       },
       {
         "company": "Alloy",
-        "url": "https://alloy.co"
+        "url": ""
       },
       {
-        "company": "Allscripts",
-        "url": "https://allscripts.com"
+        "company": "AllscriptsNASDAQ: MDRX",
+        "url": ""
+      },
+      {
+        "company": "Altair SemiconductorACQUIRED BY: SONY CORPORATION",
+        "url": ""
+      },
+      {
+        "company": "AnaquaACQUIRED BY: ASTORG",
+        "url": ""
+      },
+      {
+        "company": "Ansible Health",
+        "url": ""
       },
       {
         "company": "Anthropic",
-        "url": "https://anthropic.com"
+        "url": ""
+      },
+      {
+        "company": "Anunta",
+        "url": ""
       },
       {
         "company": "ANYbotics",
-        "url": "https://anybotics.com"
+        "url": ""
+      },
+      {
+        "company": "Anything",
+        "url": ""
       },
       {
         "company": "Appwrite",
-        "url": "https://appwrite.io"
+        "url": ""
+      },
+      {
+        "company": "Apron",
+        "url": ""
+      },
+      {
+        "company": "Archy",
+        "url": ""
+      },
+      {
+        "company": "Arcion LabsACQUIRED BY: DATABRICKS",
+        "url": ""
+      },
+      {
+        "company": "Artemis HealthACQUIRED BY: NOMI HEALTH",
+        "url": ""
+      },
+      {
+        "company": "Aspen RxHealth",
+        "url": ""
+      },
+      {
+        "company": "Astrix",
+        "url": ""
+      },
+      {
+        "company": "Atomo Coffee",
+        "url": ""
+      },
+      {
+        "company": "AugustACQUIRED BY: ASSA ABLOY",
+        "url": ""
+      },
+      {
+        "company": "Auterion",
+        "url": ""
+      },
+      {
+        "company": "Auth0ACQUIRED BY: OKTA",
+        "url": ""
+      },
+      {
+        "company": "Avant Arte",
+        "url": ""
+      },
+      {
+        "company": "Avantos",
+        "url": ""
+      },
+      {
+        "company": "Axiamatic",
+        "url": ""
+      },
+      {
+        "company": "Axion",
+        "url": ""
+      },
+      {
+        "company": "Axis Network TechnologyACQUIRED BY: ACE TECHNOLOGY",
+        "url": ""
       },
       {
         "company": "Axonius",
-        "url": "https://axonius.com"
+        "url": ""
       },
       {
-        "company": "Auth0",
-        "url": "https://auth0.com"
+        "company": "Bankjoy",
+        "url": ""
+      },
+      {
+        "company": "Basis Theory",
+        "url": ""
+      },
+      {
+        "company": "Bastille Networks",
+        "url": ""
       },
       {
         "company": "Betterment",
-        "url": "https://betterment.com"
+        "url": ""
+      },
+      {
+        "company": "Bettermode",
+        "url": ""
+      },
+      {
+        "company": "Bevi",
+        "url": ""
+      },
+      {
+        "company": "Beyond",
+        "url": ""
+      },
+      {
+        "company": "Bezi",
+        "url": ""
+      },
+      {
+        "company": "Bharat MatrimonyNSE: MATRIMONY.COM",
+        "url": ""
+      },
+      {
+        "company": "bigbasket",
+        "url": ""
       },
       {
         "company": "BigID",
-        "url": "https://bigid.com"
+        "url": ""
       },
       {
-        "company": "Blue Apron",
-        "url": "https://blueapron.com"
+        "company": "BillGuardACQUIRED BY: PROSPER MARKETPLACE",
+        "url": ""
       },
       {
-        "company": "Blue Nile",
-        "url": "https://bluenile.com"
+        "company": "Black Sheep Foods",
+        "url": ""
+      },
+      {
+        "company": "BladeLogicACQUIRED BY: BMC",
+        "url": ""
+      },
+      {
+        "company": "Blue ApronNYSE: APRN",
+        "url": ""
+      },
+      {
+        "company": "Blue NileNASDAQ:NILE",
+        "url": ""
+      },
+      {
+        "company": "Boards",
+        "url": ""
+      },
+      {
+        "company": "Bold Metrics",
+        "url": ""
+      },
+      {
+        "company": "Boldfit",
+        "url": ""
+      },
+      {
+        "company": "Boom Supersonic",
+        "url": ""
+      },
+      {
+        "company": "BoxNYSE: BOX",
+        "url": ""
+      },
+      {
+        "company": "Brainbase",
+        "url": ""
+      },
+      {
+        "company": "Bread FinancialACQUIRED BY: ALLIANCE DATA SYSTEMS",
+        "url": ""
+      },
+      {
+        "company": "Breaker",
+        "url": ""
+      },
+      {
+        "company": "BrightBytesACQUIRED BY: GOOGLE",
+        "url": ""
+      },
+      {
+        "company": "Brightwheel",
+        "url": ""
+      },
+      {
+        "company": "Brisk Teaching",
+        "url": ""
+      },
+      {
+        "company": "BroadsoftACQUIRED BY: CISCO",
+        "url": ""
+      },
+      {
+        "company": "BumbleNASDAQ: BMBL",
+        "url": ""
+      },
+      {
+        "company": "Cambly",
+        "url": ""
+      },
+      {
+        "company": "Candid Co.",
+        "url": ""
+      },
+      {
+        "company": "Canva",
+        "url": ""
+      },
+      {
+        "company": "Capmo",
+        "url": ""
+      },
+      {
+        "company": "Capsule8ACQUIRED BY: SOPHOS",
+        "url": ""
+      },
+      {
+        "company": "CaptivateIQ",
+        "url": ""
+      },
+      {
+        "company": "Carefull Corporation",
+        "url": ""
+      },
+      {
+        "company": "cargo.one",
+        "url": ""
+      },
+      {
+        "company": "Carwow",
+        "url": ""
+      },
+      {
+        "company": "Cashify",
+        "url": ""
+      },
+      {
+        "company": "Cents",
+        "url": ""
+      },
+      {
+        "company": "ChipAgents",
+        "url": ""
+      },
+      {
+        "company": "Choco",
+        "url": ""
+      },
+      {
+        "company": "CienaNASDAQ: CIEN",
+        "url": ""
+      },
+      {
+        "company": "Clarity",
+        "url": ""
+      },
+      {
+        "company": "Clarity MoneyACQUIRED BY: GOLDMAN SACHS",
+        "url": ""
+      },
+      {
+        "company": "Claroty",
+        "url": ""
+      },
+      {
+        "company": "Clear Ballot",
+        "url": ""
+      },
+      {
+        "company": "ClearCareACQUIRED BY: WELLSKY",
+        "url": ""
+      },
+      {
+        "company": "Clearing",
+        "url": ""
+      },
+      {
+        "company": "ClickHouse",
+        "url": ""
+      },
+      {
+        "company": "Clio",
+        "url": ""
+      },
+      {
+        "company": "Cloudinary",
+        "url": ""
+      },
+      {
+        "company": "CloudLockACQUIRED BY: CISCO",
+        "url": ""
+      },
+      {
+        "company": "Coactive AI",
+        "url": ""
+      },
+      {
+        "company": "Coder",
+        "url": ""
+      },
+      {
+        "company": "Coiled",
+        "url": ""
+      },
+      {
+        "company": "Collective MedicalACQUIRED BY: POINTCLICKCARE TECHNOLOGIES",
+        "url": ""
+      },
+      {
+        "company": "Columnar",
+        "url": ""
+      },
+      {
+        "company": "ComboCurve",
+        "url": ""
+      },
+      {
+        "company": "Contractbook",
+        "url": ""
+      },
+      {
+        "company": "Converge Bio",
+        "url": ""
+      },
+      {
+        "company": "Convertro, Inc.ACQUIRED BY: AOL",
+        "url": ""
+      },
+      {
+        "company": "CopilotIQ",
+        "url": ""
+      },
+      {
+        "company": "Cornerstone OnDemandNASDAQ: CSOD",
+        "url": ""
+      },
+      {
+        "company": "Courier",
+        "url": ""
+      },
+      {
+        "company": "CPower, Inc.ACQUIRED BY: CONSTELLATION",
+        "url": ""
+      },
+      {
+        "company": "Crash Override",
+        "url": ""
+      },
+      {
+        "company": "Crete Professionals Alliance",
+        "url": ""
+      },
+      {
+        "company": "CRI",
+        "url": ""
+      },
+      {
+        "company": "CriteoNASDAQ: CRTO",
+        "url": ""
+      },
+      {
+        "company": "Crosschq",
+        "url": ""
+      },
+      {
+        "company": "CTERA",
+        "url": ""
+      },
+      {
+        "company": "Curri",
+        "url": ""
+      },
+      {
+        "company": "CyberGRX",
+        "url": ""
+      },
+      {
+        "company": "Cyota, IncACQUIRED BY: RSA SECURITY",
+        "url": ""
+      },
+      {
+        "company": "Cypress.io",
+        "url": ""
+      },
+      {
+        "company": "Dashbot",
+        "url": ""
+      },
+      {
+        "company": "Dashlane",
+        "url": ""
+      },
+      {
+        "company": "DatabandACQUIRED BY: IBM",
+        "url": ""
+      },
+      {
+        "company": "Databook",
+        "url": ""
+      },
+      {
+        "company": "Datafy",
+        "url": ""
+      },
+      {
+        "company": "DataHub",
+        "url": ""
+      },
+      {
+        "company": "DatalotACQUIRED BY: LIGHTYEAR CAPITAL",
+        "url": ""
+      },
+      {
+        "company": "DeepL",
+        "url": ""
+      },
+      {
+        "company": "DEFCON AI",
+        "url": ""
+      },
+      {
+        "company": "Defense.netACQUIRED BY: F5 NETWORKS",
+        "url": ""
+      },
+      {
+        "company": "Demostack",
+        "url": ""
+      },
+      {
+        "company": "Devo",
+        "url": ""
+      },
+      {
+        "company": "Dinii",
+        "url": ""
+      },
+      {
+        "company": "DISCONYSE: LAW",
+        "url": ""
+      },
+      {
+        "company": "Discord",
+        "url": ""
+      },
+      {
+        "company": "dltHub",
+        "url": ""
+      },
+      {
+        "company": "DocuSignNASDAQ: DOCU",
+        "url": ""
+      },
+      {
+        "company": "DocuTAPACQUIRED BY: WARBURG PINCUS",
+        "url": ""
+      },
+      {
+        "company": "Dominion Dynamics",
+        "url": ""
+      },
+      {
+        "company": "Doppel",
+        "url": ""
+      },
+      {
+        "company": "doubleAI",
+        "url": ""
+      },
+      {
+        "company": "DoubleDutchACQUIRED BY: CVENT",
+        "url": ""
+      },
+      {
+        "company": "DriveNets",
+        "url": ""
+      },
+      {
+        "company": "DroneDeploy",
+        "url": ""
+      },
+      {
+        "company": "DropcamACQUIRED BY: GOOGLE",
+        "url": ""
+      },
+      {
+        "company": "Dynamic YieldACQUIRED BY: MCDONALD'S",
+        "url": ""
+      },
+      {
+        "company": "Easebuzz",
+        "url": ""
+      },
+      {
+        "company": "eEye Digital SecurityACQUIRED BY: BEYONDTRUST",
+        "url": ""
+      },
+      {
+        "company": "Electric",
+        "url": ""
+      },
+      {
+        "company": "EliseAI",
+        "url": ""
+      },
+      {
+        "company": "EloquaACQUIRED BY: ORACLE",
+        "url": ""
+      },
+      {
+        "company": "EndgameACQUIRED BY: ELASTIC",
+        "url": ""
+      },
+      {
+        "company": "EnjoeiENJU3:SAO",
+        "url": ""
+      },
+      {
+        "company": "Entropik",
+        "url": ""
+      },
+      {
+        "company": "EvenUp",
+        "url": ""
+      },
+      {
+        "company": "EverlanceACQUIRED BY MOTUS",
+        "url": ""
+      },
+      {
+        "company": "Eye Security",
+        "url": ""
+      },
+      {
+        "company": "Fabric TechnologiesACQUIRED BY: WESTERN AND SOUTHERN FINANCIAL GROUP",
+        "url": ""
+      },
+      {
+        "company": "Fal.ai",
+        "url": ""
+      },
+      {
+        "company": "FandomACQUIRED BY: TPG",
+        "url": ""
+      },
+      {
+        "company": "Farther",
+        "url": ""
+      },
+      {
+        "company": "FernACQUIRED BY: POSTMAN",
+        "url": ""
+      },
+      {
+        "company": "Fieldguide",
+        "url": ""
+      },
+      {
+        "company": "FinmarkACQUIRED BY: BILL.COM",
+        "url": ""
+      },
+      {
+        "company": "Firebolt",
+        "url": ""
+      },
+      {
+        "company": "FiverrNYSE: FVRR",
+        "url": ""
+      },
+      {
+        "company": "Flarion TechnologiesACQUIRED BY: QUALCOMM",
+        "url": ""
+      },
+      {
+        "company": "Flex Pharma, Inc.NASDAQ: FLKS",
+        "url": ""
+      },
+      {
+        "company": "Fold",
+        "url": ""
+      },
+      {
+        "company": "Folx Health",
+        "url": ""
+      },
+      {
+        "company": "Foraged",
+        "url": ""
+      },
+      {
+        "company": "ForeVR",
+        "url": ""
+      },
+      {
+        "company": "Formally",
+        "url": ""
+      },
+      {
+        "company": "Forter",
+        "url": ""
+      },
+      {
+        "company": "Foxglove",
+        "url": ""
+      },
+      {
+        "company": "Fractyl HealthNASDAQ: $GUTS",
+        "url": ""
+      },
+      {
+        "company": "Fulcrum",
+        "url": ""
+      },
+      {
+        "company": "FuzeACQUIRED BY: 8x8",
+        "url": ""
+      },
+      {
+        "company": "GainsightACQUIRED BY: VISTA EQUITY PARTNERS",
+        "url": ""
+      },
+      {
+        "company": "Gamefam",
+        "url": ""
+      },
+      {
+        "company": "Gankster",
+        "url": ""
+      },
+      {
+        "company": "Gerson Lehrman Group (GLG)",
+        "url": ""
+      },
+      {
+        "company": "GetAccept",
+        "url": ""
+      },
+      {
+        "company": "GetInsured",
+        "url": ""
+      },
+      {
+        "company": "GigFinesse",
+        "url": ""
+      },
+      {
+        "company": "GingerMERGED WITH: HEADSPACE",
+        "url": ""
+      },
+      {
+        "company": "GlintACQUIRED BY: LINKEDIN",
+        "url": ""
+      },
+      {
+        "company": "GlossGenius",
+        "url": ""
+      },
+      {
+        "company": "Good Glamm Group",
+        "url": ""
+      },
+      {
+        "company": "GoodShip",
+        "url": ""
+      },
+      {
+        "company": "GracenoteACQUIRED BY: SONY",
+        "url": ""
+      },
+      {
+        "company": "Graph AI",
+        "url": ""
+      },
+      {
+        "company": "Groups",
+        "url": ""
+      },
+      {
+        "company": "GTS Central EuropeACQUIRED BY: DUESTSCHE TELEKOM",
+        "url": ""
+      },
+      {
+        "company": "Guild",
+        "url": ""
+      },
+      {
+        "company": "Habana LabsACQUIRED BY: INTEL",
+        "url": ""
+      },
+      {
+        "company": "Halter",
+        "url": ""
+      },
+      {
+        "company": "HashiCorpNASDAQ: HCP",
+        "url": ""
+      },
+      {
+        "company": "HatchACQUIRED BY: YELP",
+        "url": ""
+      },
+      {
+        "company": "Hibob",
+        "url": ""
+      },
+      {
+        "company": "Hinge HealthNYSE: HNGE",
+        "url": ""
+      },
+      {
+        "company": "HockeyStack",
+        "url": ""
+      },
+      {
+        "company": "HomeFirstNSE: HOMEFIRST",
+        "url": ""
+      },
+      {
+        "company": "House Rx",
+        "url": ""
+      },
+      {
+        "company": "Hungama",
+        "url": ""
+      },
+      {
+        "company": "Hunters",
+        "url": ""
+      },
+      {
+        "company": "Hyperscience",
+        "url": ""
+      },
+      {
+        "company": "IAG Research, Inc.ACQUIRED BY: THE NIELSEN CO.",
+        "url": ""
+      },
+      {
+        "company": "Illusive NetworksACQUIRED BY: PROOFPOINT",
+        "url": ""
+      },
+      {
+        "company": "Imply",
+        "url": ""
+      },
+      {
+        "company": "Impossible AerospaceACQUIRED BY ALPINE 4 TECHNOLOGIES",
+        "url": ""
+      },
+      {
+        "company": "Incognia",
+        "url": ""
+      },
+      {
+        "company": "Indian Energy ExchangeNSE: IEX",
+        "url": ""
+      },
+      {
+        "company": "Inertia",
+        "url": ""
+      },
+      {
+        "company": "Innoviti",
+        "url": ""
+      },
+      {
+        "company": "InRisk",
+        "url": ""
+      },
+      {
+        "company": "InsmedNASDAQ: INSM",
+        "url": ""
+      },
+      {
+        "company": "InstructureNYSE: INST",
+        "url": ""
+      },
+      {
+        "company": "IntacctACQUIRED BY: SAGE GROUP",
+        "url": ""
+      },
+      {
+        "company": "IntegoACQUIRED BY: KAPE",
+        "url": ""
+      },
+      {
+        "company": "Intercom",
+        "url": ""
+      },
+      {
+        "company": "IntucellACQUIRED BY: CISCO",
+        "url": ""
+      },
+      {
+        "company": "Iris AutomationACQUIRED BY: UAVIONIX",
+        "url": ""
+      },
+      {
+        "company": "iSIGHT SecurityACQUIRED BY: FIREEYE",
+        "url": ""
+      },
+      {
+        "company": "Jasper",
+        "url": ""
+      },
+      {
+        "company": "Jingle",
+        "url": ""
+      },
+      {
+        "company": "K2 Integrity",
+        "url": ""
+      },
+      {
+        "company": "Kandou",
+        "url": ""
+      },
+      {
+        "company": "Kenna SecurityACQUIRED BY: CISCO",
+        "url": ""
+      },
+      {
+        "company": "Kindred",
+        "url": ""
+      },
+      {
+        "company": "Klook",
+        "url": ""
+      },
+      {
+        "company": "KnewtonACQUIRED BY: JOHN WILEY  & SONS",
+        "url": ""
+      },
+      {
+        "company": "Kroll Bond Rating AgencyACQUIRED BY: WHARF STREET RATINGS",
+        "url": ""
+      },
+      {
+        "company": "Kymera TherapeuticsNASDAQ: KYMR",
+        "url": ""
+      },
+      {
+        "company": "LaunchDarkly",
+        "url": ""
+      },
+      {
+        "company": "Leaba SemiconductorACQUIRED BY: CISCO",
+        "url": ""
+      },
+      {
+        "company": "Leaner Technologies",
+        "url": ""
+      },
+      {
+        "company": "Leena AI",
+        "url": ""
+      },
+      {
+        "company": "Legit Security",
+        "url": ""
+      },
+      {
+        "company": "Legora",
+        "url": ""
+      },
+      {
+        "company": "Lentra",
+        "url": ""
+      },
+      {
+        "company": "LiazonACQUIRED BY: TOWERS WATSON  & CO.",
+        "url": ""
+      },
+      {
+        "company": "Life360ASX: 360",
+        "url": ""
+      },
+      {
+        "company": "LifeLockNYSE: LOCK",
+        "url": ""
+      },
+      {
+        "company": "LinkedInNYSE: LNKD / ACQUIRED BY: MICROSOFT",
+        "url": ""
+      },
+      {
+        "company": "Lithic",
+        "url": ""
+      },
+      {
+        "company": "Litify",
+        "url": ""
+      },
+      {
+        "company": "LiveAuctioneersACQUIRED BY: ATG",
+        "url": ""
+      },
+      {
+        "company": "Livspace",
+        "url": ""
+      },
+      {
+        "company": "LogicNowACQUIRED BY: SOLARWINDS",
+        "url": ""
+      },
+      {
+        "company": "Lumachain",
+        "url": ""
+      },
+      {
+        "company": "LumereACQUIRED BY: GLOBAL HEALTH EXCHANGE",
+        "url": ""
+      },
+      {
+        "company": "Luxury Presence",
+        "url": ""
+      },
+      {
+        "company": "Main Street HubACQUIRED BY: GODADDY",
+        "url": ""
+      },
+      {
+        "company": "MaintainX",
+        "url": ""
+      },
+      {
+        "company": "Mambu",
+        "url": ""
+      },
+      {
+        "company": "MantaACQUIRED BY: IBM",
+        "url": ""
+      },
+      {
+        "company": "Manychat",
+        "url": ""
+      },
+      {
+        "company": "Matrimony.comNSE: MATRIMONY",
+        "url": ""
+      },
+      {
+        "company": "MCP ManagerACQUIRED BY USERCENTRICS",
+        "url": ""
+      },
+      {
+        "company": "MealPal",
+        "url": ""
+      },
+      {
+        "company": "Medi AssistNSE: MEDIASSIST",
+        "url": ""
+      },
+      {
+        "company": "MediBuddy (fka DocsApp)",
+        "url": ""
+      },
+      {
+        "company": "MediSage",
+        "url": ""
+      },
+      {
+        "company": "Melio PaymentsACQUIRED BY: XERO LIMITED",
+        "url": ""
+      },
+      {
+        "company": "MetalogixACQUIRED BY: PERMIRA",
+        "url": ""
+      },
+      {
+        "company": "Millennial MediaACQUIRED BY: AOL",
+        "url": ""
+      },
+      {
+        "company": "MiloACQUIRED BY: EBAY",
+        "url": ""
+      },
+      {
+        "company": "Mind Robotics",
+        "url": ""
+      },
+      {
+        "company": "MindbodyACQUIRED BY: VISTA EQUITY PARTNERS",
+        "url": ""
+      },
+      {
+        "company": "Miter",
+        "url": ""
+      },
+      {
+        "company": "Modelcode",
+        "url": ""
+      },
+      {
+        "company": "Moonvalley",
+        "url": ""
+      },
+      {
+        "company": "Motilal OswalNSE: MOTILALOFS",
+        "url": ""
+      },
+      {
+        "company": "MoveInSync",
+        "url": ""
+      },
+      {
+        "company": "Mural Health",
+        "url": ""
+      },
+      {
+        "company": "MyHeritageACQUIRED BY: FRANCISCO PARTNERS",
+        "url": ""
+      },
+      {
+        "company": "NALA",
+        "url": ""
+      },
+      {
+        "company": "nCinoNASDAQ: NCNO",
+        "url": ""
+      },
+      {
+        "company": "NephroPlusNSE: NEPHROPLUS",
+        "url": ""
+      },
+      {
+        "company": "Netdata",
+        "url": ""
+      },
+      {
+        "company": "Netlify",
+        "url": ""
+      },
+      {
+        "company": "Netography",
+        "url": ""
+      },
+      {
+        "company": "Netsmart TechnologiesACQUIRED BY: GENSTAR CAPITAL",
+        "url": ""
+      },
+      {
+        "company": "NeueHealthNYSE: NEUE",
+        "url": ""
+      },
+      {
+        "company": "Newfront Insurance",
+        "url": ""
+      },
+      {
+        "company": "NewVoiceMediaACQUIRED BY: VONAGE",
+        "url": ""
+      },
+      {
+        "company": "Nilus",
+        "url": ""
+      },
+      {
+        "company": "NODA AI",
+        "url": ""
+      },
+      {
+        "company": "Noded AI",
+        "url": ""
+      },
+      {
+        "company": "NominumACQUIRED BY: AKAMAI",
+        "url": ""
+      },
+      {
+        "company": "Nova Benefits",
+        "url": ""
+      },
+      {
+        "company": "npmACQUIRED BY: GITHUB",
+        "url": ""
+      },
+      {
+        "company": "NYDIG",
+        "url": ""
+      },
+      {
+        "company": "Nym",
+        "url": ""
+      },
+      {
+        "company": "OkeraACQUIRED BY: DATABRICKS",
+        "url": ""
+      },
+      {
+        "company": "Ola",
+        "url": ""
+      },
+      {
+        "company": "OLXACQUIRED BY: NASPERS",
+        "url": ""
+      },
+      {
+        "company": "OMGPOPACQUIRED BY: ZYNGA",
+        "url": ""
+      },
+      {
+        "company": "OMsignal",
+        "url": ""
+      },
+      {
+        "company": "Close Info WindowOMsignalVisit WebsiteInvestorsRob StavisFounded2011Partnered2014RoadmapsConsumer",
+        "url": ""
+      },
+      {
+        "company": "Onaroll",
+        "url": ""
+      },
+      {
+        "company": "OnXMaps",
+        "url": ""
+      },
+      {
+        "company": "Oper",
+        "url": ""
+      },
+      {
+        "company": "Optibus",
+        "url": ""
+      },
+      {
+        "company": "Optimal Dynamics",
+        "url": ""
+      },
+      {
+        "company": "Oshi Health",
+        "url": ""
+      },
+      {
+        "company": "OtonomoNASDAQ: OTMO",
+        "url": ""
+      },
+      {
+        "company": "OvaScienceNASDAQ: OVSC",
+        "url": ""
+      },
+      {
+        "company": "PagerDutyNYSE: PD",
+        "url": ""
+      },
+      {
+        "company": "PanaACQUIRED BY: COUPA",
+        "url": ""
+      },
+      {
+        "company": "Papaya Global",
+        "url": ""
+      },
+      {
+        "company": "Papaya Pay",
+        "url": ""
+      },
+      {
+        "company": "Paraglide",
+        "url": ""
+      },
+      {
+        "company": "ParallelsACQUIRED BY: COREL CORPORATION",
+        "url": ""
+      },
+      {
+        "company": "Pave",
+        "url": ""
+      },
+      {
+        "company": "Pepper Content",
+        "url": ""
+      },
+      {
+        "company": "Peptone",
+        "url": ""
+      },
+      {
+        "company": "Perfios",
+        "url": ""
+      },
+      {
+        "company": "PeriscopeACQUIRED BY: TWITTER",
+        "url": ""
+      },
+      {
+        "company": "Periscope DataACQUIRED BY: SISENSE",
+        "url": ""
+      },
+      {
+        "company": "Perplexity",
+        "url": ""
+      },
+      {
+        "company": "Pharmeasy",
+        "url": ""
+      },
+      {
+        "company": "PhishMeACQUIRED BY: PE CONSORTIUM",
+        "url": ""
+      },
+      {
+        "company": "Piazza",
+        "url": ""
+      },
+      {
+        "company": "PinterestNYSE: PINS",
+        "url": ""
+      },
+      {
+        "company": "PipedriveACQUIRED BY: VISTA EQUITY PARTNERS",
+        "url": ""
+      },
+      {
+        "company": "Pivotal Health",
+        "url": ""
+      },
+      {
+        "company": "PlaydomACQUIRED BY: DISNEY",
+        "url": ""
+      },
+      {
+        "company": "Plenful",
+        "url": ""
+      },
+      {
+        "company": "Plobal Apps",
+        "url": ""
+      },
+      {
+        "company": "Pluro",
+        "url": ""
+      },
+      {
+        "company": "Port",
+        "url": ""
+      },
+      {
+        "company": "Portainer",
+        "url": ""
+      },
+      {
+        "company": "PostiniACQUIRED BY: GOOGLE",
+        "url": ""
+      },
+      {
+        "company": "Prefect",
+        "url": ""
+      },
+      {
+        "company": "Preql",
+        "url": ""
+      },
+      {
+        "company": "ProcoreNYSE: PCOR",
+        "url": ""
+      },
+      {
+        "company": "productboard",
+        "url": ""
+      },
+      {
+        "company": "ProsperaACQUIRED BY: VALMONT INDUSTRIES",
+        "url": ""
+      },
+      {
+        "company": "Protectt AI",
+        "url": ""
+      },
+      {
+        "company": "Provi",
+        "url": ""
+      },
+      {
+        "company": "Pure NetworksACQUIRED BY: CISCO",
+        "url": ""
+      },
+      {
+        "company": "Qogita",
+        "url": ""
+      },
+      {
+        "company": "QualysNASDAQ: QLYS",
+        "url": ""
+      },
+      {
+        "company": "Quantopian",
+        "url": ""
+      },
+      {
+        "company": "Quidsi (fka Diapers.com)ACQUIRED BY: AMAZON",
+        "url": ""
+      },
+      {
+        "company": "Qventus",
+        "url": ""
+      },
+      {
+        "company": "QwakACQUIRED BY: JFROG",
+        "url": ""
+      },
+      {
+        "company": "Raft",
+        "url": ""
+      },
+      {
+        "company": "Rainforest QA",
+        "url": ""
+      },
+      {
+        "company": "Ramp",
+        "url": ""
+      },
+      {
+        "company": "Ravello SystemsACQUIRED BY: ORACLE",
+        "url": ""
+      },
+      {
+        "company": "Recall AI",
+        "url": ""
+      },
+      {
+        "company": "Recurrency",
+        "url": ""
+      },
+      {
+        "company": "Relevance AI",
+        "url": ""
+      },
+      {
+        "company": "Remedio",
+        "url": ""
+      },
+      {
+        "company": "Render",
+        "url": ""
+      },
+      {
+        "company": "Renoviso",
+        "url": ""
+      },
+      {
+        "company": "Reputation",
+        "url": ""
+      },
+      {
+        "company": "Restaurant365",
+        "url": ""
+      },
+      {
+        "company": "Retail SolutionsACQUIRED BY: IRI",
+        "url": ""
+      },
+      {
+        "company": "Rev",
+        "url": ""
+      },
+      {
+        "company": "RevenueBase",
+        "url": ""
+      },
+      {
+        "company": "Rewind",
+        "url": ""
+      },
+      {
+        "company": "Rigetti ComputingNASDAQ: RGTI",
+        "url": ""
+      },
+      {
+        "company": "Rimsys",
+        "url": ""
+      },
+      {
+        "company": "Rocket LabNASDAQ: RKLB",
+        "url": ""
+      },
+      {
+        "company": "Rohirrim",
+        "url": ""
+      },
+      {
+        "company": "Rosebud",
+        "url": ""
+      },
+      {
+        "company": "Rupa HealthACQUIRED BY: FULLSCRIPT",
+        "url": ""
+      },
+      {
+        "company": "Rupifi",
+        "url": ""
+      },
+      {
+        "company": "ScopelyACQUIRED BY: SAVVY GAMES GROUP",
+        "url": ""
+      },
+      {
+        "company": "ScyllaDB",
+        "url": ""
+      },
+      {
+        "company": "ScytaleACQUIRED BY: HEWLETT PACKARD ENTERPRISE",
+        "url": ""
+      },
+      {
+        "company": "Seam AI",
+        "url": ""
+      },
+      {
+        "company": "Second Measure",
+        "url": ""
+      },
+      {
+        "company": "Sedona SystemsACQUIRED BY: CISCO",
+        "url": ""
+      },
+      {
+        "company": "Seekho",
+        "url": ""
+      },
+      {
+        "company": "Seismic Therapeutic",
+        "url": ""
+      },
+      {
+        "company": "SendGridNYSE: SEND / ACQUIRED BY: TWILIO",
+        "url": ""
+      },
+      {
+        "company": "Sentra",
+        "url": ""
+      },
+      {
+        "company": "ServiceTitanNASDAQ: TTAN",
+        "url": ""
+      },
+      {
+        "company": "Sett AI",
+        "url": ""
+      },
+      {
+        "company": "Shift Technology",
+        "url": ""
+      },
+      {
+        "company": "Shippo",
+        "url": ""
+      },
+      {
+        "company": "ShopifyNYSE: SHOP",
+        "url": ""
+      },
+      {
+        "company": "Shopmonkey",
+        "url": ""
+      },
+      {
+        "company": "ShopMy",
+        "url": ""
+      },
+      {
+        "company": "Shriram CityNSE: SHRIRAMCIT",
+        "url": ""
+      },
+      {
+        "company": "Sign In Enterprise",
+        "url": ""
+      },
+      {
+        "company": "Sila Nanotechnologies",
+        "url": ""
+      },
+      {
+        "company": "SilverSkyACQUIRED BY: BAE SYSTEMS",
+        "url": ""
+      },
+      {
+        "company": "Sirtris PharmaceuticalsACQUIRED BY: GLAXOSMITHKLINE",
+        "url": ""
+      },
+      {
+        "company": "Sisense",
+        "url": ""
+      },
+      {
+        "company": "SiteAdvisor, Inc.ACQUIRED BY: MCAFEE",
+        "url": ""
+      },
+      {
+        "company": "Sixfold AI",
+        "url": ""
+      },
+      {
+        "company": "Skippr",
+        "url": ""
+      },
+      {
+        "company": "Skype",
+        "url": ""
+      },
+      {
+        "company": "SmarterDxACQUIRED BY: NEW MOUNTAIN CAPITAL",
+        "url": ""
+      },
+      {
+        "company": "SmashflyACQUIRED BY: SYMPHONY TALENT",
+        "url": ""
+      },
+      {
+        "company": "Smule",
+        "url": ""
+      },
+      {
+        "company": "SnapDeal",
+        "url": ""
+      },
+      {
+        "company": "Social TablesACQUIRED BY: CVENT",
+        "url": ""
+      },
+      {
+        "company": "Solomon",
+        "url": ""
+      },
+      {
+        "company": "SolutoACQUIRED BY: ASURION",
+        "url": ""
+      },
+      {
+        "company": "Sorare",
+        "url": ""
+      },
+      {
+        "company": "Souffl\u00e9 Therapeutics",
+        "url": ""
+      },
+      {
+        "company": "SpireNYSE: SPIR",
+        "url": ""
+      },
+      {
+        "company": "SpruceACQUIRED BY: ZILLOW",
+        "url": ""
+      },
+      {
+        "company": "Staircase",
+        "url": ""
+      },
+      {
+        "company": "Statespace",
+        "url": ""
+      },
+      {
+        "company": "StorwizeACQUIRED BY: IBM",
+        "url": ""
+      },
+      {
+        "company": "Streamloots",
+        "url": ""
+      },
+      {
+        "company": "Strella",
+        "url": ""
+      },
+      {
+        "company": "StromedixACQUIRED BY: BIOGEN IDEC.",
+        "url": ""
+      },
+      {
+        "company": "StubHubNYSE: STUB",
+        "url": ""
+      },
+      {
+        "company": "StuffThatWorks",
+        "url": ""
+      },
+      {
+        "company": "Subtle Medical",
+        "url": ""
+      },
+      {
+        "company": "Sukino",
+        "url": ""
+      },
+      {
+        "company": "SupermavenACQUIRED BY: CURSOR",
+        "url": ""
+      },
+      {
+        "company": "Sweep",
+        "url": ""
+      },
+      {
+        "company": "SwiggyNSE: SWIGGY",
+        "url": ""
+      },
+      {
+        "company": "Syndio",
+        "url": ""
+      },
+      {
+        "company": "Tackle.ioACQUIRED BY: APPDIRECT",
+        "url": ""
+      },
+      {
+        "company": "TaxiForSureACQUIRED BY: OLA",
+        "url": ""
+      },
+      {
+        "company": "TeachableACQUIRED BY: HOTMART",
+        "url": ""
+      },
+      {
+        "company": "Team8",
+        "url": ""
+      },
+      {
+        "company": "TeamViewerACQUIRED BY: PERMIRA",
+        "url": ""
+      },
+      {
+        "company": "Teleport",
+        "url": ""
+      },
+      {
+        "company": "Teleradiology Solutions",
+        "url": ""
+      },
+      {
+        "company": "Teller Finance",
+        "url": ""
+      },
+      {
+        "company": "TensorZero",
+        "url": ""
+      },
+      {
+        "company": "Terra Bella (fka Skybox Imaging)ACQUIRED BY: GOOGLE",
+        "url": ""
+      },
+      {
+        "company": "The Exploration Company",
+        "url": ""
+      },
+      {
+        "company": "ThreatTrack SecurityACQUIRED BY: J2 GLOBAL",
+        "url": ""
+      },
+      {
+        "company": "Thunes",
+        "url": ""
+      },
+      {
+        "company": "TileACQUIRED BY: LIFE360",
+        "url": ""
+      },
+      {
+        "company": "ToastNYSE: TOST",
+        "url": ""
+      },
+      {
+        "company": "Torch Dental",
+        "url": ""
+      },
+      {
+        "company": "Torq",
+        "url": ""
+      },
+      {
+        "company": "Toss",
+        "url": ""
+      },
+      {
+        "company": "TraffixACQUIRED BY: F5 NETWORKS",
+        "url": ""
+      },
+      {
+        "company": "Transbnk",
+        "url": ""
+      },
+      {
+        "company": "TripwireACQUIRED BY: BELDEN",
+        "url": ""
+      },
+      {
+        "company": "TRM Labs",
+        "url": ""
+      },
+      {
+        "company": "TruebillACQUIRED BY: ROCKET TECHNOLOGIES",
+        "url": ""
+      },
+      {
+        "company": "TScan TherapeuticsNASDAQ: TCRX",
+        "url": ""
+      },
+      {
+        "company": "TSM",
+        "url": ""
+      },
+      {
+        "company": "TurbineOne",
+        "url": ""
+      },
+      {
+        "company": "Turneo",
+        "url": ""
+      },
+      {
+        "company": "Turquoise Health",
+        "url": ""
+      },
+      {
+        "company": "TwilioNYSE: TWLO",
+        "url": ""
+      },
+      {
+        "company": "TwitchACQUIRED BY: AMAZON",
+        "url": ""
+      },
+      {
+        "company": "Ual\u00e1",
+        "url": ""
+      },
+      {
+        "company": "Unframe AI",
+        "url": ""
+      },
+      {
+        "company": "United CapitalACQUIRED BY: GOLDMAN SACHS",
+        "url": ""
+      },
+      {
+        "company": "Unito",
+        "url": ""
+      },
+      {
+        "company": "UniUni",
+        "url": ""
+      },
+      {
+        "company": "Unrivaled Basketball",
+        "url": ""
+      },
+      {
+        "company": "Upside",
+        "url": ""
+      },
+      {
+        "company": "Upvest",
+        "url": ""
+      },
+      {
+        "company": "Upwind Security",
+        "url": ""
+      },
+      {
+        "company": "Urban CompanyNSE: URBANCO",
+        "url": ""
+      },
+      {
+        "company": "US Health Partners, LLC",
+        "url": ""
+      },
+      {
+        "company": "Valence",
+        "url": ""
+      },
+      {
+        "company": "Vapi",
+        "url": ""
+      },
+      {
+        "company": "Vayyar",
+        "url": ""
+      },
+      {
+        "company": "Velo3DNYSE: VLD",
+        "url": ""
+      },
+      {
+        "company": "VendorPM",
+        "url": ""
+      },
+      {
+        "company": "VerastemNASDAQ: VSTM",
+        "url": ""
+      },
+      {
+        "company": "Verata HealthACQUIRED BY: OLIVE",
+        "url": ""
+      },
+      {
+        "company": "Verato",
+        "url": ""
+      },
+      {
+        "company": "VeriSignNASDAQ:VRSN",
+        "url": ""
+      },
+      {
+        "company": "VerodinACQUIRED BY: FIREEYE",
+        "url": ""
+      },
+      {
+        "company": "Vertice",
+        "url": ""
+      },
+      {
+        "company": "Vetic",
+        "url": ""
+      },
+      {
+        "company": "Vidyard",
+        "url": ""
+      },
+      {
+        "company": "View The Space (Fmr Hightower)",
+        "url": ""
+      },
+      {
+        "company": "Virtru",
+        "url": ""
+      },
+      {
+        "company": "VlocityACQUIRED BY: SALESFORCE",
+        "url": ""
+      },
+      {
+        "company": "Voxel51",
+        "url": ""
+      },
+      {
+        "company": "WanderaACQUIRED BY: JAMF",
+        "url": ""
+      },
+      {
+        "company": "Watershed",
+        "url": ""
+      },
+      {
+        "company": "Waymo",
+        "url": ""
+      },
+      {
+        "company": "WeaveNYSE: WEAV",
+        "url": ""
+      },
+      {
+        "company": "WelltokACQUIRED BY: VIRGIN PULSE",
+        "url": ""
+      },
+      {
+        "company": "Wildlife Studios",
+        "url": ""
+      },
+      {
+        "company": "WincNYSE: WBEV",
+        "url": ""
+      },
+      {
+        "company": "Windfall Bio",
+        "url": ""
+      },
+      {
+        "company": "WiredScore",
+        "url": ""
+      },
+      {
+        "company": "WixNASDAQ: WIX",
+        "url": ""
+      },
+      {
+        "company": "Wonderful",
+        "url": ""
+      },
+      {
+        "company": "Wrapbook",
+        "url": ""
+      },
+      {
+        "company": "Wukong Education",
+        "url": ""
+      },
+      {
+        "company": "Xanadu",
+        "url": ""
+      },
+      {
+        "company": "XtimeACQUIRED BY: COX AUTOMOTIVE",
+        "url": ""
+      },
+      {
+        "company": "YelpNYSE: YELP",
+        "url": ""
+      },
+      {
+        "company": "YodleACQUIRED BY: WEB.COM",
+        "url": ""
+      },
+      {
+        "company": "Yotpo",
+        "url": ""
+      },
+      {
+        "company": "Zapier",
+        "url": ""
+      },
+      {
+        "company": "Zenskar",
+        "url": ""
+      },
+      {
+        "company": "ZenZap",
+        "url": ""
+      },
+      {
+        "company": "ZoominACQUIRED BY: SALESFORCE",
+        "url": ""
+      },
+      {
+        "company": "ZooskACQUIRED BY: SPARK NETWORKS SE",
+        "url": ""
+      },
+      {
+        "company": "Zopa",
+        "url": ""
+      },
+      {
+        "company": "Zopper",
+        "url": ""
+      },
+      {
+        "company": "ZyG",
+        "url": ""
+      },
+      {
+        "company": "Zylo",
+        "url": ""
+      },
+      {
+        "company": "Subscribe to Atlas",
+        "url": ""
+      },
+      {
+        "company": "Portfolio Companies",
+        "url": ""
+      },
+      {
+        "company": "Acceleron",
+        "url": ""
+      },
+      {
+        "company": "ACTIV Financial Systems",
+        "url": ""
+      },
+      {
+        "company": "ACV Auctions",
+        "url": ""
+      },
+      {
+        "company": "Adaptive Insights",
+        "url": ""
+      },
+      {
+        "company": "Affirmed Networks",
+        "url": ""
+      },
+      {
+        "company": "Alcresta Therapeutics",
+        "url": ""
+      },
+      {
+        "company": "Allena Pharmaceuticals",
+        "url": ""
+      },
+      {
+        "company": "Allscripts",
+        "url": ""
+      },
+      {
+        "company": "Altair Semiconductor",
+        "url": ""
+      },
+      {
+        "company": "Anaqua",
+        "url": ""
+      },
+      {
+        "company": "Arcion Labs",
+        "url": ""
+      },
+      {
+        "company": "Artemis Health",
+        "url": ""
+      },
+      {
+        "company": "August",
+        "url": ""
+      },
+      {
+        "company": "Auth0",
+        "url": ""
+      },
+      {
+        "company": "Axis Network Technology",
+        "url": ""
+      },
+      {
+        "company": "Bharat Matrimony",
+        "url": ""
+      },
+      {
+        "company": "BillGuard",
+        "url": ""
       },
       {
         "company": "BladeLogic",
         "url": ""
       },
       {
-        "company": "Boom Supersonic",
-        "url": "https://boomsupersonic.com"
-      },
-      {
-        "company": "Box",
-        "url": "https://box.com"
-      },
-      {
-        "company": "Brightwheel",
-        "url": "https://mybrightwheel.com"
-      },
-      {
-        "company": "Bumble",
-        "url": "https://bumble.com"
-      },
-      {
-        "company": "Canva",
-        "url": "https://canva.com"
-      },
-      {
-        "company": "CaptivateIQ",
-        "url": "https://captivateiq.com"
-      },
-      {
-        "company": "Ciena",
-        "url": "https://ciena.com"
-      },
-      {
-        "company": "Clarity",
-        "url": "https://getclarity.ai"
-      },
-      {
-        "company": "Claroty",
-        "url": "https://claroty.com"
-      },
-      {
-        "company": "ClickHouse",
-        "url": "https://clickhouse.com"
-      },
-      {
-        "company": "Clio",
-        "url": "https://clio.com"
-      },
-      {
-        "company": "Cloudinary",
-        "url": "https://cloudinary.com"
-      },
-      {
-        "company": "Databricks",
-        "url": "https://databricks.com"
-      },
-      {
-        "company": "Datadog",
-        "url": "https://datadoghq.com"
-      },
-      {
-        "company": "DataStax",
-        "url": "https://datastax.com"
-      },
-      {
-        "company": "Deel",
-        "url": "https://deel.com"
-      },
-      {
-        "company": "Descript",
-        "url": "https://descript.com"
-      },
-      {
-        "company": "Dialpad",
-        "url": "https://dialpad.com"
-      },
-      {
-        "company": "Discord",
-        "url": "https://discord.com"
-      },
-      {
-        "company": "Domo",
-        "url": "https://domo.com"
-      },
-      {
-        "company": "DoorDash",
-        "url": "https://doordash.com"
-      },
-      {
-        "company": "Dropbox",
-        "url": "https://dropbox.com"
-      },
-      {
-        "company": "DuckDB",
-        "url": "https://duckdb.org"
-      },
-      {
-        "company": "Shopify",
-        "url": "https://shopify.com"
-      },
-      {
-        "company": "Toast",
-        "url": "https://pos.toasttab.com"
-      },
-      {
-        "company": "LinkedIn",
-        "url": "https://linkedin.com"
-      },
-      {
-        "company": "Skype",
-        "url": "https://skype.com"
-      },
-      {
-        "company": "Yelp",
-        "url": "https://yelp.com"
-      },
-      {
-        "company": "Intercom",
-        "url": "https://intercom.com"
-      },
-      {
-        "company": "SendGrid",
-        "url": "https://sendgrid.com"
-      },
-      {
-        "company": "Twitch",
-        "url": "https://twitch.tv"
-      },
-      {
-        "company": "Proofpoint",
-        "url": "https://proofpoint.com"
-      },
-      {
-        "company": "SolarWinds",
-        "url": "https://solarwinds.com"
-      },
-      {
-        "company": "Gainsight",
-        "url": "https://gainsight.com"
-      },
-      {
-        "company": "FreshDesk",
-        "url": "https://freshdesk.com"
-      },
-      {
-        "company": "Kaltura",
-        "url": "https://kaltura.com"
-      },
-      {
-        "company": "Mimecast",
-        "url": "https://mimecast.com"
-      },
-      {
-        "company": "Mindbody",
-        "url": "https://mindbodyonline.com"
-      },
-      {
-        "company": "Quantcast",
-        "url": "https://quantcast.com"
-      },
-      {
-        "company": "PlanGrid",
-        "url": "https://plangrid.com"
-      },
-      {
-        "company": "WePay",
-        "url": "https://wepay.com"
-      },
-      {
-        "company": "Brightcove",
-        "url": "https://brightcove.com"
-      },
-      {
-        "company": "Criteo",
-        "url": "https://criteo.com"
-      },
-      {
-        "company": "Vetcor",
+        "company": "Blue Apron",
         "url": ""
       },
       {
-        "company": "Airtable",
-        "url": "https://airtable.com"
+        "company": "Blue Nile",
+        "url": ""
       },
       {
-        "company": "Perimeter 81",
-        "url": "https://perimeter81.com"
+        "company": "Box",
+        "url": ""
       },
       {
-        "company": "BigBear.ai",
-        "url": "https://bigbear.ai"
+        "company": "Bread Financial",
+        "url": ""
       },
       {
-        "company": "Limeade",
-        "url": "https://limeade.com"
+        "company": "BrightBytes",
+        "url": ""
       },
       {
-        "company": "Postmates",
-        "url": "https://postmates.com"
+        "company": "Broadsoft",
+        "url": ""
+      },
+      {
+        "company": "Bumble",
+        "url": ""
+      },
+      {
+        "company": "Capsule8",
+        "url": ""
+      },
+      {
+        "company": "Ciena",
+        "url": ""
+      },
+      {
+        "company": "Clarity Money",
+        "url": ""
+      },
+      {
+        "company": "ClearCare",
+        "url": ""
+      },
+      {
+        "company": "CloudLock",
+        "url": ""
+      },
+      {
+        "company": "Collective Medical",
+        "url": ""
+      },
+      {
+        "company": "Convertro, Inc.",
+        "url": ""
+      },
+      {
+        "company": "Cornerstone OnDemand",
+        "url": ""
+      },
+      {
+        "company": "CPower, Inc.",
+        "url": ""
+      },
+      {
+        "company": "Criteo",
+        "url": ""
+      },
+      {
+        "company": "Cyota, Inc",
+        "url": ""
+      },
+      {
+        "company": "Databand",
+        "url": ""
+      },
+      {
+        "company": "Datalot",
+        "url": ""
+      },
+      {
+        "company": "Defense.net",
+        "url": ""
+      },
+      {
+        "company": "DISCO",
+        "url": ""
+      },
+      {
+        "company": "DocuSign",
+        "url": ""
+      },
+      {
+        "company": "DocuTAP",
+        "url": ""
+      },
+      {
+        "company": "DoubleDutch",
+        "url": ""
+      },
+      {
+        "company": "Dropcam",
+        "url": ""
+      },
+      {
+        "company": "Dynamic Yield",
+        "url": ""
+      },
+      {
+        "company": "eEye Digital Security",
+        "url": ""
+      },
+      {
+        "company": "Eloqua",
+        "url": ""
+      },
+      {
+        "company": "Endgame",
+        "url": ""
+      },
+      {
+        "company": "Enjoei",
+        "url": ""
+      },
+      {
+        "company": "Everlance",
+        "url": ""
+      },
+      {
+        "company": "Fabric Technologies",
+        "url": ""
+      },
+      {
+        "company": "Fandom",
+        "url": ""
+      },
+      {
+        "company": "Fern",
+        "url": ""
+      },
+      {
+        "company": "Finmark",
+        "url": ""
+      },
+      {
+        "company": "Fiverr",
+        "url": ""
+      },
+      {
+        "company": "Flarion Technologies",
+        "url": ""
+      },
+      {
+        "company": "Flex Pharma, Inc.",
+        "url": ""
+      },
+      {
+        "company": "Fractyl Health",
+        "url": ""
+      },
+      {
+        "company": "Fuze",
+        "url": ""
+      },
+      {
+        "company": "Gainsight",
+        "url": ""
+      },
+      {
+        "company": "Ginger",
+        "url": ""
+      },
+      {
+        "company": "Glint",
+        "url": ""
+      },
+      {
+        "company": "Gracenote",
+        "url": ""
+      },
+      {
+        "company": "GTS Central Europe",
+        "url": ""
+      },
+      {
+        "company": "Habana Labs",
+        "url": ""
+      },
+      {
+        "company": "HashiCorp",
+        "url": ""
+      },
+      {
+        "company": "Hatch",
+        "url": ""
+      },
+      {
+        "company": "Hinge Health",
+        "url": ""
+      },
+      {
+        "company": "HomeFirst",
+        "url": ""
+      },
+      {
+        "company": "IAG Research, Inc.",
+        "url": ""
+      },
+      {
+        "company": "Illusive Networks",
+        "url": ""
+      },
+      {
+        "company": "Impossible Aerospace",
+        "url": ""
+      },
+      {
+        "company": "Indian Energy Exchange",
+        "url": ""
+      },
+      {
+        "company": "Insmed",
+        "url": ""
+      },
+      {
+        "company": "Instructure",
+        "url": ""
+      },
+      {
+        "company": "Intacct",
+        "url": ""
+      },
+      {
+        "company": "Intego",
+        "url": ""
+      },
+      {
+        "company": "Intucell",
+        "url": ""
+      },
+      {
+        "company": "Iris Automation",
+        "url": ""
+      },
+      {
+        "company": "iSIGHT Security",
+        "url": ""
+      },
+      {
+        "company": "Kenna Security",
+        "url": ""
+      },
+      {
+        "company": "Knewton",
+        "url": ""
+      },
+      {
+        "company": "Kroll Bond Rating Agency",
+        "url": ""
+      },
+      {
+        "company": "Kymera Therapeutics",
+        "url": ""
+      },
+      {
+        "company": "Leaba Semiconductor",
+        "url": ""
+      },
+      {
+        "company": "Liazon",
+        "url": ""
+      },
+      {
+        "company": "Life360",
+        "url": ""
       },
       {
         "company": "LifeLock",
-        "url": "https://lifelock.com"
+        "url": ""
+      },
+      {
+        "company": "LinkedIn",
+        "url": ""
+      },
+      {
+        "company": "LiveAuctioneers",
+        "url": ""
+      },
+      {
+        "company": "LogicNow",
+        "url": ""
+      },
+      {
+        "company": "Lumere",
+        "url": ""
+      },
+      {
+        "company": "Main Street Hub",
+        "url": ""
+      },
+      {
+        "company": "Manta",
+        "url": ""
+      },
+      {
+        "company": "Matrimony.com",
+        "url": ""
+      },
+      {
+        "company": "MCP Manager",
+        "url": ""
+      },
+      {
+        "company": "Medi Assist",
+        "url": ""
+      },
+      {
+        "company": "Melio Payments",
+        "url": ""
+      },
+      {
+        "company": "Metalogix",
+        "url": ""
+      },
+      {
+        "company": "Millennial Media",
+        "url": ""
+      },
+      {
+        "company": "Milo",
+        "url": ""
+      },
+      {
+        "company": "Mindbody",
+        "url": ""
+      },
+      {
+        "company": "Motilal Oswal",
+        "url": ""
+      },
+      {
+        "company": "MyHeritage",
+        "url": ""
+      },
+      {
+        "company": "nCino",
+        "url": ""
+      },
+      {
+        "company": "NephroPlus",
+        "url": ""
+      },
+      {
+        "company": "Netsmart Technologies",
+        "url": ""
+      },
+      {
+        "company": "NeueHealth",
+        "url": ""
+      },
+      {
+        "company": "NewVoiceMedia",
+        "url": ""
+      },
+      {
+        "company": "Nominum",
+        "url": ""
+      },
+      {
+        "company": "npm",
+        "url": ""
+      },
+      {
+        "company": "Okera",
+        "url": ""
+      },
+      {
+        "company": "OLX",
+        "url": ""
+      },
+      {
+        "company": "OMGPOP",
+        "url": ""
+      },
+      {
+        "company": "Otonomo",
+        "url": ""
+      },
+      {
+        "company": "OvaScience",
+        "url": ""
+      },
+      {
+        "company": "PagerDuty",
+        "url": ""
+      },
+      {
+        "company": "Pana",
+        "url": ""
+      },
+      {
+        "company": "Parallels",
+        "url": ""
+      },
+      {
+        "company": "Periscope",
+        "url": ""
+      },
+      {
+        "company": "Periscope Data",
+        "url": ""
+      },
+      {
+        "company": "PhishMe",
+        "url": ""
+      },
+      {
+        "company": "Pinterest",
+        "url": ""
+      },
+      {
+        "company": "Pipedrive",
+        "url": ""
+      },
+      {
+        "company": "Playdom",
+        "url": ""
+      },
+      {
+        "company": "Postini",
+        "url": ""
+      },
+      {
+        "company": "Procore",
+        "url": ""
+      },
+      {
+        "company": "Prospera",
+        "url": ""
+      },
+      {
+        "company": "Pure Networks",
+        "url": ""
+      },
+      {
+        "company": "Qualys",
+        "url": ""
+      },
+      {
+        "company": "Quidsi (fka Diapers.com)",
+        "url": ""
+      },
+      {
+        "company": "Qwak",
+        "url": ""
+      },
+      {
+        "company": "Ravello Systems",
+        "url": ""
+      },
+      {
+        "company": "Retail Solutions",
+        "url": ""
+      },
+      {
+        "company": "Rigetti Computing",
+        "url": ""
+      },
+      {
+        "company": "Rocket Lab",
+        "url": ""
+      },
+      {
+        "company": "Rupa Health",
+        "url": ""
+      },
+      {
+        "company": "Scopely",
+        "url": ""
+      },
+      {
+        "company": "Scytale",
+        "url": ""
+      },
+      {
+        "company": "Sedona Systems",
+        "url": ""
+      },
+      {
+        "company": "SendGrid",
+        "url": ""
+      },
+      {
+        "company": "ServiceTitan",
+        "url": ""
+      },
+      {
+        "company": "Shopify",
+        "url": ""
+      },
+      {
+        "company": "Shriram City",
+        "url": ""
+      },
+      {
+        "company": "SilverSky",
+        "url": ""
+      },
+      {
+        "company": "Sirtris Pharmaceuticals",
+        "url": ""
+      },
+      {
+        "company": "SiteAdvisor, Inc.",
+        "url": ""
+      },
+      {
+        "company": "SmarterDx",
+        "url": ""
+      },
+      {
+        "company": "Smashfly",
+        "url": ""
+      },
+      {
+        "company": "Social Tables",
+        "url": ""
+      },
+      {
+        "company": "Soluto",
+        "url": ""
+      },
+      {
+        "company": "Spire",
+        "url": ""
+      },
+      {
+        "company": "Spruce",
+        "url": ""
+      },
+      {
+        "company": "Storwize",
+        "url": ""
+      },
+      {
+        "company": "Stromedix",
+        "url": ""
+      },
+      {
+        "company": "StubHub",
+        "url": ""
+      },
+      {
+        "company": "Supermaven",
+        "url": ""
+      },
+      {
+        "company": "Swiggy",
+        "url": ""
+      },
+      {
+        "company": "Tackle.io",
+        "url": ""
+      },
+      {
+        "company": "TaxiForSure",
+        "url": ""
+      },
+      {
+        "company": "Teachable",
+        "url": ""
+      },
+      {
+        "company": "TeamViewer",
+        "url": ""
+      },
+      {
+        "company": "Terra Bella (fka Skybox Imaging)",
+        "url": ""
+      },
+      {
+        "company": "ThreatTrack Security",
+        "url": ""
+      },
+      {
+        "company": "Tile",
+        "url": ""
+      },
+      {
+        "company": "Toast",
+        "url": ""
+      },
+      {
+        "company": "Traffix",
+        "url": ""
+      },
+      {
+        "company": "Tripwire",
+        "url": ""
+      },
+      {
+        "company": "Truebill",
+        "url": ""
+      },
+      {
+        "company": "TScan Therapeutics",
+        "url": ""
+      },
+      {
+        "company": "Twilio",
+        "url": ""
+      },
+      {
+        "company": "Twitch",
+        "url": ""
+      },
+      {
+        "company": "United Capital",
+        "url": ""
+      },
+      {
+        "company": "Urban Company",
+        "url": ""
+      },
+      {
+        "company": "Velo3D",
+        "url": ""
+      },
+      {
+        "company": "Verastem",
+        "url": ""
+      },
+      {
+        "company": "Verata Health",
+        "url": ""
+      },
+      {
+        "company": "VeriSign",
+        "url": ""
+      },
+      {
+        "company": "Verodin",
+        "url": ""
+      },
+      {
+        "company": "Vlocity",
+        "url": ""
+      },
+      {
+        "company": "Wandera",
+        "url": ""
+      },
+      {
+        "company": "Weave",
+        "url": ""
+      },
+      {
+        "company": "Welltok",
+        "url": ""
+      },
+      {
+        "company": "Winc",
+        "url": ""
+      },
+      {
+        "company": "Wix",
+        "url": ""
+      },
+      {
+        "company": "Xtime",
+        "url": ""
+      },
+      {
+        "company": "Yelp",
+        "url": ""
+      },
+      {
+        "company": "Yodle",
+        "url": ""
+      },
+      {
+        "company": "Zoomin",
+        "url": ""
+      },
+      {
+        "company": "Zoosk",
+        "url": ""
+      },
+      {
+        "company": "Investors",
+        "url": ""
+      },
+      {
+        "company": "Founded",
+        "url": ""
+      },
+      {
+        "company": "Partnered",
+        "url": ""
+      },
+      {
+        "company": "Roadmaps",
+        "url": ""
+      },
+      {
+        "company": "Articles",
+        "url": ""
+      },
+      {
+        "company": "Investment Memo",
+        "url": ""
+      },
+      {
+        "company": "XB100 HONOREE",
+        "url": ""
+      },
+      {
+        "company": "News",
+        "url": ""
+      },
+      {
+        "company": "Featured XB100 Honoree",
+        "url": ""
       }
     ]
   },
@@ -25728,7 +28324,308 @@
   {
     "name": "SHIFT Invest",
     "country": "Netherlands",
-    "investments": []
+    "investments": [
+      {
+        "company": "AllSHIFT ISHIFT IISHIFT IIITTT CTMIF I & IISHIFT IVTTT GT",
+        "url": ""
+      },
+      {
+        "company": "All",
+        "url": ""
+      },
+      {
+        "company": "SHIFT I",
+        "url": ""
+      },
+      {
+        "company": "SHIFT II",
+        "url": ""
+      },
+      {
+        "company": "SHIFT III",
+        "url": ""
+      },
+      {
+        "company": "TTT CT",
+        "url": ""
+      },
+      {
+        "company": "MIF I & II",
+        "url": ""
+      },
+      {
+        "company": "SHIFT IV",
+        "url": ""
+      },
+      {
+        "company": "TTT GT",
+        "url": ""
+      },
+      {
+        "company": "Chip heat management",
+        "url": ""
+      },
+      {
+        "company": "Food demand forecasting",
+        "url": ""
+      },
+      {
+        "company": "Solar mounting systems",
+        "url": ""
+      },
+      {
+        "company": "Blade noise reduction technology",
+        "url": ""
+      },
+      {
+        "company": "Molecular diagnostic solutions for agrifood",
+        "url": ""
+      },
+      {
+        "company": "Industrial efficiency improvement",
+        "url": ""
+      },
+      {
+        "company": "Thermal storage for horticulture",
+        "url": ""
+      },
+      {
+        "company": "Demand-responsive transport",
+        "url": ""
+      },
+      {
+        "company": "Smart storage solutions",
+        "url": ""
+      },
+      {
+        "company": "Autonomous inland shipping",
+        "url": ""
+      },
+      {
+        "company": "Connection technology for next generation wind turbines",
+        "url": ""
+      },
+      {
+        "company": "Enabling faster & energy efficient data centers",
+        "url": ""
+      },
+      {
+        "company": "Battery analytics software",
+        "url": ""
+      },
+      {
+        "company": "Smart data management",
+        "url": ""
+      },
+      {
+        "company": "E-mobility and energy management platform",
+        "url": ""
+      },
+      {
+        "company": "Sustainable electronics printing",
+        "url": ""
+      },
+      {
+        "company": "Solar-powered heating & cooling",
+        "url": ""
+      },
+      {
+        "company": "Autonomous rail operations",
+        "url": ""
+      },
+      {
+        "company": "Bio-based chemicals",
+        "url": ""
+      },
+      {
+        "company": "Geothermal Energy",
+        "url": ""
+      },
+      {
+        "company": "Parametric design for real estate development",
+        "url": ""
+      },
+      {
+        "company": "Billing solutions for district heating & cooling",
+        "url": ""
+      },
+      {
+        "company": "Environmentally friendly cooling",
+        "url": ""
+      },
+      {
+        "company": "Precision weather forecasting",
+        "url": ""
+      },
+      {
+        "company": "Biofabricated materials",
+        "url": ""
+      },
+      {
+        "company": "Organic waste treatment",
+        "url": ""
+      },
+      {
+        "company": "Bio-based technology",
+        "url": ""
+      },
+      {
+        "company": "Circular systems",
+        "url": ""
+      },
+      {
+        "company": "Sustainable ingredients",
+        "url": ""
+      },
+      {
+        "company": "Industry efficiency improvement",
+        "url": ""
+      },
+      {
+        "company": "Smart Food & Agriculture",
+        "url": ""
+      },
+      {
+        "company": "Battery material",
+        "url": ""
+      },
+      {
+        "company": "Agricultural Robotics",
+        "url": ""
+      },
+      {
+        "company": "ExitCircular packaging",
+        "url": ""
+      },
+      {
+        "company": "Sustainable textiles",
+        "url": ""
+      },
+      {
+        "company": "ExitAlternative proteins",
+        "url": ""
+      },
+      {
+        "company": "ExitElectric fleet management providerMIF",
+        "url": ""
+      },
+      {
+        "company": "MIF",
+        "url": ""
+      },
+      {
+        "company": "Performance monitoring for shipsMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitTransport management systemMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitSmall object radar systemsMIF",
+        "url": ""
+      },
+      {
+        "company": "Parking & mobility hubsMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitAirport security automationMIF",
+        "url": ""
+      },
+      {
+        "company": "Rolling stock cyber securityMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitCircular fashion",
+        "url": ""
+      },
+      {
+        "company": "Smart borescope technologyMIF",
+        "url": ""
+      },
+      {
+        "company": "Biodegradable foam",
+        "url": ""
+      },
+      {
+        "company": "ExitSmart indoor agriculture",
+        "url": ""
+      },
+      {
+        "company": "ExitHealthy lifestyle",
+        "url": ""
+      },
+      {
+        "company": "Business and marine travel platformMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitWaste water treatment",
+        "url": ""
+      },
+      {
+        "company": "Smart coatings",
+        "url": ""
+      },
+      {
+        "company": "Smart concrete",
+        "url": ""
+      },
+      {
+        "company": "Functional ingredients",
+        "url": ""
+      },
+      {
+        "company": "ExitDigitizing assetsMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitSpray drift reduction",
+        "url": ""
+      },
+      {
+        "company": "ExitWaste heat recovery",
+        "url": ""
+      },
+      {
+        "company": "Trace detection equipmentMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitSnow harvest machineryMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitAnimal health",
+        "url": ""
+      },
+      {
+        "company": "On-board aircraft solutionsMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitGreen energy services",
+        "url": ""
+      },
+      {
+        "company": "ExitAirborne wind energy",
+        "url": ""
+      },
+      {
+        "company": "Smart tracking solutionsMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitSmart flight simulatorMIF",
+        "url": ""
+      },
+      {
+        "company": "ExitAir traffic analyticsMIF",
+        "url": ""
+      }
+    ]
   },
   {
     "name": "Cortado Ventures",
@@ -25738,7 +28635,24 @@
   {
     "name": "Cycle Capital",
     "country": "Canada",
-    "investments": []
+    "investments": [
+      {
+        "company": "Search",
+        "url": ""
+      },
+      {
+        "company": "Recent Posts",
+        "url": ""
+      },
+      {
+        "company": "Propulserl'innovationd'impact",
+        "url": ""
+      },
+      {
+        "company": "Linkedin",
+        "url": "https://www.linkedin.com/company/cycle-capital/"
+      }
+    ]
   },
   {
     "name": "Frontier Venture Capital",
@@ -25753,7 +28667,168 @@
   {
     "name": "ArcTern Ventures",
     "country": "Canada",
-    "investments": []
+    "investments": [
+      {
+        "company": "Portfolio",
+        "url": ""
+      },
+      {
+        "company": "Mission-Optimized Satellite ConstellationsView",
+        "url": ""
+      },
+      {
+        "company": "Enabling the Future of Compute with Quantum on a ChipView",
+        "url": ""
+      },
+      {
+        "company": "ExitedNext Generation Interconnects for High Performance Computing ClustersView",
+        "url": ""
+      },
+      {
+        "company": "Circular economy for rare earth elementsView",
+        "url": ""
+      },
+      {
+        "company": "Sustainable Energy Solutions ProviderView",
+        "url": ""
+      },
+      {
+        "company": "Residential Clean Technology Sales PlatformView",
+        "url": ""
+      },
+      {
+        "company": "Smart Electrical Panels for HomesView",
+        "url": ""
+      },
+      {
+        "company": "Vertically Integrated Medium-Duty EV OEMView",
+        "url": ""
+      },
+      {
+        "company": "Electric Vehicle Battery RatingsView",
+        "url": ""
+      },
+      {
+        "company": "Ultra-Durable ApparelView",
+        "url": ""
+      },
+      {
+        "company": "Advanced Compressed Air Energy StorageView",
+        "url": ""
+      },
+      {
+        "company": "Multi Tenant Building EV ChargingView",
+        "url": ""
+      },
+      {
+        "company": "Digital Mobile Marketplace that Reduces Food WasteView",
+        "url": ""
+      },
+      {
+        "company": "Heat Pump and Solar Energy Provider for Sustainable HousingView",
+        "url": ""
+      },
+      {
+        "company": "Greener Electric Vehicle ChargingView",
+        "url": ""
+      },
+      {
+        "company": "Food Waste Reduction IoT for Commercial KitchensView",
+        "url": ""
+      },
+      {
+        "company": "White-labeled End-to-End Re-Commerce PlatformView",
+        "url": ""
+      },
+      {
+        "company": "Battery Inspection TechnologyView",
+        "url": ""
+      },
+      {
+        "company": "Automated Carbon AccountingView",
+        "url": ""
+      },
+      {
+        "company": "Wind and Solar Production Optimization Using AIView",
+        "url": ""
+      },
+      {
+        "company": "All-Electric Autonomous Commercial MowersView",
+        "url": ""
+      },
+      {
+        "company": "Flood Risk Assessment TechnologyView",
+        "url": ""
+      },
+      {
+        "company": "Subscription Utility E-BikesView",
+        "url": ""
+      },
+      {
+        "company": "Sustainable Aquaculture TechnologyView",
+        "url": ""
+      },
+      {
+        "company": "Digital-First Marketplace for Home ElectrificationView",
+        "url": ""
+      },
+      {
+        "company": "AI Powered Green Chemistry for Cleaner FoodView",
+        "url": ""
+      },
+      {
+        "company": "Multi-Residential Building Energy Management Using AIView",
+        "url": ""
+      },
+      {
+        "company": "Carbon Capture and SequestrationView",
+        "url": ""
+      },
+      {
+        "company": "Sustainable Cultured MeatView",
+        "url": ""
+      },
+      {
+        "company": "ExitedHigh-performance and cost-effective power conversionView",
+        "url": ""
+      },
+      {
+        "company": "Digital Manufacturing Transformation SaaSView",
+        "url": ""
+      },
+      {
+        "company": "AI + Robotics for Rapid Green Materials DiscoveryView",
+        "url": ""
+      },
+      {
+        "company": "Making Products SmarterView",
+        "url": ""
+      },
+      {
+        "company": "Concentrated Photovoltaic SolarView",
+        "url": ""
+      },
+      {
+        "company": "High Purity Alumina for LEDs and BatteriesView",
+        "url": ""
+      },
+      {
+        "company": "Cellulosic Ethanol ProductionView",
+        "url": ""
+      },
+      {
+        "company": "Waste Plastics to Specialty ChemicalsView",
+        "url": ""
+      },
+      {
+        "company": "Electricity from Low-Temperature Waste HeatView",
+        "url": ""
+      },
+      {
+        "company": "Sign up for our newsletter",
+        "url": ""
+      }
+    ]
   },
   {
     "name": "Inven Capital",
@@ -25922,5 +28997,3361 @@
         "url": ""
       }
     ]
+  },
+  {
+    "name": "ACCELR8",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ACVC Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Accurant",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ABB",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Amplify Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Antares Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Aramco Ventures Sustainability Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "At One Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Autodesk Foundation",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Avista Corp.",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "BDC Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Breakthrough Energy Fellows",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Brookfield",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Burnt Island Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Buzzi Unicem USA",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Carbon Drawdown Collective",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Caterpillar",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "CEMEX Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cerberus Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Chevron Technology Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Climate Innovation Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Climate Investment",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Clearsky",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Closed Loop Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Decarbonization Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Doral Energy-Tech Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "EDF",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "EDP Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Emerson Collective",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ENGIE",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Energy Foundry",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Energy Innovation Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Eni",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "EPS Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Extantia",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Farvatn Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Frankstahl",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Good Growth Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Grantham Foundation",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Gravity Climate Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "GS Energy",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "GS Futures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "GVP Climate",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "High House Investments",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Holcim MAQER Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Impact Science Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Investissement Quebec",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "KDT Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Kiko Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Kinetics",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "LG Tech Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Lineage Logistics",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Lowercarbon Capital",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "Fighting wildfires before they start.",
+        "url": ""
+      },
+      {
+        "company": "Clean, fast, cheap lithium mining.Lilac",
+        "url": ""
+      },
+      {
+        "company": "The API that wrangles IRA dollars.Eli",
+        "url": ""
+      },
+      {
+        "company": "Supercharged pulse fusion.",
+        "url": ""
+      },
+      {
+        "company": "CDR standards that set the standard.",
+        "url": ""
+      },
+      {
+        "company": "Restore nature. Remove carbon.Pachama",
+        "url": ""
+      },
+      {
+        "company": "Freight-friendly carbon offsets.",
+        "url": ""
+      },
+      {
+        "company": "Wood with muscles of steel.",
+        "url": ""
+      },
+      {
+        "company": "Iceberg-saving cold chain.Artyc",
+        "url": ""
+      },
+      {
+        "company": "Unlocking the clean economy's trillions.",
+        "url": ""
+      },
+      {
+        "company": "Waste disposal that trashes CO\u2082",
+        "url": ""
+      },
+      {
+        "company": "Carbon rehab for your business.Watershed",
+        "url": ""
+      },
+      {
+        "company": "Capturing carbon with carbon.",
+        "url": ""
+      },
+      {
+        "company": "Trashing Brazil\u2019s waste problem.Musa",
+        "url": ""
+      },
+      {
+        "company": "Batteries that mine lithium.Lithios",
+        "url": ""
+      },
+      {
+        "company": "Carbon\u2019s very own think tank.",
+        "url": ""
+      },
+      {
+        "company": "The grid\u2019s battery buildout.",
+        "url": ""
+      },
+      {
+        "company": "Universal API for EV charging.",
+        "url": ""
+      },
+      {
+        "company": "CO\u2082 reborn.Dioxycle",
+        "url": ""
+      },
+      {
+        "company": "Clean kitesurfing cargo ships.CargoKite",
+        "url": ""
+      },
+      {
+        "company": "Your grid\u2019s fire alarm.",
+        "url": ""
+      },
+      {
+        "company": "The cleanest way to space.",
+        "url": ""
+      },
+      {
+        "company": "Making heat pumps cool.Quilt",
+        "url": ""
+      },
+      {
+        "company": "Handheld fusion reactors.Avalanche",
+        "url": ""
+      },
+      {
+        "company": "Taming the stellarator with software.",
+        "url": ""
+      },
+      {
+        "company": "Juicing up the e-moto wave.Zeno",
+        "url": ""
+      },
+      {
+        "company": "Turning exhaust emissions into revenue streams.Remora",
+        "url": ""
+      },
+      {
+        "company": "Big magma energy.Zanskar",
+        "url": ""
+      },
+      {
+        "company": "Turning CO2 into jet fuel.",
+        "url": ""
+      },
+      {
+        "company": "Measure soil carbon in a snap.Yard Stick",
+        "url": ""
+      },
+      {
+        "company": "Space-based power stations.Overview",
+        "url": ""
+      },
+      {
+        "company": "Carbon\u2019s very own think tank.Carbon180The cutting-edge of carbon removal science.CarbonPlan",
+        "url": ""
+      },
+      {
+        "company": "Food waste magic.Mill",
+        "url": ""
+      },
+      {
+        "company": "Capturing carbon with carbon.Noya",
+        "url": ""
+      },
+      {
+        "company": "AI for fire reinsurance.Kettle",
+        "url": ""
+      },
+      {
+        "company": "Cooking oil that doesn\u2019t fry the planet.Zero Acre",
+        "url": ""
+      },
+      {
+        "company": "Taking the waste out of recycling.Safi",
+        "url": ""
+      },
+      {
+        "company": "Clean, fast, cheap lithium mining.",
+        "url": ""
+      },
+      {
+        "company": "Kelp as the new corn.Macro Oceans",
+        "url": ""
+      },
+      {
+        "company": "Rocking carbon, renewing soil.Undo",
+        "url": ""
+      },
+      {
+        "company": "Making solar and wind work 24/7.",
+        "url": ""
+      },
+      {
+        "company": "Zero-carbon cement.",
+        "url": ""
+      },
+      {
+        "company": "Plasma-free fusion.",
+        "url": ""
+      },
+      {
+        "company": "Pumping oil back into the ground.",
+        "url": ""
+      },
+      {
+        "company": "Plug into the ocean.Panthalassa",
+        "url": ""
+      },
+      {
+        "company": "Suck up carbon, not energy.",
+        "url": ""
+      },
+      {
+        "company": "Super-cheap green hydrogen.",
+        "url": ""
+      },
+      {
+        "company": "Suck up carbon, not energy.Verdox",
+        "url": ""
+      },
+      {
+        "company": "Fusion without the fuss.",
+        "url": ""
+      },
+      {
+        "company": "Robots saving water and farms.",
+        "url": ""
+      },
+      {
+        "company": "Fully-electric passenger planes.Heart",
+        "url": ""
+      },
+      {
+        "company": "Restore nature. Remove carbon.",
+        "url": ""
+      },
+      {
+        "company": "Juicing up the e-moto wave.",
+        "url": ""
+      },
+      {
+        "company": "Literally paving the way to net-zero.",
+        "url": ""
+      },
+      {
+        "company": "The cutting-edge of carbon removal science.",
+        "url": ""
+      },
+      {
+        "company": "Wood with muscles of steel.Woodoo",
+        "url": ""
+      },
+      {
+        "company": "Fighting wildfires before they start.BurnBot",
+        "url": ""
+      },
+      {
+        "company": "Super-cheap green hydrogen.Supercritical",
+        "url": ""
+      },
+      {
+        "company": "Farming flies for feed.Entocycle",
+        "url": ""
+      },
+      {
+        "company": "Zero-carbon cement.Sublime",
+        "url": ""
+      },
+      {
+        "company": "Plasma-taming fusion magnets.Commonwealth Fusion Systems",
+        "url": ""
+      },
+      {
+        "company": "Methane bounty hunters.",
+        "url": ""
+      },
+      {
+        "company": "AI life raft for flood insurance.Floodbase",
+        "url": ""
+      },
+      {
+        "company": "Compute power from clean energy leftovers.",
+        "url": ""
+      },
+      {
+        "company": "Food waste magic.",
+        "url": ""
+      },
+      {
+        "company": "DAC faster than you can say DAC.Carbyon",
+        "url": ""
+      },
+      {
+        "company": "Go solar. Get paid.Lumen",
+        "url": ""
+      },
+      {
+        "company": "Steel from the sun.Electra",
+        "url": ""
+      },
+      {
+        "company": "Emissions-slashing compute clusters.",
+        "url": ""
+      },
+      {
+        "company": "Plugging Brazil into the sun.",
+        "url": ""
+      },
+      {
+        "company": "Turning exhaust emissions into revenue streams.",
+        "url": ""
+      },
+      {
+        "company": "Clean kitesurfing cargo ships.",
+        "url": ""
+      },
+      {
+        "company": "Europe's solar financing on-switch.Cloover",
+        "url": ""
+      },
+      {
+        "company": "India's practical, badass e-moto.",
+        "url": ""
+      },
+      {
+        "company": "Farm-to-bank carbon removal.",
+        "url": ""
+      },
+      {
+        "company": "Taking the waste out of recycling.",
+        "url": ""
+      },
+      {
+        "company": "CRISPR for metals.",
+        "url": ""
+      },
+      {
+        "company": "CRISPR for metals.Milvus Advanced",
+        "url": ""
+      },
+      {
+        "company": "The cleanest way to space.Astro Mechanica",
+        "url": ""
+      },
+      {
+        "company": "Carbon-guzzling supertrees.",
+        "url": ""
+      },
+      {
+        "company": "Squeezing more juice from batteries.",
+        "url": ""
+      },
+      {
+        "company": "Squeezing more juice from batteries.Breathe",
+        "url": ""
+      },
+      {
+        "company": "Freight-friendly carbon offsets.Pledge",
+        "url": ""
+      },
+      {
+        "company": "Battery waste reincarnated.Aepnus",
+        "url": ""
+      },
+      {
+        "company": "Commercial batteries that practically store cash.Storio",
+        "url": ""
+      },
+      {
+        "company": "Freight trucking goes electric.",
+        "url": ""
+      },
+      {
+        "company": "Fully-electric passenger planes.",
+        "url": ""
+      },
+      {
+        "company": "Commercial batteries that practically store cash.",
+        "url": ""
+      },
+      {
+        "company": "Big magma energy.",
+        "url": ""
+      },
+      {
+        "company": "Iceberg-saving cold chain.",
+        "url": ""
+      },
+      {
+        "company": "Real dairy sans cows.",
+        "url": ""
+      },
+      {
+        "company": "Batteries that mine lithium.",
+        "url": ""
+      },
+      {
+        "company": "Your grid\u2019s fire alarm.Gridware",
+        "url": ""
+      },
+      {
+        "company": "Biotech at a planetary scale.",
+        "url": ""
+      },
+      {
+        "company": "Cleaning up Africa\u2019s cookstoves.Ecosafi",
+        "url": ""
+      },
+      {
+        "company": "A rocket engine to boost the grid.Arbor",
+        "url": ""
+      },
+      {
+        "company": "The API that wrangles IRA dollars.",
+        "url": ""
+      },
+      {
+        "company": "Looks like meat, tastes like meat.Tender",
+        "url": ""
+      },
+      {
+        "company": "Self improving supply chains.Pendulum",
+        "url": ""
+      },
+      {
+        "company": "Universal API for EV charging.Enode",
+        "url": ""
+      },
+      {
+        "company": "Kelp as the new corn.",
+        "url": ""
+      },
+      {
+        "company": "Planet-friendly fertilizer farmers love.Kula",
+        "url": ""
+      },
+      {
+        "company": "100% beef that never had eyes nor hooves.",
+        "url": ""
+      },
+      {
+        "company": "Plastic-eating enzymes.Epoch",
+        "url": ""
+      },
+      {
+        "company": "Farming flies for feed.",
+        "url": ""
+      },
+      {
+        "company": "Building something awesome?",
+        "url": ""
+      },
+      {
+        "company": "Zero-waste fashion.",
+        "url": ""
+      },
+      {
+        "company": "Freight trucking goes electric.Nevoya",
+        "url": ""
+      },
+      {
+        "company": "Cheap fusion power. Seriously.",
+        "url": ""
+      },
+      {
+        "company": "Cleaning up Africa\u2019s cookstoves.",
+        "url": ""
+      },
+      {
+        "company": "Waste disposal that trashes CO\u2082Vaulted",
+        "url": ""
+      },
+      {
+        "company": "Mapping Earth's materials.Matter",
+        "url": ""
+      },
+      {
+        "company": "Fast-tracking sustainable jet fuel.",
+        "url": ""
+      },
+      {
+        "company": "Forest-planting drones.Dendra",
+        "url": ""
+      },
+      {
+        "company": "Biotech at a planetary scale.Biosphere",
+        "url": ""
+      },
+      {
+        "company": "Property insurance for climate chaos.",
+        "url": ""
+      },
+      {
+        "company": "DAC faster than you can say DAC.",
+        "url": ""
+      },
+      {
+        "company": "Carbon rehab for your business.",
+        "url": ""
+      },
+      {
+        "company": "Cooking oil that doesn\u2019t fry the planet.",
+        "url": ""
+      },
+      {
+        "company": "Growing the rooftop solar grid.InRange",
+        "url": ""
+      },
+      {
+        "company": "Trashing Brazil\u2019s waste problem.",
+        "url": ""
+      },
+      {
+        "company": "Mapping Earth's materials.",
+        "url": ""
+      },
+      {
+        "company": "DAC that sucks carbon, not cash.",
+        "url": ""
+      },
+      {
+        "company": "Measure soil carbon in a snap.",
+        "url": ""
+      },
+      {
+        "company": "Energy autopilot for your HVAC.",
+        "url": ""
+      },
+      {
+        "company": "Plasma-free fusion.Acceleron",
+        "url": ""
+      },
+      {
+        "company": "Giant carbon-sucking vacuums.",
+        "url": ""
+      },
+      {
+        "company": "Ocean rewilding with a robot assist.",
+        "url": ""
+      },
+      {
+        "company": "Decarbonizing shipping.",
+        "url": ""
+      },
+      {
+        "company": "Giant carbon-sucking vacuums.Carbon Engineering",
+        "url": ""
+      },
+      {
+        "company": "Plants that mine metals.",
+        "url": ""
+      },
+      {
+        "company": "Decarbonizing shipping.Seabound",
+        "url": ""
+      },
+      {
+        "company": "Plastic-eating enzymes.",
+        "url": ""
+      },
+      {
+        "company": "Loose lips sink ships.Stealth",
+        "url": ""
+      },
+      {
+        "company": "Pumping oil back into the ground.Charm",
+        "url": ""
+      },
+      {
+        "company": "A rocket engine to boost the grid.",
+        "url": ""
+      },
+      {
+        "company": "CO\u2082 reborn.",
+        "url": ""
+      },
+      {
+        "company": "Forest-planting drones.",
+        "url": ""
+      },
+      {
+        "company": "DAC that sucks carbon, not cash.Clairity",
+        "url": ""
+      },
+      {
+        "company": "Ultra-powerful electric boats.Arc",
+        "url": ""
+      },
+      {
+        "company": "Energy autopilot for your HVAC.Flair",
+        "url": ""
+      },
+      {
+        "company": "Space-based power stations.",
+        "url": ""
+      },
+      {
+        "company": "Plug into the ocean.",
+        "url": ""
+      },
+      {
+        "company": "Fusion from frickin' laser beams.",
+        "url": ""
+      },
+      {
+        "company": "Hard rock, easy lithium.Novalith",
+        "url": ""
+      },
+      {
+        "company": "Plasma-taming fusion magnets.",
+        "url": ""
+      },
+      {
+        "company": "When carbon and rocks become one.Heirloom",
+        "url": ""
+      },
+      {
+        "company": "Fertilizer out of thin air.",
+        "url": ""
+      },
+      {
+        "company": "Wind power on a clothesline.Airloom",
+        "url": ""
+      },
+      {
+        "company": "Battery waste reincarnated.",
+        "url": ""
+      },
+      {
+        "company": "Ready for a gig that matters?",
+        "url": ""
+      },
+      {
+        "company": "Own your energy.Fuse",
+        "url": ""
+      },
+      {
+        "company": "Kickass Companies",
+        "url": ""
+      },
+      {
+        "company": "Wind power on a clothesline.",
+        "url": ""
+      },
+      {
+        "company": "Making chemicals with enzymes, not oil.Solugen",
+        "url": ""
+      },
+      {
+        "company": "100% beef that never had eyes nor hooves.Mosa",
+        "url": ""
+      },
+      {
+        "company": "Fast-tracking sustainable jet fuel.Air Co",
+        "url": ""
+      },
+      {
+        "company": "Unlocking the clean economy's trillions.Crux",
+        "url": ""
+      },
+      {
+        "company": "The grid\u2019s battery buildout.Base Power",
+        "url": ""
+      },
+      {
+        "company": "Linkedin",
+        "url": ""
+      },
+      {
+        "company": "Carbon\u2019s very own think tank.Carbon180",
+        "url": ""
+      },
+      {
+        "company": "Planet-friendly fertilizer farmers love.",
+        "url": ""
+      },
+      {
+        "company": "Supercharged pulse fusion.Pacific Fusion",
+        "url": ""
+      },
+      {
+        "company": "AI life raft for flood insurance.",
+        "url": ""
+      },
+      {
+        "company": "Plants that mine metals.Genomines",
+        "url": ""
+      },
+      {
+        "company": "Climate on the mind?",
+        "url": ""
+      },
+      {
+        "company": "Growing the rooftop solar grid.",
+        "url": ""
+      },
+      {
+        "company": "Cheap fusion power. Seriously.Zap",
+        "url": ""
+      },
+      {
+        "company": "Plugging Brazil into the sun.Lemon",
+        "url": ""
+      },
+      {
+        "company": "Fusion without the fuss.Renaissance",
+        "url": ""
+      },
+      {
+        "company": "Turn mine waste into climate gold.Arca",
+        "url": ""
+      },
+      {
+        "company": "Own your energy.",
+        "url": ""
+      },
+      {
+        "company": "Carbon-guzzling supertrees.Living Carbon",
+        "url": ""
+      },
+      {
+        "company": "When carbon and rocks become one.",
+        "url": ""
+      },
+      {
+        "company": "Europe's solar financing on-switch.",
+        "url": ""
+      },
+      {
+        "company": "Mean, green, biological machines.General Biological",
+        "url": ""
+      },
+      {
+        "company": "Robots saving water and farms.FarmHQ",
+        "url": ""
+      },
+      {
+        "company": "Looks like meat, tastes like meat.",
+        "url": ""
+      },
+      {
+        "company": "Zero-waste fashion.Unspun",
+        "url": ""
+      },
+      {
+        "company": "Go solar. Get paid.",
+        "url": ""
+      },
+      {
+        "company": "Mean, green, biological machines.",
+        "url": ""
+      },
+      {
+        "company": "Steel from the sun.",
+        "url": ""
+      },
+      {
+        "company": "Taming the stellarator with software.Thea Energy",
+        "url": ""
+      },
+      {
+        "company": "Literally paving the way to net-zero.Carbon Crusher",
+        "url": ""
+      },
+      {
+        "company": "CDR standards that set the standard.Isometric",
+        "url": ""
+      },
+      {
+        "company": "Coffee minus coffee.",
+        "url": ""
+      },
+      {
+        "company": "Turning CO2 into jet fuel.Twelve",
+        "url": ""
+      },
+      {
+        "company": "The cutting-edge of carbon removal science.CarbonPlan",
+        "url": ""
+      },
+      {
+        "company": "Handheld fusion reactors.",
+        "url": ""
+      },
+      {
+        "company": "Methane bounty hunters.Frost Methane",
+        "url": ""
+      },
+      {
+        "company": "Solarizing Indian rooftops.",
+        "url": ""
+      },
+      {
+        "company": "Farm-to-bank carbon removal.Loam",
+        "url": ""
+      },
+      {
+        "company": "Fusion from frickin' laser beams.Xcimer",
+        "url": ""
+      },
+      {
+        "company": "Loose lips sink ships.",
+        "url": ""
+      },
+      {
+        "company": "Emissions-slashing compute clusters.Crusoe",
+        "url": ""
+      },
+      {
+        "company": "Real dairy sans cows.Formo",
+        "url": ""
+      },
+      {
+        "company": "Making heat pumps cool.",
+        "url": ""
+      },
+      {
+        "company": "India's practical, badass e-moto.River",
+        "url": ""
+      },
+      {
+        "company": "Hard rock, easy lithium.",
+        "url": ""
+      },
+      {
+        "company": "Property insurance for climate chaos.Stand",
+        "url": ""
+      },
+      {
+        "company": "Ultra-powerful electric boats.",
+        "url": ""
+      },
+      {
+        "company": "AI for fire reinsurance.",
+        "url": ""
+      },
+      {
+        "company": "Ocean rewilding with a robot assist.Ulysses",
+        "url": ""
+      },
+      {
+        "company": "Fertilizer out of thin air.Nitricity",
+        "url": ""
+      },
+      {
+        "company": "Solarizing Indian rooftops.Solar Square",
+        "url": ""
+      },
+      {
+        "company": "Rocking carbon, renewing soil.",
+        "url": ""
+      },
+      {
+        "company": "Turn mine waste into climate gold.",
+        "url": ""
+      },
+      {
+        "company": "Making chemicals with enzymes, not oil.",
+        "url": ""
+      },
+      {
+        "company": "Making solar and wind work 24/7.Antora",
+        "url": ""
+      },
+      {
+        "company": "Self improving supply chains.",
+        "url": ""
+      },
+      {
+        "company": "Coffee minus coffee.Minus",
+        "url": ""
+      },
+      {
+        "company": "Compute power from clean energy leftovers.Rune Energy",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "Lumens",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Luminate NY",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Marubeni",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MassCEC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MassMutual",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MassMutual Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mercuria",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Micron",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Microsoft",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mistletoe",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mitsubishi Heavy Industry",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MOL Switch",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Muus Climate Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "National Grid",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Neotribe Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Oxy Low Carbon Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Pear VC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Pentair",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Piedmont Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Powerhouse",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "S2G Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "SABIC Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Schmidt Family Foundation",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Second Century Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Shell Foundation",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Skyview Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "SOSV",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Starlight Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "SWAN",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "TechEnergy Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Tenaska",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "the51",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Trafigura",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "UCeed Investment Funds",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "UM6P Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "United Airlines",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "UP Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Vale",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Valo Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Volta Circle",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "VoLo Earth",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Voyager Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Zero Carbon Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ZOMA Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "DBL Partners",
+    "country": "United States",
+    "investments": [
+      {
+        "company": "Agtonomy",
+        "url": ""
+      },
+      {
+        "company": "Fiber Global",
+        "url": ""
+      },
+      {
+        "company": "Chestnut Carbon",
+        "url": ""
+      },
+      {
+        "company": "Terram Lab",
+        "url": ""
+      },
+      {
+        "company": "xAI",
+        "url": ""
+      },
+      {
+        "company": "Airspace",
+        "url": ""
+      },
+      {
+        "company": "Menlo Micro",
+        "url": ""
+      },
+      {
+        "company": "BurnBot",
+        "url": ""
+      },
+      {
+        "company": "Pallet",
+        "url": ""
+      },
+      {
+        "company": "Wynd",
+        "url": ""
+      },
+      {
+        "company": "Mast",
+        "url": ""
+      },
+      {
+        "company": "Rain",
+        "url": ""
+      },
+      {
+        "company": "R-Zero",
+        "url": ""
+      },
+      {
+        "company": "The Boring Company",
+        "url": ""
+      },
+      {
+        "company": "SpaceX",
+        "url": ""
+      },
+      {
+        "company": "Farmers Business Network",
+        "url": ""
+      },
+      {
+        "company": "Spatial",
+        "url": ""
+      },
+      {
+        "company": "Bellwether Coffee",
+        "url": ""
+      },
+      {
+        "company": "Andela",
+        "url": ""
+      },
+      {
+        "company": "Apeel Sciences",
+        "url": ""
+      },
+      {
+        "company": "ZOLA (formerly Off Grid Electric)",
+        "url": ""
+      },
+      {
+        "company": "Planet Labs",
+        "url": ""
+      },
+      {
+        "company": "Mapbox",
+        "url": ""
+      },
+      {
+        "company": "The Muse",
+        "url": ""
+      },
+      {
+        "company": "The RealReal",
+        "url": ""
+      },
+      {
+        "company": "Trove (formerly Yerdle)",
+        "url": ""
+      },
+      {
+        "company": "UrbanSitter",
+        "url": ""
+      },
+      {
+        "company": "NEXTracker",
+        "url": ""
+      },
+      {
+        "company": "RallyPoint",
+        "url": ""
+      },
+      {
+        "company": "ZincFive",
+        "url": ""
+      },
+      {
+        "company": "Kateeva",
+        "url": ""
+      },
+      {
+        "company": "OPX Biotechnologies",
+        "url": ""
+      },
+      {
+        "company": "Primus Power",
+        "url": ""
+      },
+      {
+        "company": "View",
+        "url": ""
+      },
+      {
+        "company": "SolarCity",
+        "url": ""
+      },
+      {
+        "company": "BrightSource Energy",
+        "url": ""
+      },
+      {
+        "company": "Revolution Foods",
+        "url": ""
+      },
+      {
+        "company": "Tesla",
+        "url": ""
+      },
+      {
+        "company": "Pandora",
+        "url": ""
+      },
+      {
+        "company": "PowerLight",
+        "url": ""
+      },
+      {
+        "company": "Labcyte",
+        "url": ""
+      },
+      {
+        "company": "Five Prime Therapeutics",
+        "url": ""
+      },
+      {
+        "company": "Peninsula Pharmaceuticals",
+        "url": ""
+      },
+      {
+        "company": "eMeter",
+        "url": ""
+      },
+      {
+        "company": "XDx",
+        "url": ""
+      },
+      {
+        "company": "eLoan",
+        "url": ""
+      },
+      {
+        "company": "All Portfolios",
+        "url": ""
+      },
+      {
+        "company": "Palo Alto",
+        "url": ""
+      },
+      {
+        "company": "San Francisco",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "/capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "1414 Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "186 Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "2420 Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "3CC | Third Culture Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "8 Wings Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "82VS",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "AMR Action Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ATON Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Abrams Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Accelr8",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Aceso Biotech Venture Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Acquis Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Adams, Harkness & Hill Technology Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Advaita Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Aertsen Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Allied Minds",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Alsora Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Alta Communications",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Angel Invest Boston",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Applied Equity",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Arb Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Archerman Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Archimede Ventures, Inc.",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Arctaris Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Arena Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Ascent Venture Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Athenian Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Atreides Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Audeo Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Aviv Growth Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Avon Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Axia Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Axxon Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "BRC Innovation",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Bain & Company",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Bain Capital Special Situations",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Bain Capital Tech Opportunities",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "BancBoston Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "BancBoston Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Barrington Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Beacon Equity Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Binney Street Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "BioImpact Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Biotechonomy",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Birchaven Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Black Coral Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Black Lotus Quantum Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Blade",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Blindspot Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Blue Ivy Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "BlueHub Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "BlueIO",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Bluwave Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boston Capital Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boston Community Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boston Medical Investors",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boston Millennia Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boston Seed Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boston Syndicates (BOSS)",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boston University Technology Development Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Boudica Capital, LLC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Bramalea Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Breakaway Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Breton Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Brewer Lane Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Bridge Young Things",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Broadview Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Building Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Bullhorn Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Burr, Egan, Deleage & Co",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Byte Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "CCC Alliance",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "CH Innovations",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cadorna Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cambridge SamsungPartners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Camros Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Capital Resource Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Carom Growth Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Castor Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Catalyst Health Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Chiesi Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Clearing",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ClickHouse",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Climate on the mind",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cloud Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "CloudLock",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "CodeSignal",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Codename Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coder",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cognitive Canvas",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coherent Corp",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coin Metrics",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coindera",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coinfund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coingecko",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coinigy",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coins",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cointegra",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coinvest",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Coinvestor Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Colateral",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Colby Smart",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cold Brew Labs",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Colibri",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Community Impact Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Companyon Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Corning Technology Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Creacion Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cricetus Felix Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cutlass Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "CyberJunction",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Cybernetix Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "DHM Arcadia Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "DRADS Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "DREAMERS Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "DVx Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Data Point Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Disruptive Innovation Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "DryErase Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "EQx Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Earlsfort Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "East Hill Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Edible Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "EduLab Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Egan-Managed Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Elephant",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Employment Technology Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Enron Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Envirtue Capital LLC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Equal Opportunity Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Equality Asset Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Erez Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Essex Flagship Investors Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Evans Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Eventide",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Excel Venture Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Falcon III Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Federman Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Fidelity Contrafund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Fidelity Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Fine Structure Venture",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "First Catalyst Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "First Light Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Food Retail Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Formation Venture Engineering",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "FoundersEdge",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Four Score Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "FourWinds Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "FreeMind Investments",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Fullstack Sports Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Fullstack Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Furneaux Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "GEN3 Capital Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "GPVC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Garrison",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Gartmore Investment Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Gasbuddy",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Gen3 Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Ghisallo",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Globespan Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Granite Point Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "GrayBella Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Green D Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Green Ivy Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Gryphon Management Company",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Gutbrain Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "H&Q Healthcare Investors",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "HBS Angels of Boston",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "HLM Venture Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Half Court Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Hancock Agricultural Investment Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Hancock Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Health Innovation Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "HealthTrend Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Helicase Venture",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "HighSage Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Hill City Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Huat Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Huntington Avenue Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "IBS Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "IDP Industrial Development Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "IGNIA",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Iaso Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Inflection",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Inflection Mercury Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Inflection Venture Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Innovation Bridge",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Investors of Color Network",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Investors' Harbour",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "JDRF T1D Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "JFF Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "JH Investments",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Jarvinian Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "K2 HealthVentures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "KSV Global",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Kendall Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Kestrel Venture Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Key Venture Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "King Hill Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Klarman Family Foundation",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Lambda Prime",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Lancet Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Lansing Brown Investments",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Launch",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Lee Munder Venture",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Legacy Capital Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Liberty Financial Companies, Inc",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Lime Street Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "LiquidMetal Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Longview Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "M33 Growth",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MCJ",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MEDX Ventures Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MFS Investment Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Malaika Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Martech Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MassDevelopment",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MassDevelopment's Emerging Technology Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Massachusetts Avenue Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Massachusetts Capital Resource Company",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Massachusetts General Physicians Organization (MGPO)",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mast Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Maxwell Biotech Venture Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mayflower",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mayfly Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "MedScience Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Medtech Convergence Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Megunticook Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mercator Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Milk Street Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mission Springs Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mithra Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Momentum Equity Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mount Nebo Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Mueller Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Nest.Bio Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Netcapital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "New England Venture Capital Association",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "New England Venture Network",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "New Profit Inc.",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Newpath Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Nobska Point Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Norfolk Green Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "North Hill Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "O'Leary Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Old Ironsides Energy",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Olive Tree Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "OpenView",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Orion Healthcare Equity Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Osbon Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Overall Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Oxford Bioscience Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "P74 Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "PAR Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "PJC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "POD Holding",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Pacific Lake Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Partners Innovation Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Performant Capital Partners, LLC",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Perkins Cove Partner",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Permit Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Petri",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Pilot House Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Polaris Founders Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Polaris Growth Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Powerhouse Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Progress Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Project X",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Propeller",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Provident Healthcare Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Psion Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "PureTech Health",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Putnam Investments",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Quantum Angels",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "RBC Dain Rauscher",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "RTK Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Raiz Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Raptor Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "RavenRock",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Reinventure Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Relay Investments",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Relentless Consumer Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Riga Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "RockPort Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Rose Park Advisors",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Sandstone Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Schooner Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "SeaAhead",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Seguin Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ShawSpring Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Shawmut Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Shepherd Kaplan Krochuk",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Shields Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Sigma Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Sigma Prime Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "SilverArc Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Sky Ventures Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Solasta Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Spindle Capital Investments",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Spinnaker Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Springhood",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Stackpoint Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Stafford Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Stanley Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Startup Costa Rica",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "State Street Global Advisors",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Step Function",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Step Function Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Sternhill Associates",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Stevens Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Suffolk Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Sunley House Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Synthesis Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Taurus Investment Holdings",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Techno Venture Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Tekla Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Tenon Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "The Bollard Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "The Graduate Syndicate",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "The Impact Seat",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "The Jha Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "The Stata Family Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "The Still River Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "The Yard Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Third Screen Media",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ThornTree Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Three Curve Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "ThreeHill Capital Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "TigerGene",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Triblock",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Tudor Growth Equity",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Tudor Private Equity Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Tudor Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Tycoon Venture Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "UBMB",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Untamed Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Upstream Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "VIMAC Milestone Medical Fund",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "VT Technology Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Valspring Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Vectis Healthcare & Life Sciences Fund II",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Vector Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Velocity Equity Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Ventac Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Venture Lane",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Venus Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Vibe Bio",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Vimac Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Vinyl Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Visible Hands",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Visible Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Water Bear Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Weston Presidio Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Whale Rock Capital Management",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Whittier Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "WindSail Capital Group",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Winter Street Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Workshop Venture Partners",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "XFactor Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Xontogeny",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "Zero Stage Capital",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "mTerra Ventures",
+    "country": "United States",
+    "investments": []
+  },
+  {
+    "name": "quadraScope",
+    "country": "United States",
+    "investments": []
   }
 ]

@@ -1,0 +1,29 @@
+# LinkedIn connections (sensitive)
+connections/
+
+# Generated results
+intro_results.csv
+intro_results_example.csv
+
+# Debug scripts
+debug_slugs.py
+check_connections.py
+test_output.py
+
+# Flask app database
+app.db
+instance/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

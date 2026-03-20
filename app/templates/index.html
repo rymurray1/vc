@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block title %}VC Intro Paths{% endblock %}
+
+{% block content %}
+<div class="home-container">
+    <div class="home-card">
+        <h1>VC Intro Paths</h1>
+        <p class="subtitle">Find warm introductions to deep tech / green tech / energy tech VCs</p>
+
+        <form method="POST" class="username-form">
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input
+                    type="text"
+                    id="username"
+                    name="username"
+                    placeholder="matt.millard"
+                    required
+                    autofocus
+                >
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input
+                    type="password"
+                    id="password"
+                    name="password"
+                    placeholder="••••••••"
+                    required
+                >
+            </div>
+            <button type="submit" class="btn btn-primary btn-large">Sign In</button>
+        </form>
+
+        <div class="home-info">
+            <h3>How it works:</h3>
+            <ol>
+                <li>Enter your name</li>
+                <li>Install the bookmarklet to sync your LinkedIn connections</li>
+                <li>Filter by VC focus area (deep tech, green tech, energy tech)</li>
+                <li>See warm intro paths to VCs</li>
+                <li>Download as CSV</li>
+            </ol>
+        </div>
+    </div>
+</div>
+{% endblock %}

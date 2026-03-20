@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warm Intro Finder</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 40px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+
+        .founder-info {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 8px;
+        }
+
+        .founder-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .founder-link:hover {
+            text-decoration: underline;
+        }
+
+        .subtitle {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 0;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .tab-btn {
+            padding: 12px 20px;
+            border: none;
+            background: none;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            color: #999;
+            border-bottom: 3px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .tab-btn.active {
+            color: #667eea;
+            border-bottom-color: #667eea;
+        }
+
+        .tab-btn:hover {
+            color: #667eea;
+        }
+
+        .search-box {
+            margin-bottom: 30px;
+            display: none;
+        }
+
+        .search-box.active {
+            display: block;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 14px 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.2s;
+        }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .results {
+            display: grid;
+            gap: 20px;
+        }
+
+        .intro-card {
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 20px;
+            transition: all 0.2s;
+        }
+
+        .intro-card:hover {
+            border-color: #667eea;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+        }
+
+        .vc-name {
+            font-size: 18px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .ma-badge {
+            background: #e0f2fe;
+            color: #0369a1;
+            font-size: 11px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+
+        .vc-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .tag {
+            background: #f0f0f0;
+            color: #666;
+            font-size: 12px;
+            padding: 4px 10px;
+            border-radius: 4px;
+        }
+
+        .tag.energy {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .connections-list {
+            margin-top: 12px;
+        }
+
+        .connection-item {
+            background: #f9f9f9;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        .connection-name {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .connection-name a {
+            color: #667eea;
+            text-decoration: none;
+        }
+
+        .connection-name a:hover {
+            text-decoration: underline;
+        }
+
+        .company {
+            color: #666;
+            font-size: 13px;
+            margin-top: 4px;
+        }
+
+        .round {
+            color: #999;
+            font-size: 12px;
+            margin-top: 2px;
+        }
+
+        .hq {
+            font-size: 13px;
+            color: #666;
+            margin-top: 4px;
+        }
+
+        .no-results {
+            text-align: center;
+            color: #999;
+            padding: 40px 20px;
+            font-size: 16px;
+        }
+
+        .stats {
+            background: #f5f5f5;
+            padding: 16px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 16px;
+            text-align: center;
+        }
+
+        .stat {
+            font-size: 12px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .stat-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: #667eea;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 Warm Intro Finder</h1>
+            <div class="founder-info">
+                <span>For</span>
+                <a href="https://www.linkedin.com/in/matthew-millard" class="founder-link">Matthew Millard</a>
+                <span>@</span>
+                <span style="font-weight: 600;">CapyBara Energy</span>
+            </div>
+            <p class="subtitle">Find connections who can introduce you to energy VCs</p>
+        </div>
+
+        <div class="stats" id="stats"></div>
+
+        <div class="tabs">
+            <button class="tab-btn active" data-tab="vc-search">Search by VC</button>
+            <button class="tab-btn" data-tab="person-search">Search by Person</button>
+        </div>
+
+        <div class="search-box active" id="vc-search">
+            <input
+                type="text"
+                id="vcSearch"
+                placeholder="Search for a VC (e.g., 'Breakthrough Energy', 'Lowercarbon')"
+                autofocus
+            >
+        </div>
+
+        <div class="search-box" id="person-search">
+            <input
+                type="text"
+                id="personSearch"
+                placeholder="Search for a connection (e.g., 'Sahag Voskian', 'Mircea Dincă')"
+            >
+        </div>
+
+        <div class="results" id="results"></div>
+    </div>
+
+    <script>
+        let warmIntroData = null;
+        let linkedinData = null;
+
+        // Load data
+        Promise.all([
+            fetch('warm_intro_map.json').then(r => r.json()),
+            fetch('linkedin_vc_map_all.json').then(r => r.json())
+        ])
+            .then(([warmIntro, linkedin]) => {
+                warmIntroData = warmIntro;
+                linkedinData = linkedin;
+                renderStats();
+            })
+            .catch(err => {
+                document.getElementById('results').innerHTML =
+                    `<p class="no-results">Error loading data: ${err.message}</p>`;
+            });
+
+        function renderStats() {
+            const stats = warmIntroData.summary;
+            const html = `
+                <div class="stat">
+                    <div class="stat-value">${stats.total_connections_analyzed}</div>
+                    <div>Connections</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">${stats.energy_relevant_vc_intros}</div>
+                    <div>Energy VCs</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">${stats.total_unique_vcs_accessible}</div>
+                    <div>Total VCs</div>
+                </div>
+            `;
+            document.getElementById('stats').innerHTML = html;
+        }
+
+        document.getElementById('vcSearch').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+
+            if (!query) {
+                document.getElementById('results').innerHTML =
+                    '<p class="no-results">Enter a VC name to search</p>';
+                return;
+            }
+
+            const allVCs = { ...warmIntroData.energy_vcs, ...warmIntroData.other_vcs };
+            const matches = Object.entries(allVCs).filter(([name]) =>
+                name.toLowerCase().includes(query)
+            );
+
+            if (matches.length === 0) {
+                document.getElementById('results').innerHTML =
+                    '<p class="no-results">No VCs found. Try a different search.</p>';
+                return;
+            }
+
+            // Sort: energy VCs first, then by MA presence
+            matches.sort((a, b) => {
+                const aIsEnergy = a[0] in warmIntroData.energy_vcs ? 0 : 1;
+                const bIsEnergy = b[0] in warmIntroData.energy_vcs ? 0 : 1;
+                if (aIsEnergy !== bIsEnergy) return aIsEnergy - bIsEnergy;
+                return b[1].ma_presence - a[1].ma_presence;
+            });
+
+            const html = matches.map(([vcName, vcInfo]) => {
+                const isEnergy = vcName in warmIntroData.energy_vcs;
+                const intros = vcInfo.intros_available || [];
+
+                const tagsHtml = vcInfo.tags.map(tag => {
+                    const isEnergyTag = ['energy', 'energy tech', 'clean energy', 'climate', 'green tech']
+                        .includes(tag.toLowerCase());
+                    return `<span class="tag ${isEnergyTag ? 'energy' : ''}">${tag}</span>`;
+                }).join('');
+
+                const connectionsHtml = intros.map(intro => `
+                    <div class="connection-item">
+                        <div class="connection-name">
+                            <a href="${intro.linkedin}" target="_blank">${intro.connection_name}</a>
+                        </div>
+                        <div class="company">📌 ${intro.via_company}</div>
+                        <div class="round">💰 ${intro.relationship}</div>
+                    </div>
+                `).join('');
+
+                return `
+                    <div class="intro-card">
+                        <div class="vc-name">
+                            ${vcName}
+                            ${vcInfo.ma_presence ? '<span class="ma-badge">🏙️ MA</span>' : ''}
+                        </div>
+                        <div class="vc-tags">${tagsHtml}</div>
+                        <div class="hq">📍 ${vcInfo.hq}</div>
+                        <div class="connections-list">
+                            <strong style="font-size: 13px; color: #666;">Intro paths (${intros.length}):</strong>
+                            ${connectionsHtml}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('results').innerHTML = html;
+        });
+
+        // Tab switching
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const tab = e.target.dataset.tab;
+
+                // Update tabs
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                e.target.classList.add('active');
+
+                // Update search boxes
+                document.querySelectorAll('.search-box').forEach(box => box.classList.remove('active'));
+                document.getElementById(tab).classList.add('active');
+
+                // Clear results
+                document.getElementById('results').innerHTML = '';
+
+                // Focus input
+                if (tab === 'vc-search') {
+                    document.getElementById('vcSearch').focus();
+                    document.getElementById('vcSearch').value = '';
+                    document.getElementById('results').innerHTML =
+                        '<p class="no-results">Enter a VC name to search</p>';
+                } else {
+                    document.getElementById('personSearch').focus();
+                    document.getElementById('personSearch').value = '';
+                    document.getElementById('results').innerHTML =
+                        '<p class="no-results">Enter a person name to search</p>';
+                }
+            });
+        });
+
+        // Person search
+        document.getElementById('personSearch').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+
+            if (!query) {
+                document.getElementById('results').innerHTML =
+                    '<p class="no-results">Enter a person name to search</p>';
+                return;
+            }
+
+            // Find matching person in LinkedIn data
+            const matchingPeople = Object.entries(linkedinData || {}).filter(([name]) =>
+                name.toLowerCase().includes(query)
+            );
+
+            if (matchingPeople.length === 0) {
+                document.getElementById('results').innerHTML =
+                    '<p class="no-results">Person not found in network.</p>';
+                return;
+            }
+
+            // For each match, show all their companies and VCs
+            const html = matchingPeople.map(([personName, personData]) => {
+                const allVCs = [];
+                const companies = personData.companies_founded || [];
+                const rolesAtOthers = personData.roles_at_other_companies || [];
+
+                // Collect VCs from founded companies
+                companies.forEach(company => {
+                    (company.investors || []).forEach(investor => {
+                        allVCs.push({
+                            vc_name: investor.vc_name,
+                            company: company.name,
+                            round: investor.round,
+                            type: 'founder'
+                        });
+                    });
+                });
+
+                // Collect VCs from roles at other companies
+                rolesAtOthers.forEach(role => {
+                    (role.company_investors || []).forEach(investor => {
+                        allVCs.push({
+                            vc_name: investor.vc_name,
+                            company: role.company,
+                            round: investor.round,
+                            type: 'team'
+                        });
+                    });
+                });
+
+                if (allVCs.length === 0) {
+                    return `
+                        <div class="intro-card">
+                            <div class="vc-name">
+                                <a href="${personData.linkedin || '#'}" target="_blank" style="color: #333; text-decoration: none;">
+                                    ${personName}
+                                </a>
+                            </div>
+                            <p style="color: #999; font-size: 14px;">No VC investments found.</p>
+                        </div>
+                    `;
+                }
+
+                // Group by company
+                const byCompany = {};
+                allVCs.forEach(vc => {
+                    if (!byCompany[vc.company]) byCompany[vc.company] = [];
+                    byCompany[vc.company].push(vc);
+                });
+
+                const companiesHtml = Object.entries(byCompany).map(([company, vcs]) => `
+                    <div style="margin-top: 16px; padding-top: 16px; border-top: 1px solid #f0f0f0;">
+                        <div style="font-weight: 600; color: #333; margin-bottom: 12px; font-size: 14px;">
+                            📌 ${company}
+                        </div>
+                        <div style="display: grid; gap: 8px;">
+                            ${vcs.map(vc => {
+                                const allVCsData = { ...warmIntroData.energy_vcs, ...warmIntroData.other_vcs };
+                                const vcInfo = allVCsData[vc.vc_name] || {};
+                                const isEnergy = vc.vc_name in warmIntroData.energy_vcs;
+
+                                return `
+                                    <div style="background: #f9f9f9; padding: 10px; border-radius: 6px; font-size: 13px;">
+                                        <div style="font-weight: 600; color: #333;">
+                                            ${isEnergy ? '⚡ ' : ''}${vc.vc_name}
+                                        </div>
+                                        <div style="color: #999; font-size: 12px; margin-top: 4px;">
+                                            ${vc.round}
+                                        </div>
+                                    </div>
+                                `;
+                            }).join('')}
+                        </div>
+                    </div>
+                `).join('');
+
+                return `
+                    <div class="intro-card">
+                        <div class="vc-name">
+                            <a href="${personData.linkedin || '#'}" target="_blank" style="color: #667eea; text-decoration: none;">
+                                ${personName}
+                            </a>
+                        </div>
+                        <div style="font-size: 13px; color: #999; margin-bottom: 4px;">
+                            ${companies.length} company/companies founded • ${allVCs.length} VC relationships
+                        </div>
+                        ${companiesHtml}
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('results').innerHTML = html;
+        });
+
+        // Show initial message
+        document.getElementById('results').innerHTML =
+            '<p class="no-results">Enter a VC name to search</p>';
+    </script>
+</body>
+</html>

@@ -1,0 +1,626 @@
+{
+  "Sahag Voskian": {
+    "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+    "companies_founded": [
+      {
+        "name": "Verdox",
+        "description": "Carbon capture startup using electrochemical technology (Electro-Swing Adsorption) to remove CO2 from industrial emissions and air with 70% energy savings",
+        "investors": [
+          {"vc_name": "Breakthrough Energy Ventures", "round": "Series C"},
+          {"vc_name": "Prelude Ventures", "round": "Series C"},
+          {"vc_name": "Lowercarbon Capital", "round": "Series C"},
+          {"vc_name": "Norsk Hydro", "round": "Series C"},
+          {"vc_name": "Prime Impact Fund", "round": "Seed"},
+          {"vc_name": "XPRIZE Foundation", "round": "Grant"},
+          {"vc_name": "National Science Foundation", "round": "Grant"},
+          {"vc_name": "Massachusetts Clean Energy Center", "round": "Grant"}
+        ]
+      }
+    ]
+  },
+  "Jennifer Le Blond": {
+    "linkedin": "https://www.linkedin.com/in/jennifer-le-blond",
+    "companies_founded": []
+  },
+  "Joshua Martin": {
+    "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+    "companies_founded": [
+      {
+        "name": "Fortify",
+        "description": "Full-stack materials science and additive manufacturing company specializing in composite 3D printing with digital composite materials (DCM) platform",
+        "investors": [
+          {"vc_name": "Accel", "round": "Series A"},
+          {"vc_name": "Cota Capital", "round": "Series B"},
+          {"vc_name": "Neotribe", "round": "Series A, Series B"},
+          {"vc_name": "Prelude Ventures", "round": "Series A, Series B"},
+          {"vc_name": "Mainspring Capital Partners", "round": "Series A"},
+          {"vc_name": "Ocean Azul Partners", "round": "Series B"},
+          {"vc_name": "Lockheed Martin Ventures", "round": "Series C"},
+          {"vc_name": "RTX Ventures (Raytheon Technologies)", "round": "Series C"},
+          {"vc_name": "In-Q-Tel (IQT)", "round": "Strategic Investment"},
+          {"vc_name": "Rogers Corporation", "round": "Strategic Partner"}
+        ]
+      }
+    ]
+  },
+  "Anthony Balladon": {
+    "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+    "companies_founded": [
+      {
+        "name": "Phoenix Tailings",
+        "description": "Metals-refining company that transforms mining waste (tailings) into usable rare earth and critical metals through a proprietary zero-waste, low-emission process",
+        "investors": [
+          {"vc_name": "Envisioning Partners", "round": "Series B (Lead)"},
+          {"vc_name": "Escape Velocity", "round": "Series B"},
+          {"vc_name": "Yamaha Motor Ventures", "round": "Series B"},
+          {"vc_name": "BMW i Ventures", "round": "Series B"},
+          {"vc_name": "Toba Capital", "round": "Series B"},
+          {"vc_name": "Old Silver VC", "round": "Series B"},
+          {"vc_name": "MPower Partners", "round": "Series B"},
+          {"vc_name": "Builders Vision", "round": "Series B"},
+          {"vc_name": "Presidio (Sumitomo Corporation)", "round": "Series B"},
+          {"vc_name": "Olive Tree Capital", "round": "Series B"},
+          {"vc_name": "Eni Next", "round": "Series B-3"},
+          {"vc_name": "Geodesic Alliance Fund", "round": "Series B-3"},
+          {"vc_name": "Traxys", "round": "Series B-3"},
+          {"vc_name": "Aether VC", "round": "Series B-3"}
+        ]
+      }
+    ]
+  },
+  "Paloma Gonzalez-Rojas": {
+    "linkedin": "https://www.linkedin.com/in/paloma-gonzalez-rojas/",
+    "full_name": "Dr. Paloma Gonzalez-Rojas",
+    "current_role": "CEO of Hera Materials",
+    "companies_founded": [
+      {
+        "name": "Hera Materials (formerly Atacama Biomaterials)",
+        "description": "Develops sustainable biomaterials and plastic alternatives made from diverse, local biomass using AI and robotics",
+        "founded_year": 2020,
+        "co_founders": ["Jose Tomas Dominguez", "Jose Antonio Gonzalez"],
+        "investors": [
+          {"vc_name": "Front Row Fund", "round": "Pre-Seed"},
+          {"vc_name": "MassVentures", "round": "Grant"},
+          {"vc_name": "Claritas Capital", "round": "Unknown"},
+          {"vc_name": "milemark.capital", "round": "Unknown"},
+          {"vc_name": "Greentown Labs", "round": "Unknown"}
+        ]
+      }
+    ]
+  },
+  "Hani Azzam": {
+    "linkedin": "https://www.linkedin.com/in/hani-azzam-90b5764b/",
+    "full_name": "Hani Azzam",
+    "current_role": "Vice President at Silicon Valley Bank; Founder of Viaka",
+    "companies_founded": [
+      {
+        "name": "Viaka",
+        "description": "Premium member network and ecosystem connecting founders, investors, and operators in the MENA region and globally",
+        "founded_year": null,
+        "co_founders": ["Reem Goussous"],
+        "investors": []
+      },
+      {
+        "name": "Habibi Worldwide",
+        "description": "Social enterprise creating Palestinian-inspired socks that support entrepreneurship in Palestine",
+        "founded_year": 2018,
+        "co_founders": [],
+        "investors": []
+      }
+    ]
+  },
+  "Giang Hoang": {
+    "linkedin": "https://www.linkedin.com/in/gianghth",
+    "companies_founded": [
+      {
+        "name": "HKG Energy",
+        "description": "Material science and nanotechnology company developing Terra Silicon, a next-generation silicon anode material for high-performance, low-cost lithium-ion batteries.",
+        "investors": [
+          {"vc_name": "Massachusetts Clean Energy Center (MassCEC)", "round": "Grant (DICES Grant)"},
+          {"vc_name": "AIS4EE", "round": "Equity"},
+          {"vc_name": "Enterprise Singapore", "round": "Equity"}
+        ]
+      }
+    ]
+  },
+  "Alison Sander": {
+    "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+    "companies_founded": [
+      {
+        "name": "Plan A",
+        "description": "AI-powered carbon management and decarbonization platform for businesses committed to sustainability",
+        "investors": [
+          {"vc_name": "Lightspeed Venture Partners", "round": "Series A"},
+          {"vc_name": "HV Capital", "round": "Series A"},
+          {"vc_name": "Keen Venture Partners", "round": "Series A"},
+          {"vc_name": "Visa", "round": "Series A"},
+          {"vc_name": "Deutsche Bank", "round": "Series A"},
+          {"vc_name": "Opera Tech Ventures (BNP Paribas VC)", "round": "Series A"}
+        ]
+      },
+      {
+        "name": "SPUN (Society for the Protection of Underground Networks)",
+        "description": "Nonprofit organization working to map and protect the world's fungal networks vital for climate and healthy ecosystems.",
+        "investors": [
+          {"vc_name": "Schmidt Family Foundation", "round": "Grant ($3M)"},
+          {"vc_name": "Rivian Foundation", "round": "Grant"},
+          {"vc_name": "National Geographic Society", "round": "Grant"},
+          {"vc_name": "The Grantham Foundation", "round": "Grant"}
+        ]
+      }
+    ]
+  },
+  "Michael Neil Armbruster": {
+    "linkedin": "https://www.linkedin.com/in/michael-armbruster-8b63b241/",
+    "companies_founded": [
+      {
+        "name": "INCEPT 3D",
+        "description": "3D printing service and fulfillment company with fleet of 100+ industrial-level 3D printers based in San Diego",
+        "investors": []
+      },
+      {
+        "name": "Formfactories",
+        "description": "Software platform for managing and automating 3D printing operations",
+        "investors": []
+      }
+    ]
+  },
+  "Gino Karlo Delos Reyes": {
+    "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+    "companies_founded": [
+      {
+        "name": "Fortify",
+        "description": "Digital composite manufacturing company specializing in aligned reinforced carbon fiber composites using patented 3D printing and magnetics process",
+        "investors": [
+          {"vc_name": "Accel", "round": "Series A"},
+          {"vc_name": "Neotribe Ventures", "round": "Seed"},
+          {"vc_name": "Prelude Ventures", "round": "Seed"},
+          {"vc_name": "Mainspring Capital", "round": "Seed"},
+          {"vc_name": "Ocean Azul Partners", "round": "Seed"},
+          {"vc_name": "McCune Capital", "round": "Seed"},
+          {"vc_name": "Neotribe", "round": "Series A"},
+          {"vc_name": "Mainspring Capital Partners", "round": "Series A"},
+          {"vc_name": "Cota Capital", "round": "Series B"},
+          {"vc_name": "Accel Partners", "round": "Series B"},
+          {"vc_name": "Lockheed Martin Ventures", "round": "Series C"},
+          {"vc_name": "RTX Ventures", "round": "Series C"},
+          {"vc_name": "U.S. Department of Energy", "round": "Series C"},
+          {"vc_name": "IQT", "round": "Series C"}
+        ]
+      }
+    ]
+  },
+  "Dan Streetman": {
+    "linkedin": "https://www.linkedin.com/in/danstreetman/",
+    "note": "CEO of Tanium, not a founder of VC-funded startups",
+    "companies_founded": []
+  },
+  "Steele Divitto": {
+    "linkedin": "https://www.linkedin.com/in/steeledivitto/",
+    "companies_founded": [
+      {
+        "name": "The Steele Group",
+        "description": "Commercial real estate advisory firm providing full-life cycle solutions for innovative organizations",
+        "investors": []
+      }
+    ]
+  },
+  "Eric Ingersoll": {
+    "linkedin": "https://www.linkedin.com/in/eric-ingersoll-35095062/",
+    "companies_founded": [
+      {
+        "name": "General Compression",
+        "description": "Compressed air energy storage technology company providing utility-scale storage for renewable electricity",
+        "investors": [
+          {"vc_name": "US Renewables Group", "round": "Series A"},
+          {"vc_name": "Duke Energy", "round": "Series A"},
+          {"vc_name": "Northwater Capital Management", "round": "Series B"},
+          {"vc_name": "Serious Change L.P.", "round": "Series B"},
+          {"vc_name": "ConocoPhillips Company", "round": "Series B"}
+        ]
+      },
+      {
+        "name": "TerraPraxis",
+        "description": "Climate solution accelerator and nonprofit that designs scalable solutions for decarbonization",
+        "investors": [
+          {"vc_name": "Founders Pledge", "round": "Grant"}
+        ]
+      }
+    ]
+  },
+  "Greg Cipriano": {
+    "linkedin": "https://www.linkedin.com/in/gregcipriano/",
+    "companies_founded": [
+      {
+        "name": "WattJoule",
+        "description": "Liquid electrical energy storage system developer focused on vanadium redox flow batteries for renewable energy storage",
+        "investors": [
+          {"vc_name": "Massachusetts Clean Energy Center", "round": "Grant"},
+          {"vc_name": "MegaJoule Ventures", "round": "Unknown"},
+          {"vc_name": "U.S. Department of Energy", "round": "Government Grant"},
+          {"vc_name": "U.S. Department of Defense", "round": "Government Grant"},
+          {"vc_name": "National Science Foundation", "round": "Government Grant"}
+        ]
+      }
+    ]
+  },
+  "Kevin DiGenova": {
+    "linkedin": "https://www.linkedin.com/in/kevin-digenova-1a488a14/",
+    "companies_founded": [
+      {
+        "name": "Nova Quest, LLC",
+        "description": "Systems engineering firm specializing in complex inter-disciplinary technologies including grid-scale flow batteries, energy storage systems, robotics, and fuel efficiency",
+        "investors": []
+      }
+    ]
+  },
+  "Tim Grejtak": {
+    "linkedin": "https://www.linkedin.com/in/timgrejtak/",
+    "companies_founded": [
+      {
+        "name": "Restora Homes",
+        "description": "All-electric home energy solutions and optimization services for residential properties",
+        "investors": []
+      }
+    ]
+  },
+  "Galen Nelson": {
+    "linkedin": "https://www.linkedin.com/in/galen-nelson-473ba719/",
+    "companies_founded": [
+      {
+        "name": "Ballot Initiative Strategy Center",
+        "description": "Nonprofit organization focused on direct democracy, civic engagement, and policy advocacy",
+        "investors": [
+          {"vc_name": "Ford Foundation", "round": "Grant"},
+          {"vc_name": "Open Society Institute (George Soros)", "round": "Grant"}
+        ]
+      }
+    ]
+  },
+  "Kyra Holmquest": {
+    "linkedin": "https://www.linkedin.com/in/kyra-holmquest-65155a36/",
+    "companies_founded": [
+      {
+        "name": "Nova Quest, LLC",
+        "description": "Systems engineering firm specializing in energy storage, robotics, and engineering design",
+        "investors": []
+      }
+    ]
+  },
+  "Jeff Shih-chung Matrician": {
+    "linkedin": "https://www.linkedin.com/in/jeff-shih-chung-matrician-59750642/",
+    "companies_founded": [
+      {
+        "name": "Matrician Acupuncture & Herbal Medicine",
+        "description": "Licensed acupuncture and traditional Chinese medicine practice",
+        "investors": []
+      }
+    ],
+    "roles_at_other_companies": [
+      {
+        "company": "CapyBara Energy",
+        "role": "Operations & Outreach Coordinator",
+        "company_description": "Utility-scale energy storage using aqueous supercapacitors with sustainable materials",
+        "company_investors": [
+          {"vc_name": "Massachusetts Manufacturing Innovation Initiative (M2I2)", "round": "Grant"},
+          {"vc_name": "Massachusetts Clean Energy Center (MassCEC)", "round": "Amplify Mass Grant"}
+        ]
+      }
+    ]
+  },
+  "Fabrizio Balestri": {
+    "linkedin": "https://www.linkedin.com/in/fabriziobalestri/",
+    "companies_founded": [
+      {
+        "name": "Student Loan Xpress",
+        "description": "Student loan lender founded in 2002, became top 12 national lender within 3 years",
+        "investors": [
+          {"vc_name": "CIT Inc.", "round": "Acquisition", "note": "Acquired in 2005 for $400 million"}
+        ]
+      },
+      {
+        "name": "Education Funding Company",
+        "description": "Student finance lender founded in 1994",
+        "investors": [
+          {"vc_name": "American Express", "round": "Acquisition"}
+        ]
+      },
+      {
+        "name": "EDVISIO",
+        "description": "Educational lending platform founded in 2007 for tuition credit programs",
+        "investors": []
+      }
+    ]
+  },
+  "Tim Vosburgh": {
+    "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+    "companies_founded": [
+      {
+        "name": "Coulomb Technology",
+        "description": "Battery cell developer for energy storage, backup power, and e-mobility using zinc, manganese dioxide, and seawater",
+        "investors": [
+          {"vc_name": "Innovation Crossroads (Oak Ridge National Laboratory)", "round": "Grant"},
+          {"vc_name": "CalSEED (California)", "round": "Grant"},
+          {"vc_name": "New Jersey Seed Grant", "round": "Grant"},
+          {"vc_name": "Argonne National Laboratory (Cradle to Commerce Program)", "round": "Grant"},
+          {"vc_name": "New Jersey Commission on Science, Innovation and Technology", "round": "Grant"},
+          {"vc_name": "ChargeUp Accelerator", "round": "Accelerator"},
+          {"vc_name": "BRITE Energy Innovators", "round": "Accelerator"},
+          {"vc_name": "CleanTech Open", "round": "Accelerator"},
+          {"vc_name": "SPARK Cleantech", "round": "Accelerator"}
+        ]
+      }
+    ]
+  },
+  "Jose LaSalle": {
+    "linkedin": "https://www.linkedin.com/in/joselasalle/",
+    "companies_founded": [
+      {
+        "name": "florrent",
+        "description": "Bio-based materials and energy storage company developing hemp-derived supercapacitors for grid power quality and reliability",
+        "investors": [
+          {"vc_name": "MassVentures", "round": "Seed-2"},
+          {"vc_name": "Raven Indigenous Capital Partners", "round": "Seed-2"},
+          {"vc_name": "MassMutual Catalyst Fund", "round": "Seed-2"},
+          {"vc_name": "Boston Impact Initiative", "round": "Seed-2"},
+          {"vc_name": "Sky Foundation", "round": "Seed-2"},
+          {"vc_name": "Elbezius", "round": "Seed-2"},
+          {"vc_name": "Maroon Venture Partners Fund", "round": "Seed-2"},
+          {"vc_name": "AIN Ventures", "round": "Pre-Seed"},
+          {"vc_name": "NextFab Ventures", "round": "Seed"},
+          {"vc_name": "Collab Fund", "round": "Seed"}
+        ]
+      }
+    ]
+  },
+  "Sammie Hasen": {
+    "linkedin": "https://www.linkedin.com/in/sammie-hasen/",
+    "companies_founded": [
+      {
+        "name": "Medsur Inc.",
+        "description": "FemTech company that makes BCase, a birth control pill storage case that attaches to the back of a phone",
+        "investors": []
+      }
+    ]
+  },
+  "Jungwoo Lee": {
+    "linkedin": "https://www.linkedin.com/in/jzlee/",
+    "companies_founded": [
+      {
+        "name": "South 8 Technologies",
+        "description": "Advanced battery technology company developing LiGas liquefied gas electrolyte for lithium-ion batteries operating across extreme temperature ranges (-60 to +60°C)",
+        "investors": [
+          {"vc_name": "Anzu Partners", "round": "Series A"},
+          {"vc_name": "LG Technology Ventures", "round": "Multiple rounds"},
+          {"vc_name": "Shell Ventures", "round": "Multiple rounds"},
+          {"vc_name": "Foothill Ventures", "round": "Multiple rounds"},
+          {"vc_name": "Lockheed Martin Ventures", "round": "2023"},
+          {"vc_name": "W. L. Gore & Associates", "round": "2025"},
+          {"vc_name": "IQT", "round": "2025"},
+          {"vc_name": "Taiyo Nippon Sanso", "round": "Multiple rounds"},
+          {"vc_name": "Porsche Ventures", "round": "Multiple rounds"}
+        ]
+      }
+    ]
+  },
+  "Quoc Pham": {
+    "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+    "companies_founded": [
+      {
+        "name": "Electra",
+        "description": "Clean iron technology company developing low-temperature electrochemical process to refine iron ore into 99% pure iron using renewable energy",
+        "investors": [
+          {"vc_name": "Capricorn Investment Group", "round": "Series B"},
+          {"vc_name": "Temasek Holdings", "round": "Series B"},
+          {"vc_name": "Breakthrough Energy Ventures", "round": "Series B"},
+          {"vc_name": "BHP Ventures", "round": "Series B"},
+          {"vc_name": "Lowercarbon Capital", "round": "Series B"},
+          {"vc_name": "S2G Investments", "round": "Series B"},
+          {"vc_name": "Builders Vision", "round": "Series B"},
+          {"vc_name": "Collaborative Fund", "round": "Series B"},
+          {"vc_name": "Earth Venture Capital", "round": "Series B"}
+        ]
+      },
+      {
+        "name": "QUOC",
+        "description": "Premium cycling shoe brand focused on road, gravel, and urban cycling",
+        "investors": []
+      }
+    ]
+  },
+  "Alex Nichols": {
+    "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+    "companies_founded": [
+      {
+        "name": "Mythic Therapeutics",
+        "description": "Clinical-stage biotechnology company developing antibody-drug conjugates (ADCs) for cancer treatment using proprietary FateControl technology",
+        "investors": [
+          {"vc_name": "Viking Global Investors", "round": "Series B"},
+          {"vc_name": "Venrock Healthcare Capital Partners", "round": "Series B"},
+          {"vc_name": "Foresite Capital", "round": "Series B"},
+          {"vc_name": "Perceptive Advisors", "round": "Series B"},
+          {"vc_name": "Highside Capital", "round": "Series B"},
+          {"vc_name": "First Round Capital", "round": "Seed/Early"},
+          {"vc_name": "OMX Ventures", "round": "Seed/Early"},
+          {"vc_name": "Lifeforce Capital", "round": "Seed/Early"},
+          {"vc_name": "Refactor Capital", "round": "Seed/Early"}
+        ]
+      },
+      {
+        "name": "florrent",
+        "description": "Energy storage company developing hemp-based ultracapacitors for grid stabilization and renewable energy storage",
+        "investors": [
+          {"vc_name": "MassVentures", "round": "Seed-1"},
+          {"vc_name": "Raven Indigenous Capital Partners", "round": "Seed-2"},
+          {"vc_name": "MassMutual Catalyst Fund", "round": "Seed-2"},
+          {"vc_name": "Boston Impact Initiative", "round": "Seed-2"},
+          {"vc_name": "Sky Foundation", "round": "Seed-2"},
+          {"vc_name": "Elbezius", "round": "Seed-2"},
+          {"vc_name": "Maroon Venture Partners Fund", "round": "Seed-2"},
+          {"vc_name": "The Engine", "round": "Seed"},
+          {"vc_name": "Massachusetts Technology Collaborative", "round": "Seed"}
+        ]
+      }
+    ]
+  },
+  "Axel Reinaud": {
+    "linkedin": "https://www.linkedin.com/in/netzero2050/",
+    "companies_founded": [
+      {
+        "name": "NetZero",
+        "description": "Biochar production company that converts agricultural waste into biochar for carbon removal and sustainable agriculture solutions",
+        "investors": [
+          {"vc_name": "Stellantis Ventures", "round": "Series A"},
+          {"vc_name": "L'Oréal Fund for Nature Regeneration", "round": "Series A"},
+          {"vc_name": "CMA CGM", "round": "Series A"},
+          {"vc_name": "STOA Infra & Energy", "round": "Series B"},
+          {"vc_name": "Agence Francaise de Developpement", "round": "Multi-stage"},
+          {"vc_name": "INNOVX", "round": "Multi-stage"},
+          {"vc_name": "Oikocredit", "round": "Growth"}
+        ]
+      }
+    ]
+  },
+  "Eric Eyerman": {
+    "linkedin": "https://www.linkedin.com/in/eric-eyerman-2ab39638/",
+    "note": "CEO of California Nanotechnologies Corp but did not found the company",
+    "companies_founded": []
+  },
+  "Omed Sharifi": {
+    "linkedin": "https://www.linkedin.com/in/omed-sharifi-a490259a/",
+    "companies_founded": [
+      {
+        "name": "Founders Form",
+        "description": "Strategic legal and advisory firm for startups, sports, and entertainment",
+        "investors": []
+      },
+      {
+        "name": "Shepherd AI",
+        "description": "AI-native law firm providing affordable, faster legal services for startups with no hourly billing",
+        "investors": [
+          {"vc_name": "Forum Ventures", "round": "Venture"}
+        ]
+      }
+    ]
+  },
+  "Nate Kirchhofer": {
+    "linkedin": "https://www.linkedin.com/in/natekirchhofer/",
+    "companies_founded": [
+      {
+        "name": "BioZen Batteries",
+        "description": "Develops organic redox-active electrolytes and flow batteries for utility-scale, long-duration energy storage",
+        "investors": [
+          {"vc_name": "Los Angeles Cleantech Incubator (LACI)", "round": "Seed"}
+        ]
+      }
+    ]
+  },
+  "Mircea Dincă": {
+    "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+    "companies_founded": [
+      {
+        "name": "Transaera",
+        "description": "Develops energy-efficient air conditioning systems using metal-organic frameworks (MOFs) to reduce HVAC energy consumption",
+        "investors": [
+          {"vc_name": "Energy Impact Partners", "round": "Seed"},
+          {"vc_name": "Carrier Ventures", "round": "Seed"},
+          {"vc_name": "Saint Gobain", "round": "Seed"},
+          {"vc_name": "Massachusetts Clean Energy Center (MassCEC)", "round": "Seed"},
+          {"vc_name": "Clean Energy Ventures", "round": "Seed"},
+          {"vc_name": "MassMutual Ventures", "round": "Seed"},
+          {"vc_name": "Elemental Excelerator", "round": "Seed"}
+        ]
+      }
+    ]
+  },
+  "Babu Jain": {
+    "linkedin": "https://www.linkedin.com/in/babu-jain-188470/",
+    "companies_founded": [
+      {
+        "name": "NavSemi Energy",
+        "description": "Designs and develops MCU-based power electronics systems for solar and wind applications",
+        "investors": []
+      },
+      {
+        "name": "Navia Energy",
+        "description": "Provides AI-driven renewable energy technology solutions for enhancing energy resilience and grid stability",
+        "investors": [
+          {"vc_name": "Surendra Mandava (Angel)", "round": "Angel"},
+          {"vc_name": "Los Angeles Cleantech Incubator (LACI)", "round": "Angel"}
+        ]
+      }
+    ]
+  },
+  "Anuj Saigal": {
+    "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+    "companies_founded": [
+      {
+        "name": "Dataherald",
+        "description": "Natural Language to SQL agent that enables anyone to ask complex data questions and get answers in plain English",
+        "investors": [
+          {"vc_name": "Y Combinator", "round": "W21 Batch"},
+          {"vc_name": "Bertelsmann Digital Media Investments (BDMI)", "round": "Pre-Seed"},
+          {"vc_name": "Garage Technology Ventures", "round": "Pre-Seed"}
+        ]
+      },
+      {
+        "name": "Spark",
+        "description": "AI-powered workflows for energy infrastructure; permitting intelligence and workflow solution for solar, storage, and data center developers",
+        "investors": [
+          {"vc_name": "Y Combinator", "round": "W24 Batch"},
+          {"vc_name": "AI Grant", "round": "Seed"},
+          {"vc_name": "Brex founders", "round": "Seed"},
+          {"vc_name": "Plaid founders", "round": "Seed"},
+          {"vc_name": "Helioscope founders", "round": "Seed"}
+        ]
+      }
+    ]
+  },
+  "Kevin Johnson": {
+    "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+    "companies_founded": [
+      {
+        "name": "CleanCapital",
+        "description": "Financial technology platform that makes it easy for accredited investors to invest in clean energy projects",
+        "investors": [
+          {"vc_name": "Prosper Marketplace", "round": "Series A"},
+          {"vc_name": "SeedInvest's Selections Fund", "round": "Series A"},
+          {"vc_name": "Crestwood Energy", "round": "Later Stage"},
+          {"vc_name": "Ground Squirrel Ventures", "round": "Later Stage"},
+          {"vc_name": "Manulife Investment Management Holdings", "round": "Later Stage"},
+          {"vc_name": "BlackRock", "round": "Later Stage"}
+        ]
+      },
+      {
+        "name": "Caelum Ventures",
+        "description": "Venture capital firm at the nexus of government, climate tech, and national security, investing in clean energy and power generation",
+        "investors": [
+          {"vc_name": "NEC X", "round": "Strategic Partnership"}
+        ]
+      }
+    ]
+  },
+  "Murat Aktihanoglu": {
+    "linkedin": "https://www.linkedin.com/in/murat/",
+    "companies_founded": [
+      {
+        "name": "Entrepreneurs Roundtable Accelerator (ERA)",
+        "description": "New York City's leading technology accelerator and early-stage venture capital fund, investing in 375+ startups since 2011",
+        "investors": [
+          {"vc_name": "NEC X", "round": "Fund 8 Investment"},
+          {"vc_name": "500 Startups", "round": "Portfolio Support"},
+          {"vc_name": "Atlas Venture", "round": "Portfolio Support"},
+          {"vc_name": "Bessemer Venture Partners", "round": "Portfolio Support"},
+          {"vc_name": "Blumberg Capital", "round": "Portfolio Support"},
+          {"vc_name": "First Round Capital", "round": "Portfolio Support"},
+          {"vc_name": "Lightbank", "round": "Portfolio Support"}
+        ]
+      },
+      {
+        "name": "Remarkable Ventures Climate",
+        "description": "Climate-focused investment firm supporting startups in the clean energy and climate technology sectors",
+        "investors": []
+      }
+    ]
+  }
+}

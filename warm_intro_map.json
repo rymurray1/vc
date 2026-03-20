@@ -1,0 +1,2371 @@
+{
+  "summary": {
+    "total_connections_analyzed": 35,
+    "connections_with_vc_relationships": 24,
+    "energy_relevant_vc_intros": 9,
+    "total_unique_vcs_accessible": 145
+  },
+  "energy_vcs": {
+    "Clean Energy Ventures": {
+      "tags": [
+        "energy tech",
+        "green tech"
+      ],
+      "hq": "Boston, MA",
+      "ma_presence": true,
+      "intros_available": [
+        {
+          "connection_name": "Mircea Dinc\u0103",
+          "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+          "via_company": "Transaera",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Energy Impact Partners": {
+      "tags": [
+        "energy tech"
+      ],
+      "hq": "Boston, MA",
+      "ma_presence": true,
+      "intros_available": [
+        {
+          "connection_name": "Mircea Dinc\u0103",
+          "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+          "via_company": "Transaera",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Greentown Labs": {
+      "tags": [
+        "green tech",
+        "energy tech"
+      ],
+      "hq": "Somerville, MA",
+      "ma_presence": true,
+      "intros_available": [
+        {
+          "connection_name": "Paloma Gonzalez-Rojas",
+          "linkedin": "https://www.linkedin.com/in/paloma-gonzalez-rojas/",
+          "via_company": "Hera Materials (formerly Atacama Biomaterials)",
+          "relationship": "Unknown"
+        }
+      ]
+    },
+    "Breakthrough Energy Ventures": {
+      "tags": [
+        "green tech",
+        "energy tech",
+        "deep tech"
+      ],
+      "hq": "Kirkland, WA",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Series C"
+        },
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Lowercarbon Capital": {
+      "tags": [
+        "clean energy",
+        "green tech"
+      ],
+      "hq": "United States",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Series C"
+        },
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "MassMutual Ventures": {
+      "tags": [
+        "clean energy",
+        "green tech"
+      ],
+      "hq": "United States",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Mircea Dinc\u0103",
+          "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+          "via_company": "Transaera",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Neotribe Ventures": {
+      "tags": [
+        "clean energy",
+        "green tech"
+      ],
+      "hq": "United States",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Prelude Ventures": {
+      "tags": [
+        "green tech",
+        "energy tech"
+      ],
+      "hq": "San Francisco, CA",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Series C"
+        },
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series A, Series B"
+        },
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Schmidt Family Foundation": {
+      "tags": [
+        "clean energy",
+        "green tech"
+      ],
+      "hq": "United States",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "SPUN (Society for the Protection of Underground Networks)",
+          "relationship": "Grant ($3M)"
+        }
+      ]
+    }
+  },
+  "other_vcs": {
+    "Atlas Venture": {
+      "tags": [
+        "deep tech"
+      ],
+      "hq": "Cambridge, MA",
+      "ma_presence": true,
+      "intros_available": [
+        {
+          "connection_name": "Murat Aktihanoglu",
+          "linkedin": "https://www.linkedin.com/in/murat/",
+          "via_company": "Entrepreneurs Roundtable Accelerator (ERA)",
+          "relationship": "Portfolio Support"
+        }
+      ]
+    },
+    "MassVentures": {
+      "tags": [
+        "deep tech"
+      ],
+      "hq": "Waltham, MA",
+      "ma_presence": true,
+      "intros_available": [
+        {
+          "connection_name": "Paloma Gonzalez-Rojas",
+          "linkedin": "https://www.linkedin.com/in/paloma-gonzalez-rojas/",
+          "via_company": "Hera Materials (formerly Atacama Biomaterials)",
+          "relationship": "Grant"
+        },
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        },
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed-1"
+        }
+      ]
+    },
+    "Olive Tree Capital": {
+      "tags": [
+        "venture capital"
+      ],
+      "hq": "Boston, MA",
+      "ma_presence": true,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "The Engine": {
+      "tags": [
+        "deep tech"
+      ],
+      "hq": "Cambridge, MA",
+      "ma_presence": true,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "500 Startups": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Murat Aktihanoglu",
+          "linkedin": "https://www.linkedin.com/in/murat/",
+          "via_company": "Entrepreneurs Roundtable Accelerator (ERA)",
+          "relationship": "Portfolio Support"
+        }
+      ]
+    },
+    "AI Grant": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Spark",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "AIN Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Pre-Seed"
+        }
+      ]
+    },
+    "AIS4EE": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Giang Hoang",
+          "linkedin": "https://www.linkedin.com/in/gianghth",
+          "via_company": "HKG Energy",
+          "relationship": "Equity"
+        }
+      ]
+    },
+    "Accel": {
+      "tags": [
+        "deep tech"
+      ],
+      "hq": "San Francisco, CA",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series A"
+        },
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Accel Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Aether VC": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B-3"
+        }
+      ]
+    },
+    "Agence Francaise de Developpement": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Axel Reinaud",
+          "linkedin": "https://www.linkedin.com/in/netzero2050/",
+          "via_company": "NetZero",
+          "relationship": "Multi-stage"
+        }
+      ]
+    },
+    "American Express": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Fabrizio Balestri",
+          "linkedin": "https://www.linkedin.com/in/fabriziobalestri/",
+          "via_company": "Education Funding Company",
+          "relationship": "Acquisition"
+        }
+      ]
+    },
+    "Anzu Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Argonne National Laboratory (Cradle to Commerce Program)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "BHP Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "BMW i Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "BRITE Energy Innovators": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Accelerator"
+        }
+      ]
+    },
+    "Bertelsmann Digital Media Investments (BDMI)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Dataherald",
+          "relationship": "Pre-Seed"
+        }
+      ]
+    },
+    "Bessemer Venture Partners": {
+      "tags": [
+        "deep tech"
+      ],
+      "hq": "San Francisco, CA",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Murat Aktihanoglu",
+          "linkedin": "https://www.linkedin.com/in/murat/",
+          "via_company": "Entrepreneurs Roundtable Accelerator (ERA)",
+          "relationship": "Portfolio Support"
+        }
+      ]
+    },
+    "BlackRock": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Kevin Johnson",
+          "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+          "via_company": "CleanCapital",
+          "relationship": "Later Stage"
+        }
+      ]
+    },
+    "Blumberg Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Murat Aktihanoglu",
+          "linkedin": "https://www.linkedin.com/in/murat/",
+          "via_company": "Entrepreneurs Roundtable Accelerator (ERA)",
+          "relationship": "Portfolio Support"
+        }
+      ]
+    },
+    "Boston Impact Initiative": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        },
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        }
+      ]
+    },
+    "Brex founders": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Spark",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Builders Vision": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        },
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "CIT Inc.": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Fabrizio Balestri",
+          "linkedin": "https://www.linkedin.com/in/fabriziobalestri/",
+          "via_company": "Student Loan Xpress",
+          "relationship": "Acquisition"
+        }
+      ]
+    },
+    "CMA CGM": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Axel Reinaud",
+          "linkedin": "https://www.linkedin.com/in/netzero2050/",
+          "via_company": "NetZero",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "CalSEED (California)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Capricorn Investment Group": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Carrier Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Mircea Dinc\u0103",
+          "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+          "via_company": "Transaera",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "ChargeUp Accelerator": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Accelerator"
+        }
+      ]
+    },
+    "Claritas Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Paloma Gonzalez-Rojas",
+          "linkedin": "https://www.linkedin.com/in/paloma-gonzalez-rojas/",
+          "via_company": "Hera Materials (formerly Atacama Biomaterials)",
+          "relationship": "Unknown"
+        }
+      ]
+    },
+    "CleanTech Open": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Accelerator"
+        }
+      ]
+    },
+    "Collab Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Collaborative Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "ConocoPhillips Company": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Eric Ingersoll",
+          "linkedin": "https://www.linkedin.com/in/eric-ingersoll-35095062/",
+          "via_company": "General Compression",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Cota Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series B"
+        },
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Crestwood Energy": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Kevin Johnson",
+          "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+          "via_company": "CleanCapital",
+          "relationship": "Later Stage"
+        }
+      ]
+    },
+    "Deutsche Bank": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "Plan A",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Duke Energy": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Eric Ingersoll",
+          "linkedin": "https://www.linkedin.com/in/eric-ingersoll-35095062/",
+          "via_company": "General Compression",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Earth Venture Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Elbezius": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        },
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        }
+      ]
+    },
+    "Elemental Excelerator": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Mircea Dinc\u0103",
+          "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+          "via_company": "Transaera",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Eni Next": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B-3"
+        }
+      ]
+    },
+    "Enterprise Singapore": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Giang Hoang",
+          "linkedin": "https://www.linkedin.com/in/gianghth",
+          "via_company": "HKG Energy",
+          "relationship": "Equity"
+        }
+      ]
+    },
+    "Envisioning Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B (Lead)"
+        }
+      ]
+    },
+    "Escape Velocity": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "First Round Capital": {
+      "tags": [
+        "deep tech"
+      ],
+      "hq": "Philadelphia, PA",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Seed/Early"
+        },
+        {
+          "connection_name": "Murat Aktihanoglu",
+          "linkedin": "https://www.linkedin.com/in/murat/",
+          "via_company": "Entrepreneurs Roundtable Accelerator (ERA)",
+          "relationship": "Portfolio Support"
+        }
+      ]
+    },
+    "Foothill Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "Multiple rounds"
+        }
+      ]
+    },
+    "Ford Foundation": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Galen Nelson",
+          "linkedin": "https://www.linkedin.com/in/galen-nelson-473ba719/",
+          "via_company": "Ballot Initiative Strategy Center",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Foresite Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Forum Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Omed Sharifi",
+          "linkedin": "https://www.linkedin.com/in/omed-sharifi-a490259a/",
+          "via_company": "Shepherd AI",
+          "relationship": "Venture"
+        }
+      ]
+    },
+    "Founders Pledge": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Eric Ingersoll",
+          "linkedin": "https://www.linkedin.com/in/eric-ingersoll-35095062/",
+          "via_company": "TerraPraxis",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Front Row Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Paloma Gonzalez-Rojas",
+          "linkedin": "https://www.linkedin.com/in/paloma-gonzalez-rojas/",
+          "via_company": "Hera Materials (formerly Atacama Biomaterials)",
+          "relationship": "Pre-Seed"
+        }
+      ]
+    },
+    "Garage Technology Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Dataherald",
+          "relationship": "Pre-Seed"
+        }
+      ]
+    },
+    "Geodesic Alliance Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B-3"
+        }
+      ]
+    },
+    "Ground Squirrel Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Kevin Johnson",
+          "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+          "via_company": "CleanCapital",
+          "relationship": "Later Stage"
+        }
+      ]
+    },
+    "HV Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "Plan A",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Helioscope founders": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Spark",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Highside Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "INNOVX": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Axel Reinaud",
+          "linkedin": "https://www.linkedin.com/in/netzero2050/",
+          "via_company": "NetZero",
+          "relationship": "Multi-stage"
+        }
+      ]
+    },
+    "IQT": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series C"
+        },
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "2025"
+        }
+      ]
+    },
+    "In-Q-Tel (IQT)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Strategic Investment"
+        }
+      ]
+    },
+    "Innovation Crossroads (Oak Ridge National Laboratory)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Keen Venture Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "Plan A",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "L'Or\u00e9al Fund for Nature Regeneration": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Axel Reinaud",
+          "linkedin": "https://www.linkedin.com/in/netzero2050/",
+          "via_company": "NetZero",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "LG Technology Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "Multiple rounds"
+        }
+      ]
+    },
+    "Lifeforce Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Seed/Early"
+        }
+      ]
+    },
+    "Lightbank": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Murat Aktihanoglu",
+          "linkedin": "https://www.linkedin.com/in/murat/",
+          "via_company": "Entrepreneurs Roundtable Accelerator (ERA)",
+          "relationship": "Portfolio Support"
+        }
+      ]
+    },
+    "Lightspeed Venture Partners": {
+      "tags": [
+        "deep tech"
+      ],
+      "hq": "San Francisco, CA",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "Plan A",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Lockheed Martin Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series C"
+        },
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series C"
+        },
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "2023"
+        }
+      ]
+    },
+    "Los Angeles Cleantech Incubator (LACI)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Nate Kirchhofer",
+          "linkedin": "https://www.linkedin.com/in/natekirchhofer/",
+          "via_company": "BioZen Batteries",
+          "relationship": "Seed"
+        },
+        {
+          "connection_name": "Babu Jain",
+          "linkedin": "https://www.linkedin.com/in/babu-jain-188470/",
+          "via_company": "Navia Energy",
+          "relationship": "Angel"
+        }
+      ]
+    },
+    "MPower Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Mainspring Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Mainspring Capital Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series A"
+        },
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Manulife Investment Management Holdings": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Kevin Johnson",
+          "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+          "via_company": "CleanCapital",
+          "relationship": "Later Stage"
+        }
+      ]
+    },
+    "Maroon Venture Partners Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        },
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        }
+      ]
+    },
+    "MassMutual Catalyst Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        },
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        }
+      ]
+    },
+    "Massachusetts Clean Energy Center": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Grant"
+        },
+        {
+          "connection_name": "Greg Cipriano",
+          "linkedin": "https://www.linkedin.com/in/gregcipriano/",
+          "via_company": "WattJoule",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Massachusetts Clean Energy Center (MassCEC)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Giang Hoang",
+          "linkedin": "https://www.linkedin.com/in/gianghth",
+          "via_company": "HKG Energy",
+          "relationship": "Grant (DICES Grant)"
+        },
+        {
+          "connection_name": "Mircea Dinc\u0103",
+          "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+          "via_company": "Transaera",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Massachusetts Technology Collaborative": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "McCune Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "MegaJoule Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Greg Cipriano",
+          "linkedin": "https://www.linkedin.com/in/gregcipriano/",
+          "via_company": "WattJoule",
+          "relationship": "Unknown"
+        }
+      ]
+    },
+    "NEC X": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Kevin Johnson",
+          "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+          "via_company": "Caelum Ventures",
+          "relationship": "Strategic Partnership"
+        },
+        {
+          "connection_name": "Murat Aktihanoglu",
+          "linkedin": "https://www.linkedin.com/in/murat/",
+          "via_company": "Entrepreneurs Roundtable Accelerator (ERA)",
+          "relationship": "Fund 8 Investment"
+        }
+      ]
+    },
+    "National Geographic Society": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "SPUN (Society for the Protection of Underground Networks)",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "National Science Foundation": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Grant"
+        },
+        {
+          "connection_name": "Greg Cipriano",
+          "linkedin": "https://www.linkedin.com/in/gregcipriano/",
+          "via_company": "WattJoule",
+          "relationship": "Government Grant"
+        }
+      ]
+    },
+    "Neotribe": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series A, Series B"
+        },
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "New Jersey Commission on Science, Innovation and Technology": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "New Jersey Seed Grant": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "NextFab Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Norsk Hydro": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Series C"
+        }
+      ]
+    },
+    "Northwater Capital Management": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Eric Ingersoll",
+          "linkedin": "https://www.linkedin.com/in/eric-ingersoll-35095062/",
+          "via_company": "General Compression",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "OMX Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Seed/Early"
+        }
+      ]
+    },
+    "Ocean Azul Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series B"
+        },
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Oikocredit": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Axel Reinaud",
+          "linkedin": "https://www.linkedin.com/in/netzero2050/",
+          "via_company": "NetZero",
+          "relationship": "Growth"
+        }
+      ]
+    },
+    "Old Silver VC": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Open Society Institute (George Soros)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Galen Nelson",
+          "linkedin": "https://www.linkedin.com/in/galen-nelson-473ba719/",
+          "via_company": "Ballot Initiative Strategy Center",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Opera Tech Ventures (BNP Paribas VC)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "Plan A",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Perceptive Advisors": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Plaid founders": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Spark",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Porsche Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "Multiple rounds"
+        }
+      ]
+    },
+    "Presidio (Sumitomo Corporation)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Prime Impact Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "Prosper Marketplace": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Kevin Johnson",
+          "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+          "via_company": "CleanCapital",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "RTX Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series C"
+        }
+      ]
+    },
+    "RTX Ventures (Raytheon Technologies)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Series C"
+        }
+      ]
+    },
+    "Raven Indigenous Capital Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        },
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        }
+      ]
+    },
+    "Refactor Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Seed/Early"
+        }
+      ]
+    },
+    "Rivian Foundation": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "SPUN (Society for the Protection of Underground Networks)",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Rogers Corporation": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Joshua Martin",
+          "linkedin": "https://www.linkedin.com/in/joshuajmartin123/",
+          "via_company": "Fortify",
+          "relationship": "Strategic Partner"
+        }
+      ]
+    },
+    "S2G Investments": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "SPARK Cleantech": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Tim Vosburgh",
+          "linkedin": "https://www.linkedin.com/in/timvosburgh/",
+          "via_company": "Coulomb Technology",
+          "relationship": "Accelerator"
+        }
+      ]
+    },
+    "STOA Infra & Energy": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Axel Reinaud",
+          "linkedin": "https://www.linkedin.com/in/netzero2050/",
+          "via_company": "NetZero",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Saint Gobain": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Mircea Dinc\u0103",
+          "linkedin": "https://www.linkedin.com/in/mircea-dinc%C4%83-1ab43314/",
+          "via_company": "Transaera",
+          "relationship": "Seed"
+        }
+      ]
+    },
+    "SeedInvest's Selections Fund": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Kevin Johnson",
+          "linkedin": "https://www.linkedin.com/in/kevinjohnson1/",
+          "via_company": "CleanCapital",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Serious Change L.P.": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Eric Ingersoll",
+          "linkedin": "https://www.linkedin.com/in/eric-ingersoll-35095062/",
+          "via_company": "General Compression",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Shell Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "Multiple rounds"
+        }
+      ]
+    },
+    "Sky Foundation": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jose LaSalle",
+          "linkedin": "https://www.linkedin.com/in/joselasalle/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        },
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "florrent",
+          "relationship": "Seed-2"
+        }
+      ]
+    },
+    "Stellantis Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Axel Reinaud",
+          "linkedin": "https://www.linkedin.com/in/netzero2050/",
+          "via_company": "NetZero",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Surendra Mandava (Angel)": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Babu Jain",
+          "linkedin": "https://www.linkedin.com/in/babu-jain-188470/",
+          "via_company": "Navia Energy",
+          "relationship": "Angel"
+        }
+      ]
+    },
+    "Taiyo Nippon Sanso": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "Multiple rounds"
+        }
+      ]
+    },
+    "Temasek Holdings": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Quoc Pham",
+          "linkedin": "https://www.linkedin.com/in/quoc-pham-ba25a720/",
+          "via_company": "Electra",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "The Grantham Foundation": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "SPUN (Society for the Protection of Underground Networks)",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Toba Capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Traxys": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B-3"
+        }
+      ]
+    },
+    "U.S. Department of Defense": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Greg Cipriano",
+          "linkedin": "https://www.linkedin.com/in/gregcipriano/",
+          "via_company": "WattJoule",
+          "relationship": "Government Grant"
+        }
+      ]
+    },
+    "U.S. Department of Energy": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Gino Karlo Delos Reyes",
+          "linkedin": "https://www.linkedin.com/in/karlodelosreyes/",
+          "via_company": "Fortify",
+          "relationship": "Series C"
+        },
+        {
+          "connection_name": "Greg Cipriano",
+          "linkedin": "https://www.linkedin.com/in/gregcipriano/",
+          "via_company": "WattJoule",
+          "relationship": "Government Grant"
+        }
+      ]
+    },
+    "US Renewables Group": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Eric Ingersoll",
+          "linkedin": "https://www.linkedin.com/in/eric-ingersoll-35095062/",
+          "via_company": "General Compression",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "Venrock Healthcare Capital Partners": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Viking Global Investors": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alex Nichols",
+          "linkedin": "https://www.linkedin.com/in/alex--nichols/",
+          "via_company": "Mythic Therapeutics",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "Visa": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Alison Sander",
+          "linkedin": "https://www.linkedin.com/in/alison-sander-7127157",
+          "via_company": "Plan A",
+          "relationship": "Series A"
+        }
+      ]
+    },
+    "W. L. Gore & Associates": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Jungwoo Lee",
+          "linkedin": "https://www.linkedin.com/in/jzlee/",
+          "via_company": "South 8 Technologies",
+          "relationship": "2025"
+        }
+      ]
+    },
+    "XPRIZE Foundation": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Sahag Voskian",
+          "linkedin": "https://www.linkedin.com/in/sahag-voskian-14437383",
+          "via_company": "Verdox",
+          "relationship": "Grant"
+        }
+      ]
+    },
+    "Y Combinator": {
+      "tags": [
+        "deep tech",
+        "general"
+      ],
+      "hq": "San Francisco, CA",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Dataherald",
+          "relationship": "W21 Batch"
+        },
+        {
+          "connection_name": "Anuj Saigal",
+          "linkedin": "https://www.linkedin.com/in/anujsaigal/",
+          "via_company": "Spark",
+          "relationship": "W24 Batch"
+        }
+      ]
+    },
+    "Yamaha Motor Ventures": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Anthony Balladon",
+          "linkedin": "https://www.linkedin.com/in/anthonyballadon/",
+          "via_company": "Phoenix Tailings",
+          "relationship": "Series B"
+        }
+      ]
+    },
+    "milemark.capital": {
+      "tags": [
+        "unverified"
+      ],
+      "hq": "Unknown",
+      "ma_presence": false,
+      "intros_available": [
+        {
+          "connection_name": "Paloma Gonzalez-Rojas",
+          "linkedin": "https://www.linkedin.com/in/paloma-gonzalez-rojas/",
+          "via_company": "Hera Materials (formerly Atacama Biomaterials)",
+          "relationship": "Unknown"
+        }
+      ]
+    }
+  }
+}
