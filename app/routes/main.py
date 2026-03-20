@@ -468,3 +468,46 @@ def api_search_people():
 
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+
+
+@bp.route('/api/search-vc-people')
+def api_search_vc_people():
+    """Get people connected to a specific VC (reverse search)."""
+    if 'username' not in session:
+        return jsonify({'error': 'Unauthorized'}), 401
+
+    vc_name = request.args.get('vc', '').strip()
+    if not vc_name:
+        return jsonify({'connections': []})
+
+    try:
+        base_dir = Path(__file__).parent.parent.parent
+        linkedin_map_path = base_dir / 'linkedin_vc_map_all.json'
+
+        if not linkedin_map_path.exists():
+            return jsonify({'connections': []})
+
+        with open(linkedin_map_path, 'r') as f:
+            data = json.load(f)
+
+        connections = []
+
+        # Search through all people for companies invested by this VC
+        for person_name, person_data in data.items():
+            companies = person_data.get('companies_founded', [])
+            for company in companies:
+                investors = company.get('investors', [])
+                for investor in investors:
+                    # Case-insensitive match
+                    if investor.get('vc_name', '').lower() == vc_name.lower():
+                        connections.append({
+                            'person_name': person_name,
+                            'person_linkedin': person_data.get('linkedin'),
+                            'company_name': company.get('name'),
+                            'round': investor.get('round')
+                        })
+
+        return jsonify({'connections': connections})
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
