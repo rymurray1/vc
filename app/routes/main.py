@@ -394,7 +394,15 @@ def search():
     if 'username' not in session:
         return redirect(url_for('main.index'))
 
-    return render_template('search.html')
+    user = User.query.filter_by(username=session['username']).first()
+    if not user:
+        return redirect(url_for('main.index'))
+
+    # Check if user has connections synced
+    connection_count = Connection.query.filter_by(user_id=user.id).count()
+    connections_loaded = connection_count > 0
+
+    return render_template('search.html', connections_loaded=connections_loaded)
 
 
 @bp.route('/api/search-vcs')

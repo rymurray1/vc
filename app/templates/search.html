@@ -4,12 +4,12 @@
 
 {% block content %}
 <div class="search-container">
-    <div id="loading-section" class="search-card loading-active">
+    <div id="loading-section" class="search-card {% if connections_loaded %}loading-hidden{% else %}loading-active{% endif %}">
         <div class="spinner"></div>
         <p>Loading your connections...</p>
     </div>
 
-    <div id="search-section" class="search-card loading-hidden">
+    <div id="search-section" class="search-card {% if connections_loaded %}{% else %}loading-hidden{% endif %}"
         <h2>Search Your Connections</h2>
         <p class="subtitle">Find warm introductions to VCs or explore your network</p>
 
@@ -134,10 +134,30 @@
 </style>
 
 <script>
-    // Start loading on page load
-    window.addEventListener('load', function() {
-        setTimeout(enableSearch, 5000);
-    });
+    let loadingStarted = false;
+
+    // Only show loading screen if connections haven't been loaded yet
+    function initializeSearch() {
+        const loadingSection = document.getElementById('loading-section');
+        const searchSection = document.getElementById('search-section');
+
+        // If loading section is already hidden, connections were pre-loaded
+        if (loadingSection.classList.contains('loading-hidden')) {
+            return; // Skip timer, show search immediately
+        }
+
+        // Otherwise, set up 5-second timer
+        if (!loadingStarted) {
+            loadingStarted = true;
+            setTimeout(function() {
+                loadingSection.classList.add('loading-hidden');
+                searchSection.classList.remove('loading-hidden');
+            }, 5000);
+        }
+    }
+
+    // Run on page load
+    document.addEventListener('DOMContentLoaded', initializeSearch);
 
     function enableSearch() {
         document.getElementById('loading-section').classList.remove('loading-active');
