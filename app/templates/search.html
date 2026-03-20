@@ -131,61 +131,41 @@
 
         list.classList.add('has-results');
 
-        // Collect all VCs from matching people's companies (excluding grants)
-        const vcsMap = new Map(); // vc_name -> rounds
-        filtered.forEach(person => {
-            if (person.companies_founded && person.companies_founded.length > 0) {
-                person.companies_founded.forEach(company => {
-                    if (company.investors && company.investors.length > 0) {
-                        company.investors.forEach(inv => {
-                            // Skip grants
-                            if (inv.round && inv.round.includes('Grant')) {
-                                return;
-                            }
-                            if (!vcsMap.has(inv.vc_name)) {
-                                vcsMap.set(inv.vc_name, []);
-                            }
-                            if (!vcsMap.get(inv.vc_name).includes(inv.round)) {
-                                vcsMap.get(inv.vc_name).push(inv.round);
-                            }
-                        });
+        list.innerHTML = '<div>' + filtered.map(person => {
+            // Build per-person VC map
+            const vcsMap = new Map();
+            (person.companies_founded || []).forEach(company => {
+                (company.investors || []).forEach(inv => {
+                    if (inv.vc_name && !(inv.round || '').includes('Grant')) {
+                        if (!vcsMap.has(inv.vc_name)) vcsMap.set(inv.vc_name, []);
+                        if (!vcsMap.get(inv.vc_name).includes(inv.round))
+                            vcsMap.get(inv.vc_name).push(inv.round);
                     }
                 });
-            }
-        });
-        const connectedVCs = Array.from(vcsMap.entries()).sort((a, b) => a[0].localeCompare(b[0]));
+            });
+            const connectedVCs = Array.from(vcsMap.entries()).sort((a, b) => a[0].localeCompare(b[0]));
 
-        let html = '<div>';
+            const vcsHtml = connectedVCs.length > 0
+                ? '<div style="margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.4rem;">' +
+                  connectedVCs.map(([vc, rounds]) => {
+                      const roundText = rounds.filter(r => !r.includes('Grant')).join(', ');
+                      return `<span class="vc-chip" onclick="event.stopPropagation(); searchVCPeople('${vc.replace(/'/g, "\\'")}')">
+                          <span class="vc-chip-name"><a href="https://www.google.com/search?q=${encodeURIComponent(vc + ' VC')}" target="_blank" onclick="event.stopPropagation()">${vc}</a></span>
+                          ${roundText ? `<span class="vc-chip-round ${roundPillClass(rounds[0]).split(' ')[1]}">${roundText}</span>` : ''}
+                      </span>`;
+                  }).join('') +
+                  '</div>'
+                : '';
 
-        // Show people
-        html += '<div style="margin-bottom: 1.5rem;">';
-        html += filtered.map(person => `
+            return `
             <div class="result-item" onclick="searchPersonVCs('${person.name.replace(/'/g, "\\'")}')">
                 <h4>${person.name}</h4>
                 <p><a href="${person.linkedin}" target="_blank">LinkedIn</a></p>
                 ${person.companies_founded && person.companies_founded.length > 0 ?
                     `<p>${person.companies_founded.length} company/companies</p>` : ''}
-            </div>
-        `).join('');
-        html += '</div>';
-
-        // Show connected VCs if any
-        if (connectedVCs.length > 0) {
-            html += '<div style="border-top: 1px solid var(--border); padding-top: 1rem;">';
-            html += '<p style="font-weight: 600; margin-bottom: 0.75rem; color: var(--text-muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.5px;">Connected VCs</p>';
-            html += '<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">';
-            html += connectedVCs.map(([vc, rounds]) => {
-                const roundText = rounds.filter(r => !r.includes('Grant')).join(', ');
-                return `<span class="vc-chip" onclick="searchVCPeople('${vc.replace(/'/g, "\\'")}')" title="Click to see connections">
-                    <span class="vc-chip-name">${vc}</span>
-                    ${roundText ? `<span class="vc-chip-round ${roundPillClass(rounds[0]).split(' ')[1]}">${roundText}</span>` : ''}
-                </span>`;
-            }).join('');
-            html += '</div></div>';
-        }
-
-        html += '</div>';
-        list.innerHTML = html;
+                ${vcsHtml}
+            </div>`;
+        }).join('') + '</div>';
     }
 
     function filterVCs() {
@@ -209,7 +189,7 @@
         list.classList.add('has-results');
         list.innerHTML = '<div>' + filtered.map(vc => `
             <div class="result-item" onclick="searchVCPeople('${vc.name.replace(/'/g, "\\'")}')">
-                <h4>${vc.name}</h4>
+                <h4><a href="https://www.google.com/search?q=${encodeURIComponent(vc.name + ' VC')}" target="_blank" onclick="event.stopPropagation()">${vc.name}</a></h4>
                 <p>📍 ${vc.hq || 'Location TBD'}</p>
                 <p>${vc.intros_available.length} intro(s) available</p>
             </div>
@@ -240,7 +220,7 @@
                             <h5 style="margin-top: 0.75rem; margin-bottom: 0.5rem;">Investors:</h5>
                             <ul class="vc-list">
                                 ${company.investors.map(inv => `
-                                    <li><strong>${inv.vc_name}</strong> — ${inv.round}</li>
+                                    <li><strong><a href="https://www.google.com/search?q=${encodeURIComponent(inv.vc_name + ' VC')}" target="_blank" onclick="event.stopPropagation()">${inv.vc_name}</a></strong> — ${inv.round}</li>
                                 `).join('')}
                             </ul>
                         ` : ''}
@@ -266,7 +246,7 @@
     }
 
     function displayVCResults(vcName, data) {
-        let html = `<h3>Connections to ${vcName}</h3>`;
+        let html = `<h3>Connections to <a href="https://www.google.com/search?q=${encodeURIComponent(vcName + ' VC')}" target="_blank" onclick="event.stopPropagation()">${vcName}</a></h3>`;
 
         if (!data.connections || data.connections.length === 0) {
             html += '<p>No direct connections to this VC</p>';

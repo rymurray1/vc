@@ -294,6 +294,7 @@ body {
     display: flex;
     gap: 1rem;
     margin-bottom: 2rem;
+    justify-content: center;
 }
 
 .card {
