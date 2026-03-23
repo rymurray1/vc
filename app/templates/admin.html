@@ -1,0 +1,214 @@
+{% extends "base.html" %}
+
+{% block title %}Admin - Enrichment Dashboard{% endblock %}
+
+{% block content %}
+<div class="dashboard">
+    <div class="dashboard-header">
+        <h1>Enrichment Dashboard</h1>
+        <p class="subtitle">Internal scraper &amp; founder enrichment engine</p>
+    </div>
+
+    <!-- Coverage Stats -->
+    <div class="stats-row">
+        <div class="stat-box">
+            <div class="stat-number">{{ stats.total_companies }}</div>
+            <div class="stat-label">Total Companies</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number" style="color: #22c55e;">{{ stats.enriched }}</div>
+            <div class="stat-label">Enriched</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number" style="color: #ef4444;">{{ stats.empty }}</div>
+            <div class="stat-label">Missing Data</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-number">{{ stats.coverage_pct }}%</div>
+            <div class="stat-label">Coverage</div>
+        </div>
+    </div>
+
+    <!-- Coverage Bar -->
+    <div class="card" style="margin-top: 1.5rem;">
+        <div style="background: #1e293b; border-radius: 8px; height: 24px; overflow: hidden;">
+            <div id="coverage-bar" style="background: linear-gradient(90deg, #22c55e, #16a34a); height: 100%; width: {{ stats.coverage_pct }}%; transition: width 0.5s;"></div>
+        </div>
+    </div>
+
+    <!-- Enrichment Controls -->
+    <div class="card" style="margin-top: 1.5rem;">
+        <h2>Run Enrichment</h2>
+        <p style="color: #94a3b8; margin-bottom: 1rem;">
+            Uses the internal Google scraper to find founder/CEO data for companies missing enrichment.
+        </p>
+
+        <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+            <div>
+                <label for="limit" style="display: block; font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.25rem;">Companies to process</label>
+                <input type="number" id="limit" value="10" min="1" max="500"
+                    style="background: #1e293b; border: 1px solid #334155; color: #e2e8f0; padding: 0.5rem; border-radius: 6px; width: 100px;">
+            </div>
+
+            <div style="display: flex; gap: 0.5rem; align-items: end;">
+                <button id="btn-enrich" class="btn btn-primary" onclick="startEnrichment(false)">
+                    Start Enrichment
+                </button>
+                <button id="btn-dry-run" class="btn btn-secondary" onclick="startEnrichment(true)">
+                    Dry Run
+                </button>
+            </div>
+        </div>
+
+        <!-- Progress Section -->
+        <div id="progress-section" style="display: none; margin-top: 1.5rem;">
+            <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                <span id="progress-label" style="color: #94a3b8;">Starting...</span>
+                <span id="progress-count" style="color: #e2e8f0; font-weight: 600;">0 / 0</span>
+            </div>
+            <div style="background: #1e293b; border-radius: 8px; height: 16px; overflow: hidden;">
+                <div id="progress-bar" style="background: linear-gradient(90deg, #3b82f6, #2563eb); height: 100%; width: 0%; transition: width 0.3s;"></div>
+            </div>
+            <div style="margin-top: 0.75rem; display: flex; gap: 1.5rem;">
+                <span style="color: #22c55e;"><span id="enriched-count">0</span> enriched</span>
+                <span style="color: #ef4444;"><span id="failed-count">0</span> not found</span>
+                <span id="current-company" style="color: #64748b; font-style: italic;"></span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Test Scraper -->
+    <div class="card" style="margin-top: 1.5rem;">
+        <h2>Test Scraper</h2>
+        <p style="color: #94a3b8; margin-bottom: 1rem;">
+            Verify the Google scraper is working by running a test query.
+        </p>
+        <div style="display: flex; gap: 0.5rem;">
+            <input type="text" id="test-query" value="OpenAI founder CEO" placeholder="Search query..."
+                style="background: #1e293b; border: 1px solid #334155; color: #e2e8f0; padding: 0.5rem; border-radius: 6px; flex: 1;">
+            <button class="btn btn-secondary" onclick="testScraper()">Test</button>
+        </div>
+        <pre id="test-results" style="display: none; margin-top: 1rem; background: #0f172a; padding: 1rem; border-radius: 6px; overflow-x: auto; color: #94a3b8; font-size: 0.85rem; max-height: 400px;"></pre>
+    </div>
+
+    <!-- Companies Missing Data -->
+    <div class="card" style="margin-top: 1.5rem;">
+        <h2>Companies Missing Data ({{ incomplete_total }})</h2>
+        <div style="margin-top: 1rem; max-height: 300px; overflow-y: auto;">
+            <table style="width: 100%; border-collapse: collapse;">
+                <thead>
+                    <tr style="border-bottom: 1px solid #334155;">
+                        <th style="text-align: left; padding: 0.5rem; color: #94a3b8;">#</th>
+                        <th style="text-align: left; padding: 0.5rem; color: #94a3b8;">Company</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for company in incomplete_sample %}
+                    <tr style="border-bottom: 1px solid #1e293b;">
+                        <td style="padding: 0.5rem; color: #64748b;">{{ loop.index }}</td>
+                        <td style="padding: 0.5rem; color: #e2e8f0;">{{ company }}</td>
+                    </tr>
+                    {% endfor %}
+                    {% if incomplete_total > 20 %}
+                    <tr>
+                        <td colspan="2" style="padding: 0.5rem; color: #64748b; font-style: italic;">
+                            ...and {{ incomplete_total - 20 }} more
+                        </td>
+                    </tr>
+                    {% endif %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+let pollInterval = null;
+
+function startEnrichment(dryRun) {
+    const limit = document.getElementById('limit').value;
+    const btn = document.getElementById('btn-enrich');
+    const btnDry = document.getElementById('btn-dry-run');
+
+    btn.disabled = true;
+    btnDry.disabled = true;
+    btn.textContent = 'Running...';
+
+    document.getElementById('progress-section').style.display = 'block';
+
+    fetch('/admin/enrich', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({limit: parseInt(limit), dry_run: dryRun})
+    })
+    .then(r => r.json())
+    .then(data => {
+        if (data.error) {
+            alert(data.error);
+            resetButtons();
+            return;
+        }
+        // Start polling for progress
+        pollInterval = setInterval(pollProgress, 1000);
+    })
+    .catch(err => {
+        alert('Error starting enrichment: ' + err);
+        resetButtons();
+    });
+}
+
+function pollProgress() {
+    fetch('/admin/status')
+        .then(r => r.json())
+        .then(data => {
+            const pct = data.total > 0 ? (data.processed / data.total * 100) : 0;
+            document.getElementById('progress-bar').style.width = pct + '%';
+            document.getElementById('progress-count').textContent = data.processed + ' / ' + data.total;
+            document.getElementById('enriched-count').textContent = data.enriched;
+            document.getElementById('failed-count').textContent = data.failed;
+            document.getElementById('progress-label').textContent =
+                data.status === 'running' ? 'Processing...' :
+                data.status === 'completed' ? 'Complete' : data.status;
+
+            if (data.current_company) {
+                document.getElementById('current-company').textContent = data.current_company;
+            }
+
+            if (data.status === 'completed' || data.status === 'error') {
+                clearInterval(pollInterval);
+                resetButtons();
+
+                if (data.status === 'completed') {
+                    document.getElementById('progress-bar').style.background =
+                        'linear-gradient(90deg, #22c55e, #16a34a)';
+                }
+            }
+        })
+        .catch(() => {});
+}
+
+function resetButtons() {
+    const btn = document.getElementById('btn-enrich');
+    const btnDry = document.getElementById('btn-dry-run');
+    btn.disabled = false;
+    btnDry.disabled = false;
+    btn.textContent = 'Start Enrichment';
+}
+
+function testScraper() {
+    const query = document.getElementById('test-query').value;
+    const pre = document.getElementById('test-results');
+    pre.style.display = 'block';
+    pre.textContent = 'Searching...';
+
+    fetch('/admin/test-scraper?q=' + encodeURIComponent(query))
+        .then(r => r.json())
+        .then(data => {
+            pre.textContent = JSON.stringify(data, null, 2);
+        })
+        .catch(err => {
+            pre.textContent = 'Error: ' + err;
+        });
+}
+</script>
+{% endblock %}

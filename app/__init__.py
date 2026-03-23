@@ -23,6 +23,9 @@ def create_app(config=None):
     from app.routes import main
     app.register_blueprint(main.bp)
 
+    from app.routes import admin
+    app.register_blueprint(admin.bp)
+
     # Create database tables
     with app.app_context():
         db.create_all()
