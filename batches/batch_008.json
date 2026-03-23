@@ -1,0 +1,340 @@
+{
+  "Bearworks": {
+    "url": "https://bearworks.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Beautiful AI": {
+    "url": "https://beautiful.ai",
+    "founders": [
+      {
+        "name": "Mitch Grasso",
+        "linkedin": "linkedin.com/in/mitchgrasso"
+      }
+    ],
+    "ceo": {
+      "name": "Jason Lapp",
+      "linkedin": "linkedin.com/in/jasonlapp"
+    }
+  },
+  "Beauty Pie": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bebop": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Because": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bedrock": {
+    "url": "https://bedrockocean.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Bedrock Data": {
+    "url": "https://bedrockdata.ai",
+    "founders": [
+      {
+        "name": "Bruno Kurtic",
+        "linkedin": "linkedin.com/in/bruno-kurtic"
+      }
+    ],
+    "ceo": {
+      "name": "Bruno Kurtic",
+      "linkedin": "linkedin.com/in/bruno-kurtic"
+    }
+  },
+  "Bedrock Robotics": {
+    "url": "https://bedrockrobotics.com",
+    "founders": [
+      {
+        "name": "Boris Sofman",
+        "linkedin": "linkedin.com/in/bsofman"
+      }
+    ],
+    "ceo": {
+      "name": "Boris Sofman",
+      "linkedin": "linkedin.com/in/bsofman"
+    }
+  },
+  "Beek": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Behance": {
+    "url": "https://behance.net",
+    "founders": [],
+    "ceo": null
+  },
+  "Believe": {
+    "url": "https://believe.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Believer": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Belong": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Belong Home, Inc.": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Beme": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bench": {
+    "url": "https://bench.co",
+    "founders": [
+      {
+        "name": "Ian Crosby",
+        "linkedin": "linkedin.com/in/ian-crosby"
+      }
+    ],
+    "ceo": {
+      "name": "Adam Schlesinger",
+      "linkedin": "linkedin.com/in/adam-schlesinger"
+    }
+  },
+  "Berry Health": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Betfair": {
+    "url": "https://betfair.com",
+    "founders": [
+      {
+        "name": "Andrew Black",
+        "linkedin": "linkedin.com/in/andrew-black"
+      }
+    ],
+    "ceo": {
+      "name": "Edward Wray",
+      "linkedin": "linkedin.com/in/edward-wray"
+    }
+  },
+  "Betty Labs": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Beyond Fertility": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Big Sur AI": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "BigMachines": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "BigScreen": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bigeye": {
+    "url": "https://bigeye.com",
+    "founders": [
+      {
+        "name": "Kyle Kirwan",
+        "linkedin": "linkedin.com/in/kylejameskirwan"
+      }
+    ],
+    "ceo": {
+      "name": "Eleanor Treharne-Jones",
+      "linkedin": "linkedin.com/in/eleanortreharnejones"
+    }
+  },
+  "Bigger Games": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bill": {
+    "url": "https://bill.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Bill.com": {
+    "url": "https://bill.com",
+    "founders": [
+      {
+        "name": "Ren\u00e9 Lacerte",
+        "linkedin": "linkedin.com/in/renelacerte"
+      }
+    ],
+    "ceo": {
+      "name": "Ren\u00e9 Lacerte",
+      "linkedin": "linkedin.com/in/renelacerte"
+    }
+  },
+  "Binaris": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Binary Thumbs": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "BioPhero": {
+    "url": "https://biophero.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Bioatla": {
+    "url": "https://bioatla.com",
+    "founders": [
+      {
+        "name": "Jay Short",
+        "linkedin": "linkedin.com/in/jay-short-5244171"
+      }
+    ],
+    "ceo": {
+      "name": "Jay Short",
+      "linkedin": "linkedin.com/in/jay-short-5244171"
+    }
+  },
+  "Biodock": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bird Rides": {
+    "url": "https://bird.co",
+    "founders": [
+      {
+        "name": "Travis VanderZanden",
+        "linkedin": "linkedin.com/in/travis1"
+      }
+    ],
+    "ceo": {
+      "name": "Shane Torchiana",
+      "linkedin": "linkedin.com/in/shane-torchiana"
+    }
+  },
+  "BitClout": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "BitFusion": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "BitYota": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bitcasa": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Bito": {
+    "url": "https://bito.ai",
+    "founders": [
+      {
+        "name": "Amar Goel",
+        "linkedin": "linkedin.com/in/amargoel"
+      }
+    ],
+    "ceo": {
+      "name": "Amar Goel",
+      "linkedin": "linkedin.com/in/amargoel"
+    }
+  },
+  "Bitski": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Black Duck": {
+    "url": "https://blackducksoftware.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Black Ore Technologies": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Blackbird": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "BladeLogic": {
+    "url": "https://bladelogic.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Blink": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Blink Health": {
+    "url": "https://blinkhealth.com",
+    "founders": [
+      {
+        "name": "Geoffrey Chaiken",
+        "linkedin": "linkedin.com/in/geoffrey-chaiken-7838905"
+      }
+    ],
+    "ceo": {
+      "name": "Geoffrey Chaiken",
+      "linkedin": "linkedin.com/in/geoffrey-chaiken-7838905"
+    }
+  },
+  "Block": {
+    "url": "https://block.xyz",
+    "founders": [],
+    "ceo": null
+  },
+  "BlockTower Capital": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Blockchain": {
+    "url": "https://blockchain.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Blockit AI": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Blockspring": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "Vooma": {
+    "url": "",
+    "founders": [
+      {"name": "Nathan Matthews", "linkedin": "https://linkedin.com/in/nathan-matthews-vooma/"},
+      {"name": "Jesse Buckingham", "linkedin": "https://linkedin.com/in/jesse-buckingham-79649a26/"},
+      {"name": "Mike Carter", "linkedin": "https://linkedin.com/in/mike-carter-connect/"}
+    ],
+    "ceo": {"name": "Nathan Matthews", "linkedin": "https://linkedin.com/in/nathan-matthews-vooma/"}
+  },
+  "Vouch": {
+    "url": "https://vouch.us",
+    "founders": [],
+    "ceo": null
+  },
+  "Vouch Insurance": {
+    "url": "https://vouch.us",
+    "founders": [
+      {"name": "Sam Hodges", "linkedin": "https://linkedin.com/in/samhodges/"},
+      {"name": "Travis Hedge", "linkedin": ""}
+    ],
+    "ceo": {"name": "Sam Hodges", "linkedin": "https://linkedin.com/in/samhodges/"}
+  },
+  "Vox Media": {
+    "url": "https://voxmedia.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Voxel Labs": {
+    "url": "https://voxellabs.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Voxel51": {
+    "url": "https://voxel51.com",
+    "founders": [
+      {"name": "Brian Moore", "linkedin": "https://linkedin.com/in/brimoor/"},
+      {"name": "Jason Corso", "linkedin": "https://linkedin.com/in/jason-corso-95b66a24/"}
+    ],
+    "ceo": {"name": "Brian Moore", "linkedin": "https://linkedin.com/in/brimoor/"}
+  },
+  "Voxer": {
+    "url": "https://voxer.com",
+    "founders": [
+      {"name": "Tom Katis", "linkedin": "https://linkedin.com/in/tomkatis/"},
+      {"name": "Matt Ranney", "linkedin": ""}
+    ],
+    "ceo": {"name": "Irv Remedios", "linkedin": ""}
+  },
+  "VulcanForms": {
+    "url": "https://vulcanforms.com",
+    "founders": [
+      {"name": "John Hart", "linkedin": ""},
+      {"name": "Martin C Feldmann", "linkedin": ""}
+    ],
+    "ceo": {"name": "Kevin Kassekert", "linkedin": ""}
+  },
+  "Vungle": {
+    "url": "https://vungle.com",
+    "founders": [
+      {"name": "Zain Jaffer", "linkedin": "https://linkedin.com/in/zainjaffer"},
+      {"name": "Jack Smith", "linkedin": ""}
+    ],
+    "ceo": {"name": "Jeremy Bondy", "linkedin": ""}
+  },
+  "Vurb": {
+    "url": "https://vurb.com",
+    "founders": [
+      {"name": "Bobby Lo", "linkedin": "https://linkedin.com/in/bobbylo/"}
+    ],
+    "ceo": {"name": "Bobby Lo", "linkedin": "https://linkedin.com/in/bobbylo/"}
+  },
+  "WHOOP": {
+    "url": "https://whoop.com",
+    "founders": [
+      {"name": "Will Ahmed", "linkedin": "https://linkedin.com/in/willahmed/"}
+    ],
+    "ceo": {"name": "Will Ahmed", "linkedin": "https://linkedin.com/in/willahmed/"}
+  },
+  "WP Engine": {
+    "url": "https://wpengine.com",
+    "founders": [
+      {"name": "Jason Cohen", "linkedin": "https://linkedin.com/in/jasoncohen/"},
+      {"name": "Ben Metcalfe", "linkedin": ""}
+    ],
+    "ceo": {"name": "Heather Brunner", "linkedin": ""}
+  },
+  "Waabi": {
+    "url": "https://waabi.ai",
+    "founders": [
+      {"name": "Raquel Urtasun", "linkedin": "https://ca.linkedin.com/in/raquel-urtasun-298400139"}
+    ],
+    "ceo": {"name": "Raquel Urtasun", "linkedin": "https://ca.linkedin.com/in/raquel-urtasun-298400139"}
+  },
+  "Wabi": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Wag Group Co.": {
+    "url": "https://wag.co",
+    "founders": [
+      {"name": "Josh Viner", "linkedin": ""},
+      {"name": "Jon Viner", "linkedin": ""}
+    ],
+    "ceo": {"name": "Garrett Smallwood", "linkedin": "https://linkedin.com/in/garrettsmallwood/"}
+  },
+  "Wag!": {
+    "url": "https://wag.co",
+    "founders": [
+      {"name": "Josh Viner", "linkedin": ""},
+      {"name": "Jon Viner", "linkedin": ""}
+    ],
+    "ceo": {"name": "Garrett Smallwood", "linkedin": "https://linkedin.com/in/garrettsmallwood/"}
+  },
+  "WalkMe": {
+    "url": "https://walkme.com",
+    "founders": [
+      {"name": "Dan Adika", "linkedin": "https://linkedin.com/in/danadika"},
+      {"name": "Rafael Sweary", "linkedin": ""},
+      {"name": "Eyal Cohen", "linkedin": ""},
+      {"name": "Yuval Shalom Ozanna", "linkedin": ""}
+    ],
+    "ceo": {"name": "Dan Adika", "linkedin": "https://linkedin.com/in/danadika"}
+  },
+  "Walker & Co.": {
+    "url": "https://walkerand.com",
+    "founders": [
+      {"name": "Tristan Walker", "linkedin": "https://linkedin.com/in/tristanwalker/"}
+    ],
+    "ceo": {"name": "Tristan Walker", "linkedin": "https://linkedin.com/in/tristanwalker/"}
+  },
+  "WalletConnect": {
+    "url": "https://walletconnect.com",
+    "founders": [
+      {"name": "Pedro Gomes", "linkedin": "https://linkedin.com/in/pedrouid/"}
+    ],
+    "ceo": {"name": "Jess Houlgrave", "linkedin": ""}
+  },
+  "Warbler Labs, Incorporated": {
+    "url": "",
+    "founders": [
+      {"name": "Blake West", "linkedin": ""},
+      {"name": "Michael Sall", "linkedin": ""}
+    ],
+    "ceo": {"name": "Mike Sall", "linkedin": ""}
+  },
+  "Warp": {
+    "url": "https://warp.dev",
+    "founders": [
+      {"name": "Zach Lloyd", "linkedin": "https://linkedin.com/in/zachlloyd/"}
+    ],
+    "ceo": {"name": "Zach Lloyd", "linkedin": "https://linkedin.com/in/zachlloyd/"}
+  },
+  "Watchmaker Genomics": {
+    "url": "https://watchmakergenomics.com",
+    "founders": [
+      {"name": "Trey Foskett", "linkedin": "https://linkedin.com/in/trey-foskett-6849936/"},
+      {"name": "Brian Kudlow", "linkedin": ""},
+      {"name": "Stephen Picone", "linkedin": "https://linkedin.com/in/stephen-picone-a1a86b3/"}
+    ],
+    "ceo": {"name": "Trey Foskett", "linkedin": "https://linkedin.com/in/trey-foskett-6849936/"}
+  },
+  "Watershed": {
+    "url": "https://watershed.com",
+    "founders": [
+      {"name": "Christian Anderson", "linkedin": "https://linkedin.com/in/christian-anderson-61548076/"},
+      {"name": "Avi Itskovich", "linkedin": ""},
+      {"name": "Taylor Francis", "linkedin": "https://linkedin.com/in/taylor-francis-4ba49640/"}
+    ],
+    "ceo": {"name": "Christian Anderson", "linkedin": "https://linkedin.com/in/christian-anderson-61548076/"}
+  },
+  "Wattpad": {
+    "url": "https://wattpad.com",
+    "founders": [
+      {"name": "Allen Lau", "linkedin": "https://ca.linkedin.com/in/allen-lau-2344b6"},
+      {"name": "Ivan Yuen", "linkedin": ""}
+    ],
+    "ceo": {"name": "Jeanne Lam", "linkedin": ""}
+  },
+  "Wave": {
+    "url": "https://wavemoney.io",
+    "founders": [
+      {"name": "Drew Durbin", "linkedin": "https://sn.linkedin.com/in/drew-durbin-52517614"},
+      {"name": "Lincoln Quirk", "linkedin": "https://linkedin.com/in/lincolnquirk/"}
+    ],
+    "ceo": {"name": "Drew Durbin", "linkedin": "https://sn.linkedin.com/in/drew-durbin-52517614"}
+  },
+  "Waveforms AI": {
+    "url": "",
+    "founders": [
+      {"name": "Alexis Conneau", "linkedin": ""},
+      {"name": "Coralie Lemaitre", "linkedin": "https://linkedin.com/in/coralie-lemaitre-9b85975b/"}
+    ],
+    "ceo": {"name": "Alexis Conneau", "linkedin": ""}
+  },
+  "Wayfair": {
+    "url": "https://wayfair.com",
+    "founders": [
+      {"name": "Niraj Shah", "linkedin": "https://linkedin.com/in/nirajshah10/"},
+      {"name": "Steve Conine", "linkedin": ""}
+    ],
+    "ceo": {"name": "Niraj Shah", "linkedin": "https://linkedin.com/in/nirajshah10/"}
+  },
+  "Wayfair, Inc.": {
+    "url": "https://wayfair.com",
+    "founders": [
+      {"name": "Niraj Shah", "linkedin": "https://linkedin.com/in/nirajshah10/"},
+      {"name": "Steve Conine", "linkedin": ""}
+    ],
+    "ceo": {"name": "Niraj Shah", "linkedin": "https://linkedin.com/in/nirajshah10/"}
+  },
+  "Waymark": {
+    "url": "",
+    "founders": [
+      {"name": "Nathan Labenz", "linkedin": ""},
+      {"name": "Jay Gierak", "linkedin": ""}
+    ],
+    "ceo": {"name": "Alex Persky-Stern", "linkedin": ""}
+  },
+  "Wayve": {
+    "url": "https://wayve.ai",
+    "founders": [
+      {"name": "Alex Kendall", "linkedin": ""},
+      {"name": "Amar Shah", "linkedin": ""}
+    ],
+    "ceo": {"name": "Alex Kendall", "linkedin": ""}
+  },
+  "Waze": {
+    "url": "https://waze.com",
+    "founders": [
+      {"name": "Uri Levine", "linkedin": ""},
+      {"name": "Ehud Shabtai", "linkedin": ""},
+      {"name": "Amir Shinar", "linkedin": ""}
+    ],
+    "ceo": {"name": "Noam Bardin", "linkedin": "https://linkedin.com/in/noambardin/"}
+  },
+  "WeMash": {
+    "url": "",
+    "founders": [
+      {"name": "Nizar Berdai", "linkedin": "https://linkedin.com/in/nizar-berdai-ba225b160/"}
+    ],
+    "ceo": {"name": "Nizar Berdai", "linkedin": "https://linkedin.com/in/nizar-berdai-ba225b160/"}
+  },
+  "WePay": {
+    "url": "https://wepay.com",
+    "founders": [
+      {"name": "Bill Clerico", "linkedin": ""},
+      {"name": "Rich Aberman", "linkedin": ""}
+    ],
+    "ceo": {"name": "Bill Clerico", "linkedin": ""}
+  },
+  "WeTravel": {
+    "url": "",
+    "founders": [
+      {"name": "Johannes Koeppel", "linkedin": "https://pt.linkedin.com/in/johanneskoeppel"}
+    ],
+    "ceo": {"name": "Ted Clements", "linkedin": "https://nl.linkedin.com/in/teddyclements"}
+  },
+  "Wealthsimple": {
+    "url": "https://wealthsimple.com",
+    "founders": [
+      {"name": "Michael Katchen", "linkedin": "https://ca.linkedin.com/in/mkatchen"},
+      {"name": "Brett Huneycutt", "linkedin": ""},
+      {"name": "Rudy Adler", "linkedin": ""}
+    ],
+    "ceo": {"name": "Michael Katchen", "linkedin": "https://ca.linkedin.com/in/mkatchen"}
+  },
+  "Weav": {
+    "url": "https://weav.io",
+    "founders": [
+      {"name": "Peeyush Rai", "linkedin": "https://linkedin.com/in/peeyushrai"}
+    ],
+    "ceo": {"name": "Peeyush Rai", "linkedin": "https://linkedin.com/in/peeyushrai"}
+  },
+  "Weave": {
+    "url": "https://getweave.com",
+    "founders": [
+      {"name": "Brandon Rodman", "linkedin": ""},
+      {"name": "Jared Rodman", "linkedin": ""},
+      {"name": "Clint Berry", "linkedin": ""}
+    ],
+    "ceo": {"name": "Brandon Rodman", "linkedin": ""}
+  },
+  "Weaviate": {
+    "url": "https://weaviate.io",
+    "founders": [
+      {"name": "Bob van Luijt", "linkedin": "https://nl.linkedin.com/in/bobvanluijt"},
+      {"name": "Etienne Dilocker", "linkedin": ""}
+    ],
+    "ceo": {"name": "Bob van Luijt", "linkedin": "https://nl.linkedin.com/in/bobvanluijt"}
+  },
+  "Weaviate Holding Inc.": {
+    "url": "https://weaviate.io",
+    "founders": [
+      {"name": "Bob van Luijt", "linkedin": "https://nl.linkedin.com/in/bobvanluijt"},
+      {"name": "Etienne Dilocker", "linkedin": ""}
+    ],
+    "ceo": {"name": "Bob van Luijt", "linkedin": "https://nl.linkedin.com/in/bobvanluijt"}
+  },
+  "WebPT, Inc.": {
+    "url": "https://webpt.com",
+    "founders": [
+      {"name": "Heidi Jannenga", "linkedin": "https://linkedin.com/in/heidijannenga"},
+      {"name": "Brad Jannenga", "linkedin": ""}
+    ],
+    "ceo": {"name": "Ashley Glover", "linkedin": ""}
+  },
+  "Webflow": {
+    "url": "https://webflow.com",
+    "founders": [
+      {"name": "Vlad Magdalin", "linkedin": "https://linkedin.com/in/vladmagdalin/"},
+      {"name": "Guy Yalif", "linkedin": "https://linkedin.com/in/gyalif/"}
+    ],
+    "ceo": {"name": "Linda Tong", "linkedin": "https://linkedin.com/in/lktong/"}
+  },
+  "Weebly": {
+    "url": "https://weebly.com",
+    "founders": [
+      {"name": "David Rusenko", "linkedin": "https://linkedin.com/in/drusenko/"},
+      {"name": "Chris Fanini", "linkedin": "https://linkedin.com/in/chrisfanini/"},
+      {"name": "Dan Veltri", "linkedin": "https://linkedin.com/in/veltri/"}
+    ],
+    "ceo": {"name": "David Rusenko", "linkedin": "https://linkedin.com/in/drusenko/"}
+  },
+  "Weft": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Wefunder": {
+    "url": "https://wefunder.com",
+    "founders": [
+      {"name": "Nicholas Tommarello", "linkedin": "https://linkedin.com/in/nicktommarello"},
+      {"name": "Mike Norman", "linkedin": ""},
+      {"name": "Greg Belote", "linkedin": ""}
+    ],
+    "ceo": {"name": "Nicholas Tommarello", "linkedin": "https://linkedin.com/in/nicktommarello"}
+  },
+  "Weilos": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Welcome": {
+    "url": "https://getwelcome.com",
+    "founders": [
+      {"name": "Nazanin Ash", "linkedin": "https://linkedin.com/in/nazanin-ash-896693a8/"}
+    ],
+    "ceo": {"name": "Nazanin Ash", "linkedin": "https://linkedin.com/in/nazanin-ash-896693a8/"}
+  },
+  "Weld": {
+    "url": "",
+    "founders": [],
+    "ceo": null
+  },
+  "Westlaw": {
+    "url": "https://westlaw.com",
+    "founders": [],
+    "ceo": null
+  },
+  "Wevorce": {
+    "url": "",
+    "founders": [
+      {"name": "Michelle Crosby", "linkedin": ""}
+    ],
+    "ceo": {"name": "Michelle Crosby", "linkedin": ""}
+  },
+  "Whatfix": {
+    "url": "https://whatfix.com",
+    "founders": [
+      {"name": "Khadim Batti", "linkedin": "https://in.linkedin.com/in/khadim"},
+      {"name": "Vara Kumar", "linkedin": ""}
+    ],
+    "ceo": {"name": "Khadim Batti", "linkedin": "https://in.linkedin.com/in/khadim"}
+  }
+}
