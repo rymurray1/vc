@@ -15,9 +15,9 @@ from scraper.config import MULTI_QUERY_DELAY
 
 logger = logging.getLogger(__name__)
 
-# Default path to founders.json (relative to vc-main/)
-DEFAULT_FOUNDERS_PATH = Path(__file__).parent.parent / "vc-main" / "founders.json"
-DEFAULT_FIRMS_PATH = Path(__file__).parent.parent / "vc-main" / "firms.json"
+# Default path to founders.json (relative to repo root)
+DEFAULT_FOUNDERS_PATH = Path(__file__).parent.parent / "founders.json"
+DEFAULT_FIRMS_PATH = Path(__file__).parent.parent / "firms.json"
 
 
 class EnrichmentEngine:

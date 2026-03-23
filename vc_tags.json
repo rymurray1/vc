@@ -604,7 +604,8 @@
       "energy tech"
     ],
     "ma_presence": false,
-    "hq": "Baltimore, MD"
+    "hq": "Baltimore, MD",
+    "website": "https://www.pipelineroad.com/"
   },
   "Innovation Endeavors": {
     "focus": [
@@ -1150,7 +1151,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.accelr8.com/"
   },
   "ACVC Partners": {
     "focus": [
@@ -1230,7 +1232,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://investor.avistacorp.com/"
   },
   "BDC Capital": {
     "focus": [
@@ -1949,7 +1952,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://up.partners/"
   },
   "Vale": {
     "focus": [
@@ -1957,7 +1961,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.vale.com/"
   },
   "Valo Ventures": {
     "focus": [
@@ -1965,7 +1970,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://valoventures.org/"
   },
   "Volta Circle": {
     "focus": [
@@ -1973,7 +1979,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.voltacircle.com/"
   },
   "VoLo Earth": {
     "focus": [
@@ -1981,7 +1988,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.voloearth.com/"
   },
   "Voyager Ventures": {
     "focus": [
@@ -1989,7 +1997,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://voyagerventures.com.au/"
   },
   "Zero Carbon Capital": {
     "focus": [
@@ -1997,7 +2006,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://zerocarbon.capital/"
   },
   "ZOMA Capital": {
     "focus": [
@@ -2005,7 +2015,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.zomalab.com/"
   },
   "DBL Partners": {
     "focus": [
@@ -2014,7 +2025,8 @@
       "green tech"
     ],
     "ma_presence": false,
-    "hq": "United States"
+    "hq": "United States",
+    "website": "https://www.dbl.vc/"
   },
   "/capital": {
     "focus": [
@@ -2035,14 +2047,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.186ventures.com/"
   },
   "2420 Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://nordic9.com/"
   },
   "3CC | Third Culture Capital": {
     "focus": [
@@ -2056,21 +2070,24 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://unicorn-nest.com/"
   },
   "82VS": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://82vs.com/"
   },
   "AMR Action Fund": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.amractionfund.com/"
   },
   "ATON Partners": {
     "focus": [
@@ -2084,14 +2101,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.abramscapital.com/"
   },
   "Accelr8": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.accelr8.com/"
   },
   "Aceso Biotech Venture Fund": {
     "focus": [
@@ -2126,35 +2145,40 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://angelspartners.com/"
   },
   "Allied Minds": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "http://www.alliedminds.com/"
   },
   "Alsora Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://aventure.vc/"
   },
   "Alta Communications": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.mycapital.com/"
   },
   "Angel Invest Boston": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.angelinvestboston.com/"
   },
   "Applied Equity": {
     "focus": [
@@ -2168,21 +2192,24 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://arbventures.in/"
   },
   "Archerman Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.archermancap.com/"
   },
   "Archimede Ventures, Inc.": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://unicorn-nest.com/"
   },
   "Arctaris Capital Partners": {
     "focus": [
@@ -2196,7 +2223,8 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.arena-cap.com/"
   },
   "Ascent Venture Partners": {
     "focus": [
@@ -2217,21 +2245,24 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://atreidesmgmt.com/"
   },
   "Audeo Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.audeocapital.com/"
   },
   "Aviv Growth Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://investorlist.com/"
   },
   "Avon Ventures": {
     "focus": [
@@ -2245,14 +2276,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.axiacap.co/"
   },
   "Axxon Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.mycapital.com/"
   },
   "BRC Innovation": {
     "focus": [
@@ -2266,14 +2299,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.futureback.vc/"
   },
   "Bain Capital Special Situations": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.baincapitalspecialsituations.com/"
   },
   "Bain Capital Tech Opportunities": {
     "focus": [
@@ -2287,7 +2322,8 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.mycapital.com/"
   },
   "BancBoston Ventures": {
     "focus": [
@@ -2301,42 +2337,48 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://barrington.partners/"
   },
   "Beacon Equity Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://investorlist.com/"
   },
   "Binney Street Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://inforcapital.com/"
   },
   "BioImpact Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://investorlist.com/"
   },
   "Biotechonomy": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.mycapital.com/"
   },
   "Birchaven Group": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.birchavengroup.com/"
   },
   "Black Coral Capital": {
     "focus": [
@@ -2350,42 +2392,48 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.blacklotus.vc/"
   },
   "Blade": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.bladecap.com/"
   },
   "Blindspot Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.blindspot.vc/"
   },
   "Blue Ivy Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://info.av.vc/"
   },
   "BlueHub Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://bluehubcapital.org/"
   },
   "BlueIO": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.blueio.co/"
   },
   "Bluwave Capital": {
     "focus": [
@@ -2406,7 +2454,8 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.mycapital.com/"
   },
   "Boston Medical Investors": {
     "focus": [
@@ -2420,49 +2469,56 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.bostonmillenniapartners.com/"
   },
   "Boston Seed Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://massinvestordatabase.com/"
   },
   "Boston Syndicates (BOSS)": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://dfkcompany.com/"
   },
   "Boston University Technology Development Fund": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.mycapital.com/"
   },
   "Boudica Capital, LLC": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://6sense.com/"
   },
   "Bramalea Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.bramaleapartners.com/"
   },
   "Breakaway Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://breakaway.com/"
   },
   "Breton Capital Management": {
     "focus": [
@@ -2490,14 +2546,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://broadviewventures.org/"
   },
   "Building Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://buildingventures.com/"
   },
   "Bullhorn Ventures": {
     "focus": [
@@ -2511,14 +2569,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.cgaa.org/"
   },
   "Byte Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://dealigence.vc/"
   },
   "CCC Alliance": {
     "focus": [
@@ -2553,14 +2613,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.venturedeal.com/"
   },
   "Capital Resource Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://crp.com/"
   },
   "Carom Growth Partners": {
     "focus": [
@@ -2588,7 +2650,8 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.chiesiventures.com/"
   },
   "Clearing": {
     "focus": [
@@ -2616,21 +2679,24 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.venturedeal.com/"
   },
   "CloudLock": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://parsers.vc/"
   },
   "CodeSignal": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://codesignal.com/"
   },
   "Codename Ventures": {
     "focus": [
@@ -2658,35 +2724,40 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.coherent.com/"
   },
   "Coin Metrics": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://coinmetrics.io/"
   },
   "Coindera": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "http://coindera.com/"
   },
   "Coinfund": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://coinfund.io/"
   },
   "Coingecko": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.coingecko.com/"
   },
   "Coinigy": {
     "focus": [
@@ -2714,14 +2785,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.coinvest.lt/"
   },
   "Coinvestor Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://investorlist.com/"
   },
   "Colateral": {
     "focus": [
@@ -2735,7 +2808,8 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.politicalcandidatedirectory.com/"
   },
   "Cold Brew Labs": {
     "focus": [
@@ -2749,14 +2823,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://colibriequity.vc/"
   },
   "Community Impact Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://communityimpact-ventures.com/"
   },
   "Companyon Ventures": {
     "focus": [
@@ -2777,21 +2853,24 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "http://creacionventures.com/"
   },
   "Cricetus Felix Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.cricetusfelix.com/"
   },
   "Cutlass Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.cutlasscapital.com/"
   },
   "CyberJunction": {
     "focus": [
@@ -2805,14 +2884,16 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://cybernetix.vc/"
   },
   "DHM Arcadia Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://aventure.vc/"
   },
   "DRADS Capital": {
     "focus": [
@@ -2847,49 +2928,56 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.gaebler.com/"
   },
   "DryErase Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://rocketreach.co/"
   },
   "EQx Fund": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.eqxfund.com/"
   },
   "Earlsfort Capital Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://earlsfortcapital.com/"
   },
   "East Hill Management": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.zoominfo.com/"
   },
   "Edible Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://aventure.vc/"
   },
   "EduLab Capital Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "http://edulabcapital.com/"
   },
   "Egan-Managed Capital": {
     "focus": [
@@ -2924,70 +3012,80 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://dfkcompany.com/"
   },
   "Equal Opportunity Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://investorlist.com/"
   },
   "Equality Asset Management": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.equalityassetmanagement.com/"
   },
   "Erez Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.erezcapital.io/"
   },
   "Essex Flagship Investors Group": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://massinvestordatabase.com/"
   },
   "Evans Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://evanscapital.com/"
   },
   "Eventide": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.eventideinvestments.com/"
   },
   "Excel Venture Management": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "http://www.excelvm.com/"
   },
   "Falcon III Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://unicorn-nest.com/"
   },
   "Federman Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.seedtable.com/"
   },
   "Fidelity Contrafund": {
     "focus": [
@@ -3001,7 +3099,8 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.volitioncapital.com/"
   },
   "Fine Structure Venture": {
     "focus": [
@@ -3022,21 +3121,24 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.firstlightinfra.com/"
   },
   "Food Retail Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://foodretailventures.com/"
   },
   "Formation Venture Engineering": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://vc-mapping.gilion.com/"
   },
   "FoundersEdge": {
     "focus": [
@@ -3050,77 +3152,88 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://contactout.com/"
   },
   "FourWinds Capital Management": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://mobile.next-finance.net/"
   },
   "FreeMind Investments": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.freemindinvestments.com/"
   },
   "Fullstack Sports Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://aventure.vc/"
   },
   "Fullstack Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://fullstackventures.substack.com/"
   },
   "Furneaux Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "http://furneauxcapital.squarespace.com/"
   },
   "GEN3 Capital Fund": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://crino.io/"
   },
   "GPVC": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://gp-vc.com/"
   },
   "Garrison": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://garrison.capital/"
   },
   "Gartmore Investment Management": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.mycapital.com/"
   },
   "Gasbuddy": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://dashboard.gasbuddybusiness.io/"
   },
   "Gen3 Partners": {
     "focus": [
@@ -3134,35 +3247,40 @@
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://adviserinfo.sec.gov/"
   },
   "Globespan Capital Partners": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.globespancapital.com/"
   },
   "Granite Point Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.visualvisitor.com/"
   },
   "GrayBella Capital": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://graybellacapital.com/"
   },
   "Green D Ventures": {
     "focus": [
       "venture capital"
     ],
     "ma_presence": true,
-    "hq": "Boston, MA"
+    "hq": "Boston, MA",
+    "website": "https://www.av.vc/"
   },
   "Green Ivy Ventures": {
     "focus": [
@@ -4997,7 +5115,7 @@
     "hq": "Unknown",
     "website": "https://www.keenventurepartners.com/"
   },
-  "L'Or\u00e9al Fund for Nature Regeneration": {
+  "L'Oréal Fund for Nature Regeneration": {
     "focus": [
       "unknown"
     ],

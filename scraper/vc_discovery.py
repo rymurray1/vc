@@ -16,8 +16,8 @@ from scraper import MultiScraper
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc-main" / "vc_tags.json"
-DEFAULT_FIRMS_PATH = Path(__file__).parent.parent / "vc-main" / "firms.json"
+DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc_tags.json"
+DEFAULT_FIRMS_PATH = Path(__file__).parent.parent / "firms.json"
 
 # Search queries to discover VCs across sectors and geographies
 DISCOVERY_QUERIES = [

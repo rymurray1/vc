@@ -15,7 +15,7 @@ from scraper import MultiScraper
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc-main" / "vc_tags.json"
+DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc_tags.json"
 
 # Domains that are never the VC's own website
 SKIP_DOMAINS = {

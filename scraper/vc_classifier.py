@@ -14,7 +14,7 @@ from scraper import MultiScraper
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc-main" / "vc_tags.json"
+DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc_tags.json"
 
 # Sector taxonomy — keywords that map to each sector
 SECTOR_KEYWORDS = {

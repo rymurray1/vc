@@ -22,9 +22,9 @@ from scraper.config import get_random_headers
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_FIRMS_PATH = Path(__file__).parent.parent / "vc-main" / "firms.json"
-DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc-main" / "vc_tags.json"
-DEFAULT_FOUNDERS_PATH = Path(__file__).parent.parent / "vc-main" / "founders.json"
+DEFAULT_FIRMS_PATH = Path(__file__).parent.parent / "firms.json"
+DEFAULT_VC_TAGS_PATH = Path(__file__).parent.parent / "vc_tags.json"
+DEFAULT_FOUNDERS_PATH = Path(__file__).parent.parent / "founders.json"
 
 # Common portfolio page paths to try on VC websites
 PORTFOLIO_PATHS = [
