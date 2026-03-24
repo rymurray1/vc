@@ -18,6 +18,10 @@ BACKOFF_MAX = 10  # Max backoff in seconds (was 30 — too slow)
 # HTTP settings
 CONNECT_TIMEOUT = 8
 READ_TIMEOUT = 10
+
+# Tor proxy (install: sudo apt install tor && sudo systemctl start tor)
+# Set to None to disable, or "socks5://127.0.0.1:9050" to enable
+TOR_PROXY = "socks5://127.0.0.1:9050"
 NUM_RESULTS = 10
 
 # Google search URL

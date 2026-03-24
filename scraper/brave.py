@@ -16,6 +16,7 @@ from scraper.config import (
     READ_TIMEOUT,
     NUM_RESULTS,
     MAX_RETRIES,
+    TOR_PROXY,
     get_random_headers,
     get_random_delay,
     get_backoff_delay,
@@ -45,10 +46,14 @@ class BraveScraper:
             try:
                 headers = get_random_headers()
 
-                with httpx.Client(
-                    timeout=httpx.Timeout(CONNECT_TIMEOUT, read=READ_TIMEOUT),
-                    follow_redirects=True,
-                ) as client:
+                client_kwargs = {
+                    "timeout": httpx.Timeout(CONNECT_TIMEOUT, read=READ_TIMEOUT),
+                    "follow_redirects": True,
+                }
+                if TOR_PROXY:
+                    client_kwargs["proxy"] = TOR_PROXY
+
+                with httpx.Client(**client_kwargs) as client:
                     response = client.get(url, headers=headers)
 
                 self._last_request_time = time.time()
