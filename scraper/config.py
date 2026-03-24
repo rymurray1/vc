@@ -6,18 +6,18 @@ Rate limits, user agents, retry settings.
 import random
 
 # Request timing
-MIN_DELAY = 2.0  # Minimum seconds between requests
-MAX_DELAY = 4.0  # Maximum seconds between requests
-MULTI_QUERY_DELAY = 0.5  # Delay between multi-strategy queries for same company
+MIN_DELAY = 4.0  # Minimum seconds between requests (higher = less rate limiting)
+MAX_DELAY = 7.0  # Maximum seconds between requests
+MULTI_QUERY_DELAY = 1.0  # Delay between multi-strategy queries for same company
 
 # Retry settings
-MAX_RETRIES = 5
+MAX_RETRIES = 2  # Fail fast, don't waste time on retries — the fallback engine will try
 BACKOFF_BASE = 2  # Exponential backoff base (2^retry seconds)
-BACKOFF_MAX = 30  # Max backoff in seconds
+BACKOFF_MAX = 10  # Max backoff in seconds (was 30 — too slow)
 
 # HTTP settings
-CONNECT_TIMEOUT = 10
-READ_TIMEOUT = 15
+CONNECT_TIMEOUT = 8
+READ_TIMEOUT = 10
 NUM_RESULTS = 10
 
 # Google search URL
